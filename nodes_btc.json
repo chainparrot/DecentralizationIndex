@@ -1,9 +1,13 @@
 [
   {
-    "timestamp": "2022-08-20 13:25:53",
-    "nodes": 13853,
-    "difference": -171,
-    "percentage": -1.22,
-    "retrieved": "2022-08-20 13:31:54"
+    "name": "Bitcoin",
+    "Symbol": "BTC",
+    "timestamp": "2022-08-20 14:51:11",
+    "validators": 0,
+    "nodes": 14701,
+    "total": 14701,
+    "difference": -24,
+    "percentage": -0.16,
+    "retrieved": "2022-08-20 14:53:18"
   }
 ]

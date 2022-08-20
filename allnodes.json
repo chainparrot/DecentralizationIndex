@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ethereum",
+    "Symbol": "ETH",
+    "timestamp": "2022-08-20 14:53:18",
+    "validators": 416194,
+    "nodes": 0,
+    "total": 416194,
+    "difference": 0,
+    "percentage": 0,
+    "rank": 1,
+    "created": "2022-08-20 14:53:18"
+  },
+  {
+    "name": "Bitcoin",
+    "Symbol": "BTC",
+    "timestamp": "2022-08-20 14:51:11",
+    "validators": 0,
+    "nodes": 14701,
+    "total": 14701,
+    "difference": -24,
+    "percentage": -0.16,
+    "retrieved": "2022-08-20 14:53:18",
+    "rank": 2,
+    "created": "2022-08-20 14:53:18"
+  }
+]
