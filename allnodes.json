@@ -2,34 +2,34 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-08-20 18:01:14",
-    "validators": 416238,
-    "nodes": 10498,
-    "total": 426736,
+    "timestamp": "2022-08-21 00:02:40",
+    "validators": 416256,
+    "nodes": 10381,
+    "total": 426637,
     "difference": 0,
     "percentage": 0,
     "source": "https://etherscan.io/nodetracker",
     "rank": 1,
-    "created": "2022-08-20 18:01:14"
+    "created": "2022-08-21 00:02:41"
   },
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-20 18:00:13",
+    "timestamp": "2022-08-20 23:56:52",
     "validators": 0,
-    "nodes": 14978,
-    "total": 14978,
-    "difference": -49,
-    "percentage": -0.33,
+    "nodes": 12967,
+    "total": 12967,
+    "difference": 98,
+    "percentage": 0.76,
     "source": "https://bitnodes.io/api/v1/snapshots/",
-    "retrieved": "2022-08-20 18:01:13",
+    "retrieved": "2022-08-21 00:02:30",
     "rank": 2,
-    "created": "2022-08-20 18:01:14"
+    "created": "2022-08-21 00:02:41"
   },
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-08-20 18:01:14",
+    "timestamp": "2022-08-21 00:02:41",
     "validators": 21,
     "nodes": 0,
     "total": 21,
@@ -37,6 +37,6 @@
     "percentage": 0,
     "source": "https://www.bnbchain.org/en/staking",
     "rank": 3,
-    "created": "2022-08-20 18:01:14"
+    "created": "2022-08-21 00:02:41"
   }
 ]
