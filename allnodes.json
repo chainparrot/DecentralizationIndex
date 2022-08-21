@@ -2,41 +2,54 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-08-21 06:01:24",
-    "validators": 416256,
+    "timestamp": "2022-08-21 06:44:56",
+    "validators": 416270,
     "nodes": 10381,
-    "total": 426637,
+    "total": 426651,
     "difference": 0,
     "percentage": 0,
     "source": "https://etherscan.io/nodetracker",
     "rank": 1,
-    "created": "2022-08-21 06:01:24"
+    "created": "2022-08-21 06:44:57"
   },
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-21 05:56:56",
+    "timestamp": "2022-08-21 06:41:55",
     "validators": 0,
-    "nodes": 11133,
-    "total": 11133,
-    "difference": -10,
-    "percentage": -0.09,
+    "nodes": 11033,
+    "total": 11033,
+    "difference": -1,
+    "percentage": -0.01,
     "source": "https://bitnodes.io/api/v1/snapshots/",
-    "retrieved": "2022-08-21 06:01:22",
+    "retrieved": "2022-08-21 06:44:55",
     "rank": 2,
-    "created": "2022-08-21 06:01:24"
+    "created": "2022-08-21 06:44:57"
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "timestamp": "2022-08-21 06:44:57",
+    "validators": 1265,
+    "nodes": 0,
+    "total": 1265,
+    "difference": 0,
+    "percentage": 0,
+    "source": "https://avascan.info/api/v1/home/statistics",
+    "rank": 3,
+    "created": "2022-08-21 06:44:57"
   },
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-08-21 06:01:24",
+    "timestamp": "2022-08-21 06:44:57",
     "validators": 21,
     "nodes": 0,
     "total": 21,
     "difference": 0,
     "percentage": 0,
     "source": "https://www.bnbchain.org/en/staking",
-    "rank": 3,
-    "created": "2022-08-21 06:01:24"
+    "rank": 4,
+    "created": "2022-08-21 06:44:57"
   }
 ]

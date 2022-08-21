@@ -2,13 +2,13 @@
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-21 05:56:56",
+    "timestamp": "2022-08-21 06:41:55",
     "validators": 0,
-    "nodes": 11133,
-    "total": 11133,
-    "difference": -10,
-    "percentage": -0.09,
+    "nodes": 11033,
+    "total": 11033,
+    "difference": -1,
+    "percentage": -0.01,
     "source": "https://bitnodes.io/api/v1/snapshots/",
-    "retrieved": "2022-08-21 06:01:22"
+    "retrieved": "2022-08-21 06:44:55"
   }
 ]
