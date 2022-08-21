@@ -2,13 +2,17 @@
   {
     "name": "Bitcoin Cash",
     "symbol": "BCH",
-    "timestamp": "2022-08-21 13:57:38",
+    "timestamp": "2022-08-21 14:40:19",
     "validators": 0,
-    "nodes": 828,
-    "total": 828,
-    "difference": 0,
-    "percentage": 0,
+    "nodes": 837,
+    "total": 837,
     "source": "https://cashnodes.io/",
-    "market_cap_rank": 31
+    "market_cap_rank": 31,
+    "nodediff": 1,
+    "nodediffper": 0.12,
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 1,
+    "totaldiffper": 0.12
   }
 ]
