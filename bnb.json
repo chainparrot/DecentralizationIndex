@@ -2,12 +2,13 @@
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-08-21 09:31:05",
+    "timestamp": "2022-08-21 10:00:18",
     "validators": 21,
     "nodes": 0,
     "total": 21,
     "difference": 0,
     "percentage": 0,
-    "source": "https://www.bnbchain.org/en/staking"
+    "source": "https://www.bnbchain.org/en/staking",
+    "market_cap_rank": 5
   }
 ]

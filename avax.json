@@ -2,12 +2,13 @@
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2022-08-21 09:31:05",
+    "timestamp": "2022-08-21 10:00:19",
     "validators": 1264,
     "nodes": 0,
     "total": 1264,
     "difference": 0,
     "percentage": 0,
-    "source": "https://avascan.info"
+    "source": "https://avascan.info",
+    "market_cap_rank": 15
   }
 ]
