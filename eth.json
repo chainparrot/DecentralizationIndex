@@ -2,7 +2,7 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-08-21 18:01:55",
+    "timestamp": "2022-08-21 23:37:19",
     "validators": 416355,
     "nodes": 10381,
     "total": 426736,
@@ -10,9 +10,9 @@
     "market_cap_rank": 2,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 14,
-    "validatordiffper": 0.0,
-    "totaldiff": 14,
-    "totaldiffper": 0.0
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
