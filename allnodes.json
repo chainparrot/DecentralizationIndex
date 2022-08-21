@@ -2,50 +2,50 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-08-21 11:29:58",
-    "validators": 416306,
+    "timestamp": "2022-08-21 11:50:00",
+    "validators": 416324,
     "nodes": 10381,
-    "total": 426687,
+    "total": 426705,
     "difference": 0,
     "percentage": 0,
     "source": "https://beaconcha.in",
     "market_cap_rank": 2,
     "rank": 1,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   },
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-21 11:23:41",
+    "timestamp": "2022-08-21 11:44:03",
     "validators": 0,
-    "nodes": 12302,
-    "total": 12302,
-    "difference": 40,
-    "percentage": 0.33,
+    "nodes": 12583,
+    "total": 12583,
+    "difference": 58,
+    "percentage": 0.46,
     "source": "https://bitnodes.io",
-    "retrieved": "2022-08-21 11:29:57",
+    "retrieved": "2022-08-21 11:50:00",
     "market_cap_rank": 1,
     "rank": 2,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   },
   {
     "name": "Solana",
     "symbol": "SOL",
-    "timestamp": "2022-08-21 11:30:03",
-    "validators": 1930,
+    "timestamp": "2022-08-21 11:50:06",
+    "validators": 1927,
     "nodes": 0,
-    "total": 1930,
+    "total": 1927,
     "difference": 0,
     "percentage": 0,
     "source": "https://www.validators.app",
     "market_cap_rank": 9,
     "rank": 3,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   },
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2022-08-21 11:29:59",
+    "timestamp": "2022-08-21 11:50:02",
     "validators": 1264,
     "nodes": 0,
     "total": 1264,
@@ -54,12 +54,12 @@
     "source": "https://avascan.info",
     "market_cap_rank": 15,
     "rank": 4,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   },
   {
     "name": "Ripple",
     "symbol": "XRP",
-    "timestamp": "2022-08-21 11:30:04",
+    "timestamp": "2022-08-21 11:50:08",
     "validators": 140,
     "nodes": 743,
     "total": 883,
@@ -68,12 +68,12 @@
     "source": "https://livenet.xrpl.org/",
     "market_cap_rank": 7,
     "rank": 5,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   },
   {
     "name": "Polkadot",
     "symbol": "POL",
-    "timestamp": "2022-08-21 11:30:04",
+    "timestamp": "2022-08-21 11:50:07",
     "validators": 297,
     "nodes": 0,
     "total": 297,
@@ -82,12 +82,12 @@
     "source": "https://polkadot.subscan.io/",
     "market_cap_rank": 11,
     "rank": 6,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   },
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-08-21 11:29:59",
+    "timestamp": "2022-08-21 11:50:01",
     "validators": 21,
     "nodes": 0,
     "total": 21,
@@ -96,6 +96,6 @@
     "source": "https://www.bnbchain.org/en/staking",
     "market_cap_rank": 5,
     "rank": 7,
-    "created": "2022-08-21 11:30:04"
+    "created": "2022-08-21 11:50:08"
   }
 ]
