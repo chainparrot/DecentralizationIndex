@@ -2,7 +2,7 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-08-21 06:44:56",
+    "timestamp": "2022-08-21 07:34:55",
     "validators": 416270,
     "nodes": 10381,
     "total": 426651,
@@ -10,46 +10,59 @@
     "percentage": 0,
     "source": "https://etherscan.io/nodetracker",
     "rank": 1,
-    "created": "2022-08-21 06:44:57"
+    "created": "2022-08-21 07:35:01"
   },
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-21 06:41:55",
+    "timestamp": "2022-08-21 07:32:52",
     "validators": 0,
-    "nodes": 11033,
-    "total": 11033,
-    "difference": -1,
-    "percentage": -0.01,
+    "nodes": 11384,
+    "total": 11384,
+    "difference": 348,
+    "percentage": 3.15,
     "source": "https://bitnodes.io/api/v1/snapshots/",
-    "retrieved": "2022-08-21 06:44:55",
+    "retrieved": "2022-08-21 07:34:54",
     "rank": 2,
-    "created": "2022-08-21 06:44:57"
+    "created": "2022-08-21 07:35:01"
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "timestamp": "2022-08-21 07:35:01",
+    "validators": 1928,
+    "nodes": 0,
+    "total": 1928,
+    "difference": 0,
+    "percentage": 0,
+    "source": "https://www.validators.app/api/v1/validators/mainnet.json",
+    "rank": 3,
+    "created": "2022-08-21 07:35:01"
   },
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2022-08-21 06:44:57",
-    "validators": 1265,
+    "timestamp": "2022-08-21 07:34:57",
+    "validators": 1264,
     "nodes": 0,
-    "total": 1265,
+    "total": 1264,
     "difference": 0,
     "percentage": 0,
     "source": "https://avascan.info/api/v1/home/statistics",
-    "rank": 3,
-    "created": "2022-08-21 06:44:57"
+    "rank": 4,
+    "created": "2022-08-21 07:35:01"
   },
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-08-21 06:44:57",
+    "timestamp": "2022-08-21 07:34:57",
     "validators": 21,
     "nodes": 0,
     "total": 21,
     "difference": 0,
     "percentage": 0,
     "source": "https://www.bnbchain.org/en/staking",
-    "rank": 4,
-    "created": "2022-08-21 06:44:57"
+    "rank": 5,
+    "created": "2022-08-21 07:35:01"
   }
 ]
