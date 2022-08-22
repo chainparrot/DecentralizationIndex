@@ -1,18 +1,12 @@
 [
   {
-    "name": "FLOW",
+    "name": "Flow",
     "symbol": "FLOW",
-    "timestamp": "2022-08-22 03:36:44",
+    "timestamp": "2022-08-22 04:21:45",
     "validators": 422,
     "nodes": 0,
     "total": 422,
     "source": "https://flowscan.org/staking/overview",
-    "market_cap_rank": 32,
-    "nodediff": 0,
-    "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "market_cap_rank": 32
   }
 ]
