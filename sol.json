@@ -2,7 +2,7 @@
   {
     "name": "Solana",
     "symbol": "SOL",
-    "timestamp": "2022-08-22 03:31:23",
+    "timestamp": "2022-08-22 03:36:23",
     "validators": 1936,
     "nodes": 0,
     "total": 1936,
@@ -10,9 +10,9 @@
     "market_cap_rank": 9,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 2,
-    "validatordiffper": 0.1,
-    "totaldiff": 2,
-    "totaldiffper": 0.1
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
