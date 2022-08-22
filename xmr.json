@@ -2,7 +2,7 @@
   {
     "name": "Monero",
     "symbol": "XMR",
-    "timestamp": "2022-08-22 13:18:05",
+    "timestamp": "2022-08-22 13:43:22",
     "validators": 2009,
     "nodes": 0,
     "total": 2009,
@@ -10,9 +10,9 @@
     "market_cap_rank": 29,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -19,
-    "validatordiffper": -0.94,
-    "totaldiff": -19,
-    "totaldiffper": -0.94
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
