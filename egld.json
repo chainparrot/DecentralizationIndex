@@ -2,17 +2,17 @@
   {
     "name": "Elrond",
     "symbol": "EGLD",
-    "timestamp": "2022-08-23 10:53:52",
-    "validators": 3183,
+    "timestamp": "2022-08-23 11:05:28",
+    "validators": 3182,
     "nodes": 0,
-    "total": 3183,
+    "total": 3182,
     "source": "https://elrondscan.com/validators",
     "market_cap_rank": 49,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 1,
-    "validatordiffper": 0.03,
-    "totaldiff": 1,
-    "totaldiffper": 0.03
+    "validatordiff": -1,
+    "validatordiffper": -0.03,
+    "totaldiff": -1,
+    "totaldiffper": -0.03
   }
 ]
