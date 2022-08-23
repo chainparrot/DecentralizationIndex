@@ -2,7 +2,7 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-08-23 11:41:29",
+    "timestamp": "2022-08-23 10:44:48",
     "validators": 416471,
     "nodes": 10863,
     "total": 427334,
@@ -15,31 +15,31 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 1,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-23 11:39:35",
+    "timestamp": "2022-08-23 10:39:35",
     "validators": 0,
     "nodes": 14224,
     "total": 14224,
     "source": "https://bitnodes.io",
-    "retrieved": "2022-08-23 03:41:05",
+    "retrieved": "2022-08-23 03:44:26",
     "market_cap_rank": 1,
-    "nodediff": 13,
-    "nodediffper": 0.09,
+    "nodediff": 0,
+    "nodediffper": 0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 13,
-    "totaldiffper": 0.09,
+    "totaldiff": 0,
+    "totaldiffper": 0,
     "rank": 2,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Zcash",
     "symbol": "ZEC",
-    "timestamp": "2022-08-23 11:41:40",
+    "timestamp": "2022-08-23 10:41:40",
     "validators": 0,
     "nodes": 8417,
     "total": 8417,
@@ -52,12 +52,12 @@
     "totaldiff": -15,
     "totaldiffper": -0.18,
     "rank": 3,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Filecoin",
     "symbol": "FIL",
-    "timestamp": "2022-08-23 11:41:35",
+    "timestamp": "2022-08-23 10:44:55",
     "validators": 0,
     "nodes": 4071,
     "total": 4071,
@@ -70,12 +70,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 4,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Theta",
     "symbol": "THETA",
-    "timestamp": "2022-08-23 11:41:20",
+    "timestamp": "2022-08-23 10:44:40",
     "validators": 3340,
     "nodes": 0,
     "total": 3340,
@@ -88,12 +88,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 5,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Cardano",
     "symbol": "ADA",
-    "timestamp": "2022-08-23 11:41:19",
+    "timestamp": "2022-08-23 10:44:40",
     "validators": 3195,
     "nodes": 0,
     "total": 3195,
@@ -106,12 +106,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 6,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Elrond",
     "symbol": "EGLD",
-    "timestamp": "2022-08-23 11:41:12",
+    "timestamp": "2022-08-23 10:44:32",
     "validators": 3182,
     "nodes": 0,
     "total": 3182,
@@ -124,12 +124,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 7,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Monero",
     "symbol": "XMR",
-    "timestamp": "2022-08-23 11:41:17",
+    "timestamp": "2022-08-23 10:44:38",
     "validators": 2003,
     "nodes": 0,
     "total": 2003,
@@ -142,30 +142,30 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 8,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Solana",
     "symbol": "SOL",
-    "timestamp": "2022-08-23 11:41:01",
-    "validators": 1921,
+    "timestamp": "2022-08-23 10:44:21",
+    "validators": 1922,
     "nodes": 0,
-    "total": 1921,
+    "total": 1922,
     "source": "https://www.validators.app",
     "market_cap_rank": 9,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0,
+    "validatordiff": 1,
+    "validatordiffper": 0.05,
+    "totaldiff": 1,
+    "totaldiffper": 0.05,
     "rank": 9,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2022-08-23 11:40:46",
+    "timestamp": "2022-08-23 10:44:07",
     "validators": 1262,
     "nodes": 0,
     "total": 1262,
@@ -178,30 +178,30 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 10,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Litecoin",
     "symbol": "LTC",
-    "timestamp": "2022-08-23 11:40:42",
+    "timestamp": "2022-08-23 10:44:05",
     "validators": 0,
     "nodes": 1124,
     "total": 1124,
     "source": "https://blockchair.com/en/litecoin/nodes",
     "market_cap_rank": 22,
-    "nodediff": -1,
-    "nodediffper": -0.09,
+    "nodediff": 0,
+    "nodediffper": 0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -1,
-    "totaldiffper": -0.09,
+    "totaldiff": 0,
+    "totaldiffper": 0,
     "rank": 11,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Dogecoin",
     "symbol": "DOGE",
-    "timestamp": "2022-08-23 11:41:28",
+    "timestamp": "2022-08-23 10:44:47",
     "validators": 0,
     "nodes": 1035,
     "total": 1035,
@@ -214,12 +214,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 12,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Ripple",
     "symbol": "XRP",
-    "timestamp": "2022-08-23 11:41:18",
+    "timestamp": "2022-08-23 10:44:38",
     "validators": 140,
     "nodes": 749,
     "total": 889,
@@ -232,12 +232,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 13,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Bitcoin Cash",
     "symbol": "BCH",
-    "timestamp": "2022-08-23 11:41:39",
+    "timestamp": "2022-08-23 10:41:39",
     "validators": 0,
     "nodes": 833,
     "total": 833,
@@ -250,12 +250,12 @@
     "totaldiff": 1,
     "totaldiffper": 0.12,
     "rank": 14,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Internet Computer",
     "symbol": "ICP",
-    "timestamp": "2022-08-23 11:40:45",
+    "timestamp": "2022-08-23 10:44:07",
     "validators": 0,
     "nodes": 518,
     "total": 518,
@@ -268,12 +268,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 15,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Flow",
     "symbol": "FLOW",
-    "timestamp": "2022-08-23 11:41:05",
+    "timestamp": "2022-08-23 10:44:25",
     "validators": 422,
     "nodes": 0,
     "total": 422,
@@ -286,12 +286,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 16,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Tezos",
     "symbol": "XTZ",
-    "timestamp": "2022-08-23 11:40:55",
+    "timestamp": "2022-08-23 10:44:16",
     "validators": 403,
     "nodes": 0,
     "total": 403,
@@ -304,30 +304,30 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 17,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "IOTA",
     "symbol": "MIOTA",
-    "timestamp": "2022-08-23 11:40:41",
+    "timestamp": "2022-08-23 10:44:05",
     "validators": 0,
-    "nodes": 392,
-    "total": 392,
+    "nodes": 393,
+    "total": 393,
     "source": "https://thetangle.org/nodes",
     "market_cap_rank": 63,
-    "nodediff": -5,
-    "nodediffper": -1.26,
+    "nodediff": 1,
+    "nodediffper": 0.26,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -5,
-    "totaldiffper": -1.26,
+    "totaldiff": 1,
+    "totaldiffper": 0.26,
     "rank": 18,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Algorand",
     "symbol": "ALGO",
-    "timestamp": "2022-08-23 11:40:36",
+    "timestamp": "2022-08-23 10:43:56",
     "validators": 391,
     "nodes": 0,
     "total": 391,
@@ -340,12 +340,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 19,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Polkadot",
     "symbol": "POL",
-    "timestamp": "2022-08-23 11:41:19",
+    "timestamp": "2022-08-23 10:44:39",
     "validators": 297,
     "nodes": 0,
     "total": 297,
@@ -358,12 +358,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 20,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Cosmos",
     "symbol": "ATOM",
-    "timestamp": "2022-08-23 11:40:48",
+    "timestamp": "2022-08-23 10:44:11",
     "validators": 175,
     "nodes": 0,
     "total": 175,
@@ -376,12 +376,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 21,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "VeChain",
     "symbol": "VET",
-    "timestamp": "2022-08-23 11:40:34",
+    "timestamp": "2022-08-23 10:43:55",
     "validators": 101,
     "nodes": 0,
     "total": 101,
@@ -394,12 +394,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 22,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Near",
     "symbol": "NEAR",
-    "timestamp": "2022-08-23 11:40:44",
+    "timestamp": "2022-08-23 10:44:06",
     "validators": 100,
     "nodes": 0,
     "total": 100,
@@ -412,12 +412,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 23,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Stellar",
     "symbol": "XLM",
-    "timestamp": "2022-08-23 11:41:41",
+    "timestamp": "2022-08-23 10:41:41",
     "validators": 85,
     "nodes": 0,
     "total": 85,
@@ -430,12 +430,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 24,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Fantom",
     "symbol": "FTM",
-    "timestamp": "2022-08-23 11:41:27",
+    "timestamp": "2022-08-23 10:44:46",
     "validators": 76,
     "nodes": 0,
     "total": 76,
@@ -448,12 +448,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 25,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Helium",
     "symbol": "HNT",
-    "timestamp": "2022-08-23 11:41:30",
+    "timestamp": "2022-08-23 10:44:48",
     "validators": 43,
     "nodes": 0,
     "total": 43,
@@ -466,12 +466,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 26,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Tron",
     "symbol": "TRX",
-    "timestamp": "2022-08-23 11:40:32",
+    "timestamp": "2022-08-23 10:43:54",
     "validators": 27,
     "nodes": 0,
     "total": 27,
@@ -484,12 +484,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 27,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Hedera",
     "symbol": "HBAR",
-    "timestamp": "2022-08-23 11:40:52",
+    "timestamp": "2022-08-23 10:44:15",
     "validators": 26,
     "nodes": 0,
     "total": 26,
@@ -502,12 +502,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 28,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "Bitcoin SV",
     "symbol": "BSV",
-    "timestamp": "2022-08-23 11:41:13",
+    "timestamp": "2022-08-23 10:44:34",
     "validators": 0,
     "nodes": 22,
     "total": 22,
@@ -520,12 +520,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 29,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "EOS",
     "symbol": "EOS",
-    "timestamp": "2022-08-23 11:40:35",
+    "timestamp": "2022-08-23 10:43:55",
     "validators": 21,
     "nodes": 0,
     "total": 21,
@@ -538,12 +538,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 30,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-08-23 11:40:56",
+    "timestamp": "2022-08-23 10:44:17",
     "validators": 21,
     "nodes": 0,
     "total": 21,
@@ -556,12 +556,12 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 31,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   },
   {
     "name": "KuCoin",
     "symbol": "KCS",
-    "timestamp": "2022-08-23 11:40:47",
+    "timestamp": "2022-08-23 10:44:09",
     "validators": 11,
     "nodes": 0,
     "total": 11,
@@ -574,6 +574,6 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 32,
-    "created": "2022-08-23 03:41:42"
+    "created": "2022-08-23 03:45:01"
   }
 ]
