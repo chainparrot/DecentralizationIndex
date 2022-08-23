@@ -2,7 +2,7 @@
   {
     "name": "Stellar",
     "symbol": "XLM",
-    "timestamp": "2022-08-23 02:19:17",
+    "timestamp": "2022-08-23 10:12:38",
     "validators": 85,
     "nodes": 0,
     "total": 85,
@@ -10,9 +10,9 @@
     "market_cap_rank": 30,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -1,
-    "validatordiffper": -1.16,
-    "totaldiff": -1,
-    "totaldiffper": -1.16
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]

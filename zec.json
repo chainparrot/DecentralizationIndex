@@ -2,17 +2,17 @@
   {
     "name": "Zcash",
     "symbol": "ZEC",
-    "timestamp": "2022-08-23 02:19:38",
+    "timestamp": "2022-08-23 10:12:02",
     "validators": 0,
-    "nodes": 8458,
-    "total": 8458,
+    "nodes": 8321,
+    "total": 8321,
     "source": "https://blockchair.com/zcash/nodes",
     "market_cap_rank": 60,
-    "nodediff": 12,
-    "nodediffper": 0.14,
+    "nodediff": 0,
+    "nodediffper": 0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 12,
-    "totaldiffper": 0.14
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
