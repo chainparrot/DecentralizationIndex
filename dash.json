@@ -2,17 +2,17 @@
   {
     "name": "DASH",
     "symbol": "DASH",
-    "timestamp": "2022-08-23 18:08:47",
+    "timestamp": "2022-08-24 02:29:30",
     "validators": 0,
-    "nodes": 20,
-    "total": 20,
+    "nodes": 23,
+    "total": 23,
     "source": "https://explorer.dash.org/",
     "market_cap_rank": 89,
-    "nodediff": -7,
-    "nodediffper": -25.93,
+    "nodediff": 3,
+    "nodediffper": 15.0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -7,
-    "totaldiffper": -25.93
+    "totaldiff": 3,
+    "totaldiffper": 15.0
   }
 ]
