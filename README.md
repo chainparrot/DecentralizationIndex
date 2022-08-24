@@ -41,6 +41,35 @@ Metrics to measure consensus decentralization: Gini coefficient, Shannon entropy
 
 - Fragmentation of control over the network, manifested in the security and fairness of a network system.
 - Depicts decentralization in the underlying blockchain peerto-peer network infrastructure, such as how users communicate with the network and how nodes communicate with each other.
+
+Metrics to measure network decentralization: Geographical distribution of nodes.
+
+3. Wealth Decentralization:
+
+- the evenness in the distribution of wealth in the blockchain literature.
+- captures the decentralization of monetary assets in tokens and native cryptocurrencies distributed across blockchain users.
+
+Metrics to measure wealth decentralization: Gini coefficient.
+
+4. Governance Decentralization:
+
+- the means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to which they jointly contribute.
+- the extent to which control over the blockchain is shared between platform owners and participants.
+- a fully decentralized governance structure where platform users collectively have full governance control and can represent their perspectives.
+- the decentralization of ownership and decisionmaking power on blockchain platforms and how they are shared between owners and participants.
+
+5. Transaction Decentralization
+
+- when all financial assets in a given market are traded in multiple coexisting and interconnected trading venues.
+- proportion of transactions conducted by the top nodes in value transacted.
+- the evenness in the distribution of transactions across users of a blockchain.
+
+
+
+
+
+
+
  
  
  
