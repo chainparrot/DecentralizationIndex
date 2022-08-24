@@ -20,6 +20,5 @@ In light of the existing blockchain decentralization literature and to comprehen
 3 layers
 
 1. Infrastructure: The infrastructure layer consists of data, network, and consensus layers that include the collection of data into blocks, the communication model (distributed networking, data forwarding, and verification), and the consensus mechanism (e.g. PoW, DPoS).
-the communication model (distributed networking, data forwarding, and verification), and the consensus mechanism (e.g. PoW, DPoS).
 2. Incentive: The incentive layer consists of economic rewards to the blockchain system, including incentive mechanisms of the block creation process and token/asset distribution.
 3. Application: The application layer consists of contract and application layers that include smart contracts, algorithms, and mechanisms that are used to facilitate high-level applications built on top of the blockchain system and all blockchain use cases, such as DeFi.
