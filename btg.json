@@ -2,17 +2,17 @@
   {
     "name": "Bitcoin Gold",
     "symbol": "BTG",
-    "timestamp": "2022-08-24 02:29:22",
+    "timestamp": "2022-08-24 04:10:56",
     "validators": 0,
-    "nodes": 10,
-    "total": 10,
+    "nodes": 14,
+    "total": 14,
     "source": "https://explorer.bitcoingold.org/insight/status",
-    "market_cap_rank": 97,
-    "nodediff": -3,
-    "nodediffper": -23.08,
+    "market_cap_rank": 96,
+    "nodediff": 4,
+    "nodediffper": 40.0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -3,
-    "totaldiffper": -23.08
+    "totaldiff": 4,
+    "totaldiffper": 40.0
   }
 ]

@@ -2,7 +2,7 @@
   {
     "name": "Algorand",
     "symbol": "ALGO",
-    "timestamp": "2022-08-24 02:27:24",
+    "timestamp": "2022-08-24 04:08:45",
     "validators": 388,
     "nodes": 0,
     "total": 388,
@@ -10,9 +10,9 @@
     "market_cap_rank": 33,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -3,
-    "validatordiffper": -0.77,
-    "totaldiff": -3,
-    "totaldiffper": -0.77
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
