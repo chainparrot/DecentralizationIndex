@@ -2,17 +2,17 @@
   {
     "name": "The Graph",
     "symbol": "GRT",
-    "timestamp": "2022-08-24 08:26:08",
-    "validators": 169,
+    "timestamp": "2022-08-24 18:14:34",
+    "validators": 168,
     "nodes": 0,
-    "total": 169,
+    "total": 168,
     "source": "https://thegraph.com/explorer/network",
-    "market_cap_rank": 60,
+    "market_cap_rank": 59,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": -1,
+    "validatordiffper": -0.59,
+    "totaldiff": -1,
+    "totaldiffper": -0.59
   }
 ]
