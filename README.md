@@ -1,4 +1,4 @@
-# BlockchainNodes
+# DecentralizationIndex
 Blockchains by Number of Nodes / Validators.
 
 My notes from SoK: Blockchain Decentralization (https://arxiv.org/pdf/2205.04256.pdf)
