@@ -64,15 +64,27 @@ Metrics to measure wealth decentralization: Gini coefficient.
 - proportion of transactions conducted by the top nodes in value transacted.
 - the evenness in the distribution of transactions across users of a blockchain.
 
+In reality, most blockchain projects have a “foundation” or community of developers that have disproportionate levels of influence on decision making and governing.
+
+..blockchains are often subject to a few parties who actually operate the system.
+
+..market capitalization often has a U-shaped relationship with governance decentralization, where the best market performance is associated with a middle level of decentralization.
+
+The Nakamoto coefficient is defined as the number of entities in a given subsystem that is required to reach 51% of the total capacity.
+
+..Bitcoin is 12% more decentralized than Ethereum in terms of mining power and 9% more decentralized in terms of wealth.
+
+..both Bitcoin and Ethereum networks have a few mining pools that govern the whole network and therefore tend to behave like centralized systems.
+
+..the prevalence of voting collusion on DPoS-based blockchains that lead to centralization.
+
+To fill the gap in the literature on the decentralization of transactions, we propose a new index based on Shannon entropy, which is often used to measure decentralization in areas such as consensus decentralization. The index is adapted from Shannon entropy to measure the degree of randomness in the distribution of transactions with, a higher value indicating more disorder in the distribution and more decentralization and a lower value of entropy indicating less disorder and more centralization.
+
+value of each transaction..
+weight of each transaction..
 
 
+..Governance Tokens: tokens that developers create to allow token holders to influence governance decisions in a blockchain system, usually representing voting power in a DeFi protocol.
 
-
-
-
- 
- 
- 
- 
-
+..tokens with a higher TVL ranking tend to be more decentralized. This again shows that tokens with greater market demand and utilization tend to be more decentralized.
 
