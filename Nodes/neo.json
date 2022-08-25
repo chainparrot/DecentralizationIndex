@@ -2,17 +2,17 @@
   {
     "name": "NEO",
     "symbol": "NEO",
-    "timestamp": "2022-08-24 18:15:17",
+    "timestamp": "2022-08-25 02:51:41",
     "validators": 0,
-    "nodes": 9,
-    "total": 9,
+    "nodes": 10,
+    "total": 10,
     "source": "https://dora.coz.io/monitor",
-    "market_cap_rank": 72,
-    "nodediff": -1,
-    "nodediffper": -10.0,
+    "market_cap_rank": 73,
+    "nodediff": 1,
+    "nodediffper": 11.11,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -1,
-    "totaldiffper": -10.0
+    "totaldiff": 1,
+    "totaldiffper": 11.11
   }
 ]
