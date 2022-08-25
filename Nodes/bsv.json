@@ -2,17 +2,17 @@
   {
     "name": "Bitcoin SV",
     "symbol": "BSV",
-    "timestamp": "2022-08-25 02:52:21",
+    "timestamp": "2022-08-25 18:08:01",
     "validators": 0,
-    "nodes": 22,
-    "total": 22,
+    "nodes": 19,
+    "total": 19,
     "source": "https://blockchair.com/bitcoin-sv/nodes",
     "market_cap_rank": 53,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "nodediff": -3,
+    "nodediffper": -13.64,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": -3,
+    "totaldiffper": -13.64
   }
 ]
