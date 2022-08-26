@@ -2,19 +2,19 @@
   {
     "name": "DASH",
     "symbol": "DASH",
-    "timestamp": "2022-08-26 05:50:17",
+    "timestamp": "2022-08-26 11:47:27",
     "validators": 0,
-    "nodes": 26,
-    "total": 26,
+    "nodes": 23,
+    "total": 23,
     "source": "https://explorer.dash.org/",
-    "market_cap_rank": 90,
-    "market_cap": 517509841,
-    "volume": 64857005,
-    "nodediff": 4,
-    "nodediffper": 18.18,
+    "market_cap_rank": 91,
+    "market_cap": 509687789,
+    "volume": 87658527,
+    "nodediff": -3,
+    "nodediffper": -11.54,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 4,
-    "totaldiffper": 18.18
+    "totaldiff": -3,
+    "totaldiffper": -11.54
   }
 ]

@@ -2,19 +2,19 @@
   {
     "name": "Zcash",
     "symbol": "ZEC",
-    "timestamp": "2022-08-26 05:50:56",
+    "timestamp": "2022-08-26 11:48:09",
     "validators": 0,
-    "nodes": 8332,
-    "total": 8332,
+    "nodes": 8347,
+    "total": 8347,
     "source": "https://blockchair.com/zcash/nodes",
     "market_cap_rank": 58,
-    "market_cap": 843736969,
-    "volume": 65284963,
-    "nodediff": -112,
-    "nodediffper": -1.33,
+    "market_cap": 834289810,
+    "volume": 48087865,
+    "nodediff": 15,
+    "nodediffper": 0.18,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -112,
-    "totaldiffper": -1.33
+    "totaldiff": 15,
+    "totaldiffper": 0.18
   }
 ]
