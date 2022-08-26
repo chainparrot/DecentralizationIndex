@@ -2,20 +2,20 @@
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-08-26 16:59:02",
+    "timestamp": "2022-08-26 17:18:56",
     "validators": 0,
-    "nodes": 15232,
-    "total": 15232,
+    "nodes": 15296,
+    "total": 15296,
     "source": "https://bitnodes.io",
-    "retrieved": "2022-08-26 17:01:39",
+    "retrieved": "2022-08-26 17:20:06",
     "market_cap_rank": 1,
-    "market_cap": 396208586950,
-    "volume": 32230006615,
-    "nodediff": 2564,
-    "nodediffper": 20.24,
+    "market_cap": 396938904450,
+    "volume": 32492284296,
+    "nodediff": 64,
+    "nodediffper": 0.42,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 2564,
-    "totaldiffper": 20.24
+    "totaldiff": 64,
+    "totaldiffper": 0.42
   }
 ]
