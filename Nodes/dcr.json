@@ -2,19 +2,19 @@
   {
     "name": "Decred",
     "symbol": "DCR",
-    "timestamp": "2022-08-29 03:00:48",
+    "timestamp": "2022-08-29 06:25:40",
     "validators": 0,
-    "nodes": 25,
-    "total": 25,
+    "nodes": 26,
+    "total": 26,
     "source": "https://dcrstats.com/map",
-    "market_cap_rank": 102,
-    "market_cap": 394718570,
-    "volume": 1972975,
-    "nodediff": -1,
-    "nodediffper": -3.85,
+    "market_cap_rank": 101,
+    "market_cap": 399104081,
+    "volume": 1968191,
+    "nodediff": 1,
+    "nodediffper": 4.0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -1,
-    "totaldiffper": -3.85
+    "totaldiff": 1,
+    "totaldiffper": 4.0
   }
 ]
