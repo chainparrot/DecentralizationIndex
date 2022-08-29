@@ -2,19 +2,19 @@
   {
     "name": "Horizen",
     "symbol": "ZEN",
-    "timestamp": "2022-08-29 02:04:59",
+    "timestamp": "2022-08-29 03:11:42",
     "validators": 0,
-    "nodes": 9,
-    "total": 9,
+    "nodes": 49,
+    "total": 49,
     "source": "https://explorer.horizen.io/",
     "market_cap_rank": 170,
-    "market_cap": 189954363,
-    "volume": 9803264,
-    "nodediff": -40,
-    "nodediffper": -81.63,
+    "market_cap": 191491064,
+    "volume": 9577973,
+    "nodediff": 40,
+    "nodediffper": 444.44,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -40,
-    "totaldiffper": -81.63
+    "totaldiff": 40,
+    "totaldiffper": 444.44
   }
 ]
