@@ -2,19 +2,19 @@
   {
     "name": "BitTorrent",
     "symbol": "BTT",
-    "timestamp": "2022-08-29 14:03:19",
-    "validators": 11,
+    "timestamp": "2022-08-30 14:04:34",
+    "validators": 12,
     "nodes": 0,
-    "total": 11,
+    "total": 12,
     "source": "https://bttcscan.com/validators",
     "market_cap_rank": 58,
-    "market_cap": 813849954,
-    "volume": 22808967,
+    "market_cap": 838572089,
+    "volume": 32080833,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 1,
+    "validatordiffper": 9.09,
+    "totaldiff": 1,
+    "totaldiffper": 9.09
   }
 ]
