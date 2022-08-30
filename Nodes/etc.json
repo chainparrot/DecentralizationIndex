@@ -2,19 +2,19 @@
   {
     "name": "Ethereum Classic",
     "symbol": "ETC",
-    "timestamp": "2022-08-29 18:03:40",
+    "timestamp": "2022-08-30 18:03:44",
     "validators": 0,
-    "nodes": 62,
-    "total": 62,
+    "nodes": 60,
+    "total": 60,
     "source": "https://miningpoolstats.stream/ethereumclassic",
     "market_cap_rank": 20,
-    "market_cap": 4555392194,
-    "volume": 864573941,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap": 4344084326,
+    "volume": 659697832,
+    "nodediff": -2,
+    "nodediffper": -3.23,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": -2,
+    "totaldiffper": -3.23
   }
 ]
