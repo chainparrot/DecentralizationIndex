@@ -2,19 +2,19 @@
   {
     "name": "Tezos",
     "symbol": "XTZ",
-    "timestamp": "2022-08-29 10:05:51",
-    "validators": 406,
+    "timestamp": "2022-08-30 02:17:29",
+    "validators": 407,
     "nodes": 0,
-    "total": 406,
+    "total": 407,
     "source": "https://tzstats.com",
     "market_cap_rank": 44,
-    "market_cap": 1325220080,
-    "volume": 28571789,
+    "market_cap": 1362436790,
+    "volume": 30327168,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 1,
+    "validatordiffper": 0.25,
+    "totaldiff": 1,
+    "totaldiffper": 0.25
   }
 ]
