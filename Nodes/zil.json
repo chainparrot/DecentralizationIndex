@@ -2,19 +2,19 @@
   {
     "name": "Zilliqa",
     "symbol": "ZIL",
-    "timestamp": "2022-08-31 10:05:38",
+    "timestamp": "2022-09-01 10:06:01",
     "validators": 21,
-    "nodes": 2400,
-    "total": 2421,
+    "nodes": 2366,
+    "total": 2387,
     "source": "https://viewblock.io/zilliqa",
-    "market_cap_rank": 82,
-    "market_cap": 540060999,
-    "volume": 102451815,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap_rank": 83,
+    "market_cap": 528409014,
+    "volume": 92498782,
+    "nodediff": -34,
+    "nodediffper": -1.42,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": -34,
+    "totaldiffper": -1.4
   }
 ]

@@ -2,19 +2,19 @@
   {
     "name": "Secret",
     "symbol": "SCRT",
-    "timestamp": "2022-08-31 10:05:39",
+    "timestamp": "2022-09-01 10:06:02",
     "validators": 0,
-    "nodes": 80,
-    "total": 80,
+    "nodes": 79,
+    "total": 79,
     "source": "https://secretnodes.com/validators",
     "market_cap_rank": 169,
-    "market_cap": 202124876,
-    "volume": 2737313,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap": 193986507,
+    "volume": 2543763,
+    "nodediff": -1,
+    "nodediffper": -1.25,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": -1,
+    "totaldiffper": -1.25
   }
 ]
