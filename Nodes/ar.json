@@ -2,19 +2,19 @@
   {
     "name": "Arweave",
     "symbol": "AR",
-    "timestamp": "2022-09-02 14:02:20",
-    "validators": 70,
+    "timestamp": "2022-09-03 14:02:21",
+    "validators": 73,
     "nodes": 0,
-    "total": 70,
+    "total": 73,
     "source": "https://v2.viewblock.io/arweave",
     "market_cap_rank": 86,
-    "market_cap": 516886950,
-    "volume": 11369536,
+    "market_cap": 513519741,
+    "volume": 12613630,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -4,
-    "validatordiffper": -5.41,
-    "totaldiff": -4,
-    "totaldiffper": -5.41
+    "validatordiff": 3,
+    "validatordiffper": 4.29,
+    "totaldiff": 3,
+    "totaldiffper": 4.29
   }
 ]
