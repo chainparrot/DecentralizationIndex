@@ -2,7 +2,7 @@
   {
     "name": "Arweave",
     "symbol": "AR",
-    "timestamp": "2022-09-04 08:01:55",
+    "timestamp": "2022-09-04 14:02:05",
     "validators": 71,
     "nodes": 0,
     "total": 71,
@@ -10,13 +10,13 @@
     "consensus_long": "Proof of Access",
     "consensus_short": "PoA",
     "market_cap_rank": 88,
-    "market_cap": 503524749,
-    "volume": 6733803,
+    "market_cap": 505916972,
+    "volume": 6687345,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -2,
-    "validatordiffper": -2.74,
-    "totaldiff": -2,
-    "totaldiffper": -2.74
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
