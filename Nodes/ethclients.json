@@ -1,0 +1,27 @@
+[
+  {
+    "client": "Prysm",
+    "numbers": 2615302,
+    "dominance": 57.04
+  },
+  {
+    "client": "Lighthouse",
+    "numbers": 1162263,
+    "dominance": 25.35
+  },
+  {
+    "client": "Teku",
+    "numbers": 666322,
+    "dominance": 14.53
+  },
+  {
+    "client": "Nimbus",
+    "numbers": 141167,
+    "dominance": 3.08
+  },
+  {
+    "client": "Lodestar",
+    "numbers": 320,
+    "dominance": 0.01
+  }
+]
