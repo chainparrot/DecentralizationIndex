@@ -2,19 +2,19 @@
   {
     "name": "Stellar",
     "symbol": "XLM",
-    "timestamp": "2022-09-07 17:42:55",
-    "validators": 92,
+    "timestamp": "2022-09-07 22:03:33",
+    "validators": 94,
     "nodes": 0,
-    "total": 92,
+    "total": 94,
     "source": "https://www.stellarbeat.io/validators",
     "market_cap_rank": 31,
-    "market_cap": 2575635515,
-    "volume": 96664627,
+    "market_cap": 2602563896,
+    "volume": 89472387,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 6,
-    "validatordiffper": 6.98,
-    "totaldiff": 6,
-    "totaldiffper": 6.98
+    "validatordiff": 2,
+    "validatordiffper": 2.17,
+    "totaldiff": 2,
+    "totaldiffper": 2.17
   }
 ]
