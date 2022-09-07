@@ -2,19 +2,19 @@
   {
     "name": "Moonbeam",
     "symbol": "GLMR",
-    "timestamp": "2022-09-07 17:04:13",
+    "timestamp": "2022-09-07 17:36:07",
     "validators": 64,
     "nodes": 0,
     "total": 64,
     "source": "https://moonbeam.subscan.io/validator",
     "market_cap_rank": 177,
-    "market_cap": 178924443,
-    "volume": 11765205,
+    "market_cap": 178422547,
+    "volume": 10617298,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 19,
-    "validatordiffper": 42.22,
-    "totaldiff": 19,
-    "totaldiffper": 42.22
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
