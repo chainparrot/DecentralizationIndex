@@ -2,19 +2,19 @@
   {
     "name": "Mina",
     "symbol": "MINA",
-    "timestamp": "2022-09-06 22:03:28",
-    "validators": 166,
+    "timestamp": "2022-09-07 16:25:51",
+    "validators": 160,
     "nodes": 0,
-    "total": 166,
+    "total": 160,
     "source": "https://minaexplorer.com/",
     "market_cap_rank": 113,
-    "market_cap": 372271275,
-    "volume": 12761562,
+    "market_cap": 380290888,
+    "volume": 13380170,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 1,
-    "validatordiffper": 0.61,
-    "totaldiff": 1,
-    "totaldiffper": 0.61
+    "validatordiff": -6,
+    "validatordiffper": -3.61,
+    "totaldiff": -6,
+    "totaldiffper": -3.61
   }
 ]
