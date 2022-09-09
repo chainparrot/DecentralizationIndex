@@ -2,19 +2,19 @@
   {
     "name": "Theta",
     "symbol": "THETA",
-    "timestamp": "2022-09-08 10:06:18",
-    "validators": 3321,
+    "timestamp": "2022-09-09 10:06:10",
+    "validators": 3323,
     "nodes": 0,
-    "total": 3321,
+    "total": 3323,
     "source": "https://explorer.thetatoken.org",
     "market_cap_rank": 51,
-    "market_cap": 1106596153,
-    "volume": 25060551,
+    "market_cap": 1168381614,
+    "volume": 32401673,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -3,
-    "validatordiffper": -0.09,
-    "totaldiff": -3,
-    "totaldiffper": -0.09
+    "validatordiff": 2,
+    "validatordiffper": 0.06,
+    "totaldiff": 2,
+    "totaldiffper": 0.06
   }
 ]
