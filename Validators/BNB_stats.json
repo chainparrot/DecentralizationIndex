@@ -2,7 +2,7 @@
   "total_delegators": 54902,
   "total_validatorVotingPower": 18322521,
   "total_validators": 21,
-  "total_value": 5356222563.93,
+  "total_value": 5373079283.25,
   "average_apr": 0.05,
   "average_commission": 0.05,
   "highest_apr": 0.0649,
@@ -13,5 +13,8 @@
   "parent_with_most_delegators_delegatorProportion": 0.4512,
   "parent_with_most_validatorVotingPower": "DirectStacking.com",
   "parent_with_most_validatorVotingPower_validatorVotingPower": 2759261,
-  "parent_with_most_validatorVotingPower_validatorVotingPowerProportion": 15.059999999999999
+  "parent_with_most_validatorVotingPower_validatorVotingPowerProportion": 15.059999999999999,
+  "total_1day_txs": 28713,
+  "total_7day_txs": 201118,
+  "total_30day_txs": 862606
 }
