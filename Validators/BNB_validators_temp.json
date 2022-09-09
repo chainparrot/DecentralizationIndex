@@ -24,9 +24,7 @@
     "active": "Yes",
     "validator_address": "0x3f349bbafec1551819b8be1efea2fc46ca749aa1",
     "validator_url": "https://bscscan.com/address/0x3f349bbafec1551819b8be1efea2fc46ca749aa1",
-    "delegatornum": 5381,
-    "owner": "DirectStacking.com",
-    "delegatorProportion": 0.098
+    "delegatornum": 5381
   },
   {
     "validatorName": "Legend",
@@ -53,9 +51,7 @@
     "active": "Yes",
     "validator_address": "0x295e26495cef6f69dfa69911d9d8e4f3bbadb89b",
     "validator_url": "https://bscscan.com/address/0x295e26495cef6f69dfa69911d9d8e4f3bbadb89b",
-    "delegatornum": 5870,
-    "owner": "DirectStacking.com",
-    "delegatorProportion": 0.1069
+    "delegatornum": 5870
   },
   {
     "validatorName": "Neptune",
@@ -82,17 +78,15 @@
     "active": "Yes",
     "validator_address": "0xaacf6a8119f7e11623b5a43da638e91f669a130f",
     "validator_url": "https://bscscan.com/address/0xaacf6a8119f7e11623b5a43da638e91f669a130f",
-    "delegatornum": 24,
-    "owner": "Neptune",
-    "delegatorProportion": 0.0004
+    "delegatornum": 24
   },
   {
-    "validatorName": "Figment",
+    "validatorName": "0x2b3a6c089311b478bf629c29d790a7a6db3fc1b9",
     "chainName": "BNB",
-    "operator_address": "bva144swdx6yqp90km3gcs89td7hlm787246fsrp69",
-    "commission": 0.05,
-    "apr": 0.0344,
-    "operator_address_url": "https://bscscan.com/address/bva144swdx6yqp90km3gcs89td7hlm787246fsrp69",
+    "operator_address": "",
+    "commission": 0,
+    "apr": 0,
+    "operator_address_url": "",
     "validatorVotingPower": 925228,
     "validatorVotingPowerProportion": 5.05,
     "votingpowerdiff": 0,
@@ -110,10 +104,8 @@
     "active": "Yes",
     "validator_address": "0x2b3a6c089311b478bf629c29d790a7a6db3fc1b9",
     "validator_url": "https://bscscan.com/address/0x2b3a6c089311b478bf629c29d790a7a6db3fc1b9",
-    "delegatornum": 41,
-    "rank": 4,
-    "owner": "Figment",
-    "delegatorProportion": 0.0007
+    "delegatornum": 0,
+    "rank": 4
   },
   {
     "validatorName": "BscScan",
@@ -140,9 +132,7 @@
     "active": "Yes",
     "validator_address": "0x70f657164e5b75689b64b7fd1fa275f334f28e18",
     "validator_url": "https://bscscan.com/address/0x70f657164e5b75689b64b7fd1fa275f334f28e18",
-    "delegatornum": 2305,
-    "owner": "Binance",
-    "delegatorProportion": 0.042
+    "delegatornum": 2305
   },
   {
     "validatorName": "InfStones",
@@ -169,9 +159,7 @@
     "active": "Yes",
     "validator_address": "0xee226379db83cffc681495730c11fdde79ba4c0c",
     "validator_url": "https://bscscan.com/address/0xee226379db83cffc681495730c11fdde79ba4c0c",
-    "delegatornum": 1164,
-    "owner": "InfStones",
-    "delegatorProportion": 0.0212
+    "delegatornum": 1164
   },
   {
     "validatorName": "HashQuark",
@@ -198,9 +186,7 @@
     "active": "Yes",
     "validator_address": "0xe9ae3261a475a27bb1028f140bc2a7c843318afd",
     "validator_url": "https://bscscan.com/address/0xe9ae3261a475a27bb1028f140bc2a7c843318afd",
-    "delegatornum": 893,
-    "owner": "HashQuark",
-    "delegatorProportion": 0.0163
+    "delegatornum": 893
   },
   {
     "validatorName": "Bison Trails",
@@ -227,9 +213,7 @@
     "active": "Yes",
     "validator_address": "0xac0e15a038eedfc68ba3c35c73fed5be4a07afb5",
     "validator_url": "https://bscscan.com/address/0xac0e15a038eedfc68ba3c35c73fed5be4a07afb5",
-    "delegatornum": 59,
-    "owner": "Bison Trails",
-    "delegatorProportion": 0.0011
+    "delegatornum": 59
   },
   {
     "validatorName": "NodeReal",
@@ -256,17 +240,15 @@
     "active": "Yes",
     "validator_address": "0x2d4c407bbe49438ed859fe965b140dcf1aab71a9",
     "validator_url": "https://bscscan.com/address/0x2d4c407bbe49438ed859fe965b140dcf1aab71a9",
-    "delegatornum": 679,
-    "owner": "NodeReal",
-    "delegatorProportion": 0.0124
+    "delegatornum": 679
   },
   {
     "validatorName": "Namelix",
     "chainName": "BNB",
-    "operator_address": "bva1fjtft76yv69d9e00ey9a5ud0aa23z6yu4m2jch",
-    "commission": 0.045,
-    "apr": 0.0451,
-    "operator_address_url": "https://bscscan.com/address/bva1fjtft76yv69d9e00ey9a5ud0aa23z6yu4m2jch",
+    "operator_address": "",
+    "commission": 0,
+    "apr": 0,
+    "operator_address_url": "",
     "validatorVotingPower": 859755,
     "validatorVotingPowerProportion": 4.69,
     "votingpowerdiff": 0,
@@ -284,18 +266,16 @@
     "active": "Yes",
     "validator_address": "0x685b1ded8013785d6623cc18d214320b6bb64759",
     "validator_url": "https://bscscan.com/address/0x685b1ded8013785d6623cc18d214320b6bb64759",
-    "delegatornum": 426,
-    "rank": 10,
-    "owner": "Namelix",
-    "delegatorProportion": 0.0078
+    "delegatornum": 0,
+    "rank": 10
   },
   {
     "validatorName": "Certik",
     "chainName": "BNB",
-    "operator_address": "bva1lva9unyerjwcnayyd9kukyde96tvcfdgqk4930",
-    "commission": 0.05,
-    "apr": 0.0492,
-    "operator_address_url": "https://bscscan.com/address/bva1lva9unyerjwcnayyd9kukyde96tvcfdgqk4930",
+    "operator_address": "",
+    "commission": 0,
+    "apr": 0,
+    "operator_address_url": "",
     "validatorVotingPower": 857009,
     "validatorVotingPowerProportion": 4.68,
     "votingpowerdiff": 0,
@@ -313,10 +293,8 @@
     "active": "Yes",
     "validator_address": "0xbe807dddb074639cd9fa61b47676c064fc50d62c",
     "validator_url": "https://bscscan.com/address/0xbe807dddb074639cd9fa61b47676c064fc50d62c",
-    "delegatornum": 439,
-    "rank": 11,
-    "owner": "Certik",
-    "delegatorProportion": 0.008
+    "delegatornum": 0,
+    "rank": 11
   },
   {
     "validatorName": "BNB48 Club",
@@ -343,9 +321,7 @@
     "active": "Yes",
     "validator_address": "0x72b61c6014342d914470ec7ac2975be345796c2b",
     "validator_url": "https://bscscan.com/address/0x72b61c6014342d914470ec7ac2975be345796c2b",
-    "delegatornum": 1794,
-    "owner": "BNB48 Club",
-    "delegatorProportion": 0.0327
+    "delegatornum": 1794
   },
   {
     "validatorName": "TW Staking",
@@ -372,9 +348,7 @@
     "active": "Yes",
     "validator_address": "0x2465176c461afb316ebc773c61faee85a6515daa",
     "validator_url": "https://bscscan.com/address/0x2465176c461afb316ebc773c61faee85a6515daa",
-    "delegatornum": 22469,
-    "owner": "Binance",
-    "delegatorProportion": 0.4092
+    "delegatornum": 22469
   },
   {
     "validatorName": "Tranchess",
@@ -401,17 +375,15 @@
     "active": "Yes",
     "validator_address": "0xef0274e31810c9df02f98fafde0f841f4e66a1cd",
     "validator_url": "https://bscscan.com/address/0xef0274e31810c9df02f98fafde0f841f4e66a1cd",
-    "delegatornum": 554,
-    "owner": "Tranchess",
-    "delegatorProportion": 0.0101
+    "delegatornum": 554
   },
   {
     "validatorName": "Defibit",
     "chainName": "BNB",
-    "operator_address": "bva18w9m90ksmcnsw6rd2kwpd74m4l5agkc68su3et",
-    "commission": 0.05,
-    "apr": 0.0469,
-    "operator_address_url": "https://bscscan.com/address/bva18w9m90ksmcnsw6rd2kwpd74m4l5agkc68su3et",
+    "operator_address": "",
+    "commission": 0,
+    "apr": 0,
+    "operator_address_url": "",
     "validatorVotingPower": 850194,
     "validatorVotingPowerProportion": 4.64,
     "votingpowerdiff": 0,
@@ -429,10 +401,8 @@
     "active": "Yes",
     "validator_address": "0xea0a6e3c511bbd10f4519ece37dc24887e11b55d",
     "validator_url": "https://bscscan.com/address/0xea0a6e3c511bbd10f4519ece37dc24887e11b55d",
-    "delegatornum": 600,
-    "rank": 15,
-    "owner": "Defibit",
-    "delegatorProportion": 0.0109
+    "delegatornum": 0,
+    "rank": 15
   },
   {
     "validatorName": "Legend III",
@@ -459,9 +429,7 @@
     "active": "Yes",
     "validator_address": "0x8b6c8fd93d6f4cea42bbb345dbc6f0dfdb5bec73",
     "validator_url": "https://bscscan.com/address/0x8b6c8fd93d6f4cea42bbb345dbc6f0dfdb5bec73",
-    "delegatornum": 5889,
-    "owner": "DirectStacking.com",
-    "delegatorProportion": 0.1072
+    "delegatornum": 5889
   },
   {
     "validatorName": "Avengers",
@@ -488,17 +456,15 @@
     "active": "Yes",
     "validator_address": "0xa6f79b60359f141df90a0c745125b131caaffd12",
     "validator_url": "https://bscscan.com/address/0xa6f79b60359f141df90a0c745125b131caaffd12",
-    "delegatornum": 1743,
-    "owner": "Avengers",
-    "delegatorProportion": 0.0317
+    "delegatornum": 1743
   },
   {
     "validatorName": "Fuji",
     "chainName": "BNB",
-    "operator_address": "bva18wgcs0k0glcmaxreweyeydu9mudtsftcxpkt4n",
-    "commission": 0.053,
-    "apr": 0.0432,
-    "operator_address_url": "https://bscscan.com/address/bva18wgcs0k0glcmaxreweyeydu9mudtsftcxpkt4n",
+    "operator_address": "",
+    "commission": 0,
+    "apr": 0,
+    "operator_address_url": "",
     "validatorVotingPower": 841328,
     "validatorVotingPowerProportion": 4.59,
     "votingpowerdiff": 0,
@@ -516,10 +482,8 @@
     "active": "Yes",
     "validator_address": "0x7ae2f5b9e386cd1b50a4550696d957cb4900f03a",
     "validator_url": "https://bscscan.com/address/0x7ae2f5b9e386cd1b50a4550696d957cb4900f03a",
-    "delegatornum": 1425,
-    "rank": 18,
-    "owner": "Fuji",
-    "delegatorProportion": 0.026
+    "delegatornum": 0,
+    "rank": 18
   },
   {
     "validatorName": "MathWallet",
@@ -546,17 +510,15 @@
     "active": "Yes",
     "validator_address": "0xe2d3a739effcd3a99387d015e260eefac72ebea1",
     "validator_url": "https://bscscan.com/address/0xe2d3a739effcd3a99387d015e260eefac72ebea1",
-    "delegatornum": 1275,
-    "owner": "MathWallet",
-    "delegatorProportion": 0.0232
+    "delegatornum": 1275
   },
   {
-    "validatorName": "Synclub",
+    "validatorName": "0x61dd481a114a2e761c554b641742c973867899d3",
     "chainName": "BNB",
-    "operator_address": "bva1m02zrj77ahdz3597nscq7a6dhxnwsuutsljcvj",
-    "commission": 0.05,
-    "apr": 0.0457,
-    "operator_address_url": "https://bscscan.com/address/bva1m02zrj77ahdz3597nscq7a6dhxnwsuutsljcvj",
+    "operator_address": "",
+    "commission": 0,
+    "apr": 0,
+    "operator_address_url": "",
     "validatorVotingPower": 820922,
     "validatorVotingPowerProportion": 4.48,
     "votingpowerdiff": 0,
@@ -574,10 +536,8 @@
     "active": "Yes",
     "validator_address": "0x61dd481a114a2e761c554b641742c973867899d3",
     "validator_url": "https://bscscan.com/address/0x61dd481a114a2e761c554b641742c973867899d3",
-    "delegatornum": 116,
-    "rank": 20,
-    "owner": "Synclub",
-    "delegatorProportion": 0.0021
+    "delegatornum": 0,
+    "rank": 20
   },
   {
     "validatorName": "Ankr",
@@ -604,8 +564,6 @@
     "active": "Yes",
     "validator_address": "0x9f8ccdafcc39f3c7d6ebf637c9151673cbc36b88",
     "validator_url": "https://bscscan.com/address/0x9f8ccdafcc39f3c7d6ebf637c9151673cbc36b88",
-    "delegatornum": 1764,
-    "owner": "Ankr",
-    "delegatorProportion": 0.0321
+    "delegatornum": 1764
   }
 ]
