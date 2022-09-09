@@ -2,26 +2,31 @@
   {
     "owner": "Binance",
     "delegatornum": 24772,
-    "delegatorProportion": 0.4512
+    "delegatorProportion": 0.4513,
+    "rank": 1
   },
   {
     "owner": "DirectStacking.com",
-    "delegatornum": 17117,
-    "delegatorProportion": 0.3118
+    "delegatornum": 17114,
+    "delegatorProportion": 0.3118,
+    "rank": 2
   },
   {
     "owner": "BNB48 Club",
     "delegatornum": 1792,
-    "delegatorProportion": 0.0326
+    "delegatorProportion": 0.0326,
+    "rank": 3
   },
   {
     "owner": "Avengers",
-    "delegatornum": 1768,
-    "delegatorProportion": 0.0322
+    "delegatornum": 1766,
+    "delegatorProportion": 0.0322,
+    "rank": 4
   },
   {
     "owner": "Ankr",
     "delegatornum": 1764,
-    "delegatorProportion": 0.0321
+    "delegatorProportion": 0.0321,
+    "rank": 5
   }
 ]
