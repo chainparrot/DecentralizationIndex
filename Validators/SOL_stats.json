@@ -1,8 +1,9 @@
 {
-    "totalVotingPower": 412678663.05000013,
-    "totalVotingPowerUSD": 14307569247.94353,
+    "totalVotingPower": 412667670.4600001,
+    "totalVotingPowerUSD": 14340201548.48498,
     "totalValidatorCount": 1974,
-    "timestamp": 1662809222,
+    "timestamp": 1662809974,
     "number1ValidatorName": "Coinbase Cloud",
-    "number1ValidatorVotingPowerProportion": 2.09
+    "number1ValidatorVotingPowerProportion": 2.09,
+    "delinquentcount": 285
 }
