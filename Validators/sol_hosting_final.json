@@ -7,9 +7,9 @@
   },
   {
     "hosting_provider": "Hetzner Online",
-    "count": 838,
-    "validatorVotingPower": 82962799.91999985,
-    "validatorVotingPowerProportion": 20.19
+    "count": 837,
+    "validatorVotingPower": 82826471.11999986,
+    "validatorVotingPowerProportion": 20.16
   },
   {
     "hosting_provider": "Amazon.com",
@@ -19,9 +19,9 @@
   },
   {
     "hosting_provider": "OVHcloud",
-    "count": 424,
-    "validatorVotingPower": 31516340.300000034,
-    "validatorVotingPowerProportion": 7.67
+    "count": 426,
+    "validatorVotingPower": 31660261.080000035,
+    "validatorVotingPowerProportion": 7.7
   },
   {
     "hosting_provider": "TeraSwitch",
@@ -49,9 +49,9 @@
   },
   {
     "hosting_provider": "Unknown",
-    "count": 54,
-    "validatorVotingPower": 7682834.82,
-    "validatorVotingPowerProportion": 1.87
+    "count": 55,
+    "validatorVotingPower": 7747208.79,
+    "validatorVotingPowerProportion": 1.89
   },
   {
     "hosting_provider": "Equinix Connect",
@@ -79,9 +79,9 @@
   },
   {
     "hosting_provider": "InterServer",
-    "count": 71,
-    "validatorVotingPower": 5179626.590000001,
-    "validatorVotingPowerProportion": 1.26
+    "count": 70,
+    "validatorVotingPower": 5108766.36,
+    "validatorVotingPowerProportion": 1.24
   },
   {
     "hosting_provider": "Hurricane Electric",
@@ -156,16 +156,16 @@
     "validatorVotingPowerProportion": 0.22
   },
   {
-    "hosting_provider": "IP-Projects GmbH & Co. KG",
-    "count": 11,
-    "validatorVotingPower": 860862.6900000001,
-    "validatorVotingPowerProportion": 0.21
-  },
-  {
     "hosting_provider": "Ikoula",
     "count": 11,
     "validatorVotingPower": 810883.6199999998,
     "validatorVotingPowerProportion": 0.2
+  },
+  {
+    "hosting_provider": "IP-Projects GmbH & Co. KG",
+    "count": 10,
+    "validatorVotingPower": 775779.46,
+    "validatorVotingPowerProportion": 0.19
   },
   {
     "hosting_provider": "Cherry Servers",

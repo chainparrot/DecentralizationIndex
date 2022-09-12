@@ -1,8 +1,8 @@
 [
     {
         "validator": "Other",
-        "delegator": 170659,
-        "percentage": 29.27
+        "delegator": 185814,
+        "percentage": 31.87
     },
     {
         "validator": "Everstake",
@@ -21,7 +21,7 @@
     },
     {
         "validator": "Jump Crypto",
-        "delegator": 21797,
+        "delegator": 21798,
         "percentage": 3.74
     },
     {
@@ -31,12 +31,12 @@
     },
     {
         "validator": "Ledger by Figment",
-        "delegator": 14389,
+        "delegator": 14388,
         "percentage": 2.47
     },
     {
         "validator": "Shinobi Systems \ud83d\ude80 stakeview.app",
-        "delegator": 11704,
+        "delegator": 11703,
         "percentage": 2.01
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "validator": "Leapfrog \ud83d\udc38 topvalidators.app",
-        "delegator": 5655,
+        "delegator": 5656,
         "percentage": 0.97
     },
     {
@@ -56,23 +56,18 @@
     },
     {
         "validator": "Coinbase Cloud",
-        "delegator": 4776,
+        "delegator": 4777,
         "percentage": 0.82
     },
     {
         "validator": "AG \ud83d\udd25 0% 2021-2022",
-        "delegator": 4420,
+        "delegator": 4421,
         "percentage": 0.76
     },
     {
         "validator": "Staking Facilities",
         "delegator": 4405,
         "percentage": 0.76
-    },
-    {
-        "validator": "SyncNode",
-        "delegator": 3566,
-        "percentage": 0.61
     },
     {
         "validator": "Staked",
@@ -86,7 +81,7 @@
     },
     {
         "validator": "LunaNova",
-        "delegator": 3322,
+        "delegator": 3321,
         "percentage": 0.57
     },
     {
@@ -111,12 +106,12 @@
     },
     {
         "validator": "Solana Compass \ud83e\udded 0% For Solana Summer 2022 \ud83c\udf1e",
-        "delegator": 3084,
+        "delegator": 3082,
         "percentage": 0.53
     },
     {
         "validator": "Stakin",
-        "delegator": 3007,
+        "delegator": 3006,
         "percentage": 0.52
     },
     {
@@ -131,13 +126,8 @@
     },
     {
         "validator": "NO Fee to 2025 \ud83d\udcb8\ud83c\udf1e | melea.xyz Two \u25ce",
-        "delegator": 2708,
+        "delegator": 2710,
         "percentage": 0.46
-    },
-    {
-        "validator": "Allnodes \u26a1\ufe0f 0% fee",
-        "delegator": 2608,
-        "percentage": 0.45
     },
     {
         "validator": "H3Gh...Zykc",
@@ -216,12 +206,12 @@
     },
     {
         "validator": "SOL Community",
-        "delegator": 1202,
+        "delegator": 1201,
         "percentage": 0.21
     },
     {
         "validator": "StakeHaus - 0% Fee",
-        "delegator": 1193,
+        "delegator": 1192,
         "percentage": 0.2
     },
     {
@@ -280,11 +270,6 @@
         "percentage": 0.13
     },
     {
-        "validator": "kytzu",
-        "delegator": 684,
-        "percentage": 0.12
-    },
-    {
         "validator": "StakeWolf",
         "delegator": 621,
         "percentage": 0.11
@@ -292,11 +277,6 @@
     {
         "validator": "Staker Space",
         "delegator": 597,
-        "percentage": 0.1
-    },
-    {
-        "validator": "artol",
-        "delegator": 595,
         "percentage": 0.1
     },
     {
@@ -320,11 +300,6 @@
         "percentage": 0.08
     },
     {
-        "validator": "Alpha Virtual",
-        "delegator": 479,
-        "percentage": 0.08
-    },
-    {
         "validator": "Rustiq Technology",
         "delegator": 472,
         "percentage": 0.08
@@ -345,11 +320,6 @@
         "percentage": 0.07
     },
     {
-        "validator": "Appload \ud83d\ude80 maximize your profit",
-        "delegator": 388,
-        "percentage": 0.07
-    },
-    {
         "validator": "a16z",
         "delegator": 361,
         "percentage": 0.06
@@ -362,11 +332,6 @@
     {
         "validator": "Node Monkey | 0% Fees/Commission, High APY",
         "delegator": 315,
-        "percentage": 0.05
-    },
-    {
-        "validator": "Juliya",
-        "delegator": 303,
         "percentage": 0.05
     },
     {
@@ -430,11 +395,6 @@
         "percentage": 0.03
     },
     {
-        "validator": "Inotel",
-        "delegator": 182,
-        "percentage": 0.03
-    },
-    {
         "validator": "CyberChain",
         "delegator": 179,
         "percentage": 0.03
@@ -445,28 +405,8 @@
         "percentage": 0.03
     },
     {
-        "validator": "stake2earn \ud83c\udf1c",
-        "delegator": 177,
-        "percentage": 0.03
-    },
-    {
-        "validator": "Solana.capital",
-        "delegator": 172,
-        "percentage": 0.03
-    },
-    {
         "validator": "Spectrum Staking",
         "delegator": 171,
-        "percentage": 0.03
-    },
-    {
-        "validator": "Valid Blocks",
-        "delegator": 171,
-        "percentage": 0.03
-    },
-    {
-        "validator": "\u2744\u2744\u2744\ufe0f",
-        "delegator": 169,
         "percentage": 0.03
     },
     {
@@ -485,21 +425,6 @@
         "percentage": 0.03
     },
     {
-        "validator": "0base.VC",
-        "delegator": 151,
-        "percentage": 0.03
-    },
-    {
-        "validator": "NeNa \ud83c\udf3b",
-        "delegator": 149,
-        "percentage": 0.03
-    },
-    {
-        "validator": "ON8",
-        "delegator": 144,
-        "percentage": 0.02
-    },
-    {
         "validator": "Crypto Power",
         "delegator": 140,
         "percentage": 0.02
@@ -510,33 +435,8 @@
         "percentage": 0.02
     },
     {
-        "validator": "mrknc",
-        "delegator": 132,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Solana Validator",
-        "delegator": 132,
-        "percentage": 0.02
-    },
-    {
-        "validator": "AstroStakers",
-        "delegator": 130,
-        "percentage": 0.02
-    },
-    {
-        "validator": "BlockPoint",
-        "delegator": 129,
-        "percentage": 0.02
-    },
-    {
         "validator": "J9Go...4Wkw",
         "delegator": 128,
-        "percentage": 0.02
-    },
-    {
-        "validator": "ushakov",
-        "delegator": 125,
         "percentage": 0.02
     },
     {
@@ -545,38 +445,8 @@
         "percentage": 0.02
     },
     {
-        "validator": "\ud83c\udfe2 MINISTRY OF BLOCKS \ud83c\udfe2",
-        "delegator": 124,
-        "percentage": 0.02
-    },
-    {
-        "validator": "6UDU...zLma",
-        "delegator": 121,
-        "percentage": 0.02
-    },
-    {
-        "validator": "YYYYYYYYYYYYY",
-        "delegator": 120,
-        "percentage": 0.02
-    },
-    {
-        "validator": "SGTstake",
-        "delegator": 120,
-        "percentage": 0.02
-    },
-    {
         "validator": "Lifinity Protocol",
         "delegator": 119,
-        "percentage": 0.02
-    },
-    {
-        "validator": "anvel",
-        "delegator": 117,
-        "percentage": 0.02
-    },
-    {
-        "validator": "maximka",
-        "delegator": 116,
         "percentage": 0.02
     },
     {
@@ -590,93 +460,8 @@
         "percentage": 0.02
     },
     {
-        "validator": "EEARN",
-        "delegator": 115,
-        "percentage": 0.02
-    },
-    {
-        "validator": "SolBrothers",
-        "delegator": 115,
-        "percentage": 0.02
-    },
-    {
         "validator": "Validator.com",
         "delegator": 114,
-        "percentage": 0.02
-    },
-    {
-        "validator": "cotikon",
-        "delegator": 113,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Coinmeca Validator",
-        "delegator": 113,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Tuzem",
-        "delegator": 112,
-        "percentage": 0.02
-    },
-    {
-        "validator": "MBGBuzzer",
-        "delegator": 111,
-        "percentage": 0.02
-    },
-    {
-        "validator": "akexkuz",
-        "delegator": 111,
-        "percentage": 0.02
-    },
-    {
-        "validator": "S4Mar",
-        "delegator": 111,
-        "percentage": 0.02
-    },
-    {
-        "validator": "r3dub",
-        "delegator": 110,
-        "percentage": 0.02
-    },
-    {
-        "validator": "validator red",
-        "delegator": 108,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Jormungand Labs",
-        "delegator": 107,
-        "percentage": 0.02
-    },
-    {
-        "validator": "johndoe",
-        "delegator": 107,
-        "percentage": 0.02
-    },
-    {
-        "validator": "OptimusPr",
-        "delegator": 107,
-        "percentage": 0.02
-    },
-    {
-        "validator": "438C...Y7qw",
-        "delegator": 107,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Bukovka",
-        "delegator": 106,
-        "percentage": 0.02
-    },
-    {
-        "validator": "firstblock.network",
-        "delegator": 106,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Laura Balaura",
-        "delegator": 106,
         "percentage": 0.02
     },
     {
@@ -705,103 +490,13 @@
         "percentage": 0.02
     },
     {
-        "validator": "KZPool",
-        "delegator": 103,
-        "percentage": 0.02
-    },
-    {
         "validator": "Lido / ChainLayer",
         "delegator": 102,
         "percentage": 0.02
     },
     {
-        "validator": "Meyerbro",
-        "delegator": 102,
-        "percentage": 0.02
-    },
-    {
-        "validator": "ProChain",
-        "delegator": 102,
-        "percentage": 0.02
-    },
-    {
-        "validator": "6JWR...4YV4",
-        "delegator": 102,
-        "percentage": 0.02
-    },
-    {
-        "validator": "BfF3...WNwo",
-        "delegator": 102,
-        "percentage": 0.02
-    },
-    {
-        "validator": "maxfillipov",
-        "delegator": 101,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Post Validator",
-        "delegator": 101,
-        "percentage": 0.02
-    },
-    {
-        "validator": "HQbd...7jEo",
-        "delegator": 101,
-        "percentage": 0.02
-    },
-    {
-        "validator": "\u201cdreamstaker\u201d",
-        "delegator": 101,
-        "percentage": 0.02
-    },
-    {
         "validator": "ManyStake",
         "delegator": 100,
-        "percentage": 0.02
-    },
-    {
-        "validator": "1Block",
-        "delegator": 100,
-        "percentage": 0.02
-    },
-    {
-        "validator": "EZStake",
-        "delegator": 100,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Gaveljas",
-        "delegator": 99,
-        "percentage": 0.02
-    },
-    {
-        "validator": "SerGo",
-        "delegator": 98,
-        "percentage": 0.02
-    },
-    {
-        "validator": "GwjR...76aU",
-        "delegator": 98,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Wachburger",
-        "delegator": 97,
-        "percentage": 0.02
-    },
-    {
-        "validator": "2ek5...VqUG",
-        "delegator": 95,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Stake.Cake",
-        "delegator": 92,
-        "percentage": 0.02
-    },
-    {
-        "validator": "Vados",
-        "delegator": 90,
         "percentage": 0.02
     },
     {
@@ -820,11 +515,6 @@
         "percentage": 0.01
     },
     {
-        "validator": "Dronies Validator",
-        "delegator": 84,
-        "percentage": 0.01
-    },
-    {
         "validator": "InfStones",
         "delegator": 79,
         "percentage": 0.01
@@ -832,11 +522,6 @@
     {
         "validator": "Lido / stakefish \ud83d\udc1f",
         "delegator": 71,
-        "percentage": 0.01
-    },
-    {
-        "validator": "UdderChaos",
-        "delegator": 70,
         "percentage": 0.01
     },
     {
@@ -931,11 +616,6 @@
     },
     {
         "validator": "31J7...sZH5",
-        "delegator": 37,
-        "percentage": 0.01
-    },
-    {
-        "validator": "Lion3d | 0% Forever",
         "delegator": 37,
         "percentage": 0.01
     },
@@ -1191,11 +871,6 @@
     },
     {
         "validator": "Lido / 01node",
-        "delegator": 10,
-        "percentage": 0.0
-    },
-    {
-        "validator": "5tq4...6yQv",
         "delegator": 10,
         "percentage": 0.0
     },
