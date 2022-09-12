@@ -2,19 +2,19 @@
   {
     "name": "The Graph",
     "symbol": "GRT",
-    "timestamp": "2022-09-11 18:03:53",
-    "validators": 183,
+    "timestamp": "2022-09-12 18:04:19",
+    "validators": 186,
     "nodes": 0,
-    "total": 183,
+    "total": 186,
     "source": "https://thegraph.com/explorer/network",
-    "market_cap_rank": 60,
-    "market_cap": 868803754,
-    "volume": 46752635,
+    "market_cap_rank": 58,
+    "market_cap": 956945178,
+    "volume": 102098611,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 3,
+    "validatordiffper": 1.64,
+    "totaldiff": 3,
+    "totaldiffper": 1.64
   }
 ]

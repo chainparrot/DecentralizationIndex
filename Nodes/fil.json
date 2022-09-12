@@ -2,19 +2,19 @@
   {
     "name": "Filecoin",
     "symbol": "FIL",
-    "timestamp": "2022-09-11 18:04:39",
+    "timestamp": "2022-09-12 18:05:06",
     "validators": 0,
-    "nodes": 4066,
-    "total": 4066,
+    "nodes": 4072,
+    "total": 4072,
     "source": "https://filfox.info/en",
-    "market_cap_rank": 37,
-    "market_cap": 1828755962,
-    "volume": 301844366,
-    "nodediff": -4,
-    "nodediffper": -0.1,
+    "market_cap_rank": 36,
+    "market_cap": 1831584566,
+    "volume": 318877210,
+    "nodediff": 6,
+    "nodediffper": 0.15,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -4,
-    "totaldiffper": -0.1
+    "totaldiff": 6,
+    "totaldiffper": 0.15
   }
 ]
