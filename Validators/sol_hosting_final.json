@@ -7,9 +7,9 @@
   },
   {
     "hosting_provider": "Hetzner Online",
-    "count": 836,
-    "validatorVotingPower": 82824795.88999985,
-    "validatorVotingPowerProportion": 20.16
+    "count": 838,
+    "validatorVotingPower": 82962799.91999985,
+    "validatorVotingPowerProportion": 20.19
   },
   {
     "hosting_provider": "Amazon.com",
@@ -19,9 +19,9 @@
   },
   {
     "hosting_provider": "OVHcloud",
-    "count": 423,
-    "validatorVotingPower": 31442411.970000032,
-    "validatorVotingPowerProportion": 7.65
+    "count": 424,
+    "validatorVotingPower": 31516340.300000034,
+    "validatorVotingPowerProportion": 7.67
   },
   {
     "hosting_provider": "TeraSwitch",
@@ -49,9 +49,9 @@
   },
   {
     "hosting_provider": "Unknown",
-    "count": 57,
-    "validatorVotingPower": 7880534.529999999,
-    "validatorVotingPowerProportion": 1.92
+    "count": 54,
+    "validatorVotingPower": 7682834.82,
+    "validatorVotingPowerProportion": 1.87
   },
   {
     "hosting_provider": "Equinix Connect",
@@ -79,9 +79,9 @@
   },
   {
     "hosting_provider": "InterServer",
-    "count": 72,
-    "validatorVotingPower": 5265273.960000002,
-    "validatorVotingPowerProportion": 1.28
+    "count": 71,
+    "validatorVotingPower": 5179626.590000001,
+    "validatorVotingPowerProportion": 1.26
   },
   {
     "hosting_provider": "Hurricane Electric",
@@ -156,16 +156,16 @@
     "validatorVotingPowerProportion": 0.22
   },
   {
+    "hosting_provider": "IP-Projects GmbH & Co. KG",
+    "count": 11,
+    "validatorVotingPower": 860862.6900000001,
+    "validatorVotingPowerProportion": 0.21
+  },
+  {
     "hosting_provider": "Ikoula",
     "count": 11,
     "validatorVotingPower": 810883.6199999998,
     "validatorVotingPowerProportion": 0.2
-  },
-  {
-    "hosting_provider": "IP-Projects GmbH & Co. KG",
-    "count": 10,
-    "validatorVotingPower": 775779.46,
-    "validatorVotingPowerProportion": 0.19
   },
   {
     "hosting_provider": "Cherry Servers",
@@ -252,6 +252,12 @@
     "validatorVotingPowerProportion": 0.07
   },
   {
+    "hosting_provider": "Hivelocity INC",
+    "count": 5,
+    "validatorVotingPower": 286981.21,
+    "validatorVotingPowerProportion": 0.07
+  },
+  {
     "hosting_provider": "myLoc managed IT AG",
     "count": 6,
     "validatorVotingPower": 278695.13,
@@ -267,12 +273,6 @@
     "hosting_provider": "Tier.Net Technologies LLC",
     "count": 3,
     "validatorVotingPower": 249684.16999999998,
-    "validatorVotingPowerProportion": 0.06
-  },
-  {
-    "hosting_provider": "Hivelocity INC",
-    "count": 4,
-    "validatorVotingPower": 245536.52,
     "validatorVotingPowerProportion": 0.06
   },
   {
