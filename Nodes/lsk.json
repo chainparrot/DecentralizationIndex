@@ -2,19 +2,19 @@
   {
     "name": "Lisk",
     "symbol": "LSK",
-    "timestamp": "2022-09-11 22:02:40",
+    "timestamp": "2022-09-12 22:02:34",
     "validators": 0,
-    "nodes": 53,
-    "total": 53,
+    "nodes": 56,
+    "total": 56,
     "source": "https://liskscan.com/delegates",
-    "market_cap_rank": 202,
-    "market_cap": 156479014,
-    "volume": 6049236,
-    "nodediff": 13,
-    "nodediffper": 32.5,
+    "market_cap_rank": 200,
+    "market_cap": 158043022,
+    "volume": 8316327,
+    "nodediff": 3,
+    "nodediffper": 5.66,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 13,
-    "totaldiffper": 32.5
+    "totaldiff": 3,
+    "totaldiffper": 5.66
   }
 ]
