@@ -1,13 +1,13 @@
 [
     {
         "validator": "Other",
-        "delegator": 237076,
-        "percentage": 40.66
+        "delegator": 170668,
+        "percentage": 29.27
     },
     {
         "validator": "Everstake",
-        "delegator": 153853,
-        "percentage": 26.39
+        "delegator": 153813,
+        "percentage": 26.38
     },
     {
         "validator": "Chorus One",
@@ -15,13 +15,13 @@
         "percentage": 5.16
     },
     {
-        "validator": "Jump Crypto",
-        "delegator": 21796,
-        "percentage": 3.74
+        "validator": "stake.systems",
+        "delegator": 23652,
+        "percentage": 4.06
     },
     {
-        "validator": "Atomic Nodes",
-        "delegator": 20669,
-        "percentage": 3.54
+        "validator": "Jump Crypto",
+        "delegator": 21797,
+        "percentage": 3.74
     }
 ]
