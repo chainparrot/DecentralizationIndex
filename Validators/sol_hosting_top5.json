@@ -3,13 +3,13 @@
     "hosting_provider": "Equinix Metal",
     "count": 64,
     "validatorVotingPower": 99637655.26999995,
-    "validatorVotingPowerProportion": 24.18
+    "validatorVotingPowerProportion": 24.19
   },
   {
     "hosting_provider": "Hetzner Online",
-    "count": 848,
-    "validatorVotingPower": 87039380.69999985,
-    "validatorVotingPowerProportion": 21.12
+    "count": 847,
+    "validatorVotingPower": 86973678.05999985,
+    "validatorVotingPowerProportion": 21.11
   },
   {
     "hosting_provider": "Amazon.com",
@@ -31,8 +31,8 @@
   },
   {
     "hosting_provider": "Others",
-    "count": 587,
-    "validatorVotingPower": 106753260.58,
-    "validatorVotingPowerProportion": 25.909091003060205
+    "count": 588,
+    "validatorVotingPower": 106753383.94,
+    "validatorVotingPowerProportion": 25.913245330277572
   }
 ]

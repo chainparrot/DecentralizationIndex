@@ -1,15 +1,17 @@
 {
   "total_validators": 297,
-  "total_delegators": 21800,
-  "total_bonded": 644499087.4899994,
-  "total_bonded_usd": 5001312918.859999,
+  "total_delegators": 21767,
+  "total_bonded": 642651061.2699999,
+  "total_bonded_usd": 4620661130.590002,
   "highest_bonded_total": 6536652.45,
-  "highest_bonded_total_usd": 50724423.01,
+  "highest_bonded_total_usd": 46998531.12,
   "highest_bonded_total_validator": "15zGK5SyFFjUL6s297L2wQwYo9ntmZhAXGY9LpeH5qVz7DYg",
-  "highest_count_nominators": 624,
+  "highest_count_nominators": 544,
   "highest_count_nominators_validator": "Polkadot.pro - Realgar",
   "total_bonded_change": 0.0,
   "total_delegators_change": 0.0,
-  "percentage_of_total_count_nominators": 0.0286,
-  "percentage_of_total_bonded": 0.0051
+  "percentage_of_total_count_nominators": 0.025,
+  "percentage_of_total_bonded": 0.0052,
+  "waiting": 697,
+  "total_self_bonded_usd": 11643194.149999993
 }
