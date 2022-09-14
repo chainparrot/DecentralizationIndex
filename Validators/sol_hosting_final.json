@@ -7,21 +7,21 @@
   },
   {
     "hosting_provider": "Hetzner Online",
-    "count": 846,
-    "validatorVotingPower": 86965582.95999986,
-    "validatorVotingPowerProportion": 21.11
+    "count": 848,
+    "validatorVotingPower": 87039380.69999985,
+    "validatorVotingPowerProportion": 21.12
   },
   {
     "hosting_provider": "Amazon.com",
-    "count": 36,
-    "validatorVotingPower": 55505792.190000005,
-    "validatorVotingPowerProportion": 13.47
+    "count": 37,
+    "validatorVotingPower": 55569020.31,
+    "validatorVotingPowerProportion": 13.49
   },
   {
     "hosting_provider": "OVHcloud",
     "count": 430,
-    "validatorVotingPower": 31803654.970000017,
-    "validatorVotingPowerProportion": 7.72
+    "validatorVotingPower": 31774107.200000018,
+    "validatorVotingPowerProportion": 7.71
   },
   {
     "hosting_provider": "TeraSwitch",
@@ -49,9 +49,9 @@
   },
   {
     "hosting_provider": "Unknown",
-    "count": 58,
-    "validatorVotingPower": 7935956.129999998,
-    "validatorVotingPowerProportion": 1.93
+    "count": 64,
+    "validatorVotingPower": 8201596.479999998,
+    "validatorVotingPowerProportion": 1.99
   },
   {
     "hosting_provider": "IP Exchange",
@@ -243,12 +243,6 @@
     "hosting_provider": "Blix Solutions AS",
     "count": 2,
     "validatorVotingPower": 338038.11,
-    "validatorVotingPowerProportion": 0.08
-  },
-  {
-    "hosting_provider": "myLoc managed IT AG",
-    "count": 7,
-    "validatorVotingPower": 326858.03,
     "validatorVotingPowerProportion": 0.08
   },
   {
@@ -504,21 +498,9 @@
     "validatorVotingPowerProportion": 0.0
   },
   {
-    "hosting_provider": "Ravand Cybertech",
-    "count": 1,
-    "validatorVotingPower": 123.36,
-    "validatorVotingPowerProportion": 0.0
-  },
-  {
     "hosting_provider": "E-Light-Telecom",
     "count": 1,
     "validatorVotingPower": 102.0,
-    "validatorVotingPowerProportion": 0.0
-  },
-  {
-    "hosting_provider": "SkynetCom",
-    "count": 1,
-    "validatorVotingPower": 21.1,
     "validatorVotingPowerProportion": 0.0
   }
 ]
