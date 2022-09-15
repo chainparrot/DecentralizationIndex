@@ -2,19 +2,19 @@
   {
     "name": "NEO",
     "symbol": "NEO",
-    "timestamp": "2022-09-14 10:05:36",
+    "timestamp": "2022-09-15 10:05:39",
     "validators": 0,
-    "nodes": 10,
-    "total": 10,
+    "nodes": 9,
+    "total": 9,
     "source": "https://dora.coz.io/monitor",
-    "market_cap_rank": 72,
-    "market_cap": 637462821,
-    "volume": 47793022,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap_rank": 69,
+    "market_cap": 633799767,
+    "volume": 44531049,
+    "nodediff": -1,
+    "nodediffper": -10.0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": -1,
+    "totaldiffper": -10.0
   }
 ]
