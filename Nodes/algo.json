@@ -2,19 +2,19 @@
   {
     "name": "Algorand",
     "symbol": "ALGO",
-    "timestamp": "2022-09-17 18:03:38",
-    "validators": 372,
+    "timestamp": "2022-09-18 18:03:36",
+    "validators": 370,
     "nodes": 0,
-    "total": 372,
+    "total": 370,
     "source": "https://metrics.algorand.org/#/decentralization/",
     "market_cap_rank": 32,
-    "market_cap": 2143667248,
-    "volume": 40963661,
+    "market_cap": 2116701073,
+    "volume": 61498822,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -4,
-    "validatordiffper": -1.06,
-    "totaldiff": -4,
-    "totaldiffper": -1.06
+    "validatordiff": -2,
+    "validatordiffper": -0.54,
+    "totaldiff": -2,
+    "totaldiffper": -0.54
   }
 ]
