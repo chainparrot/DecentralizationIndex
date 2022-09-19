@@ -2,19 +2,19 @@
   {
     "name": "Gnosis",
     "symbol": "GNO",
-    "timestamp": "2022-09-18 18:04:30",
+    "timestamp": "2022-09-19 18:05:51",
     "validators": 13,
     "nodes": 0,
     "total": 13,
     "source": "https://gnosisscan.io/stat/miner",
-    "market_cap_rank": 118,
-    "market_cap": 339240168,
-    "volume": 1610672,
+    "market_cap_rank": 119,
+    "market_cap": 327645602,
+    "volume": 2327422,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -1,
-    "validatordiffper": -7.14,
-    "totaldiff": -1,
-    "totaldiffper": -7.14
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
