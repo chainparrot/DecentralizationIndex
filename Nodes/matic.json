@@ -2,19 +2,19 @@
   {
     "name": "Polygon",
     "symbol": "MATIC",
-    "timestamp": "2022-09-18 22:03:43",
-    "validators": 79,
+    "timestamp": "2022-09-19 22:03:12",
+    "validators": 80,
     "nodes": 0,
-    "total": 79,
+    "total": 80,
     "source": "https://polygonscan.com/stat/miner",
     "market_cap_rank": 15,
-    "market_cap": 5707241001,
-    "volume": 315539442,
+    "market_cap": 5719991415,
+    "volume": 410246370,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -1,
-    "validatordiffper": -1.25,
-    "totaldiff": -1,
-    "totaldiffper": -1.25
+    "validatordiff": 1,
+    "validatordiffper": 1.27,
+    "totaldiff": 1,
+    "totaldiffper": 1.27
   }
 ]
