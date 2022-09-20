@@ -1,93 +1,100 @@
 [
     {
-        "version": "1.10.38",
-        "total": 1821,
-        "percentage": 84.31,
+        "version": "1.10.39",
+        "total": 1199,
+        "percentage": 55.48,
         "rank": 1,
-        "timestamp": 1663585525
+        "timestamp": 1663671866
+    },
+    {
+        "version": "1.10.38",
+        "total": 718,
+        "percentage": 33.23,
+        "rank": 2,
+        "timestamp": 1663671866
     },
     {
         "version": "Unknown",
-        "total": 114,
-        "percentage": 5.28,
-        "rank": 2,
-        "timestamp": 1663585525
+        "total": 115,
+        "percentage": 5.32,
+        "rank": 3,
+        "timestamp": 1663671866
     },
     {
         "version": "1.10.34",
-        "total": 88,
-        "percentage": 4.07,
-        "rank": 3,
-        "timestamp": 1663585525
+        "total": 65,
+        "percentage": 3.01,
+        "rank": 4,
+        "timestamp": 1663671866
     },
     {
         "version": "1.10.35",
-        "total": 85,
-        "percentage": 3.94,
-        "rank": 4,
-        "timestamp": 1663585525
+        "total": 32,
+        "percentage": 1.48,
+        "rank": 5,
+        "timestamp": 1663671866
     },
     {
         "version": "1.13.0",
-        "total": 24,
-        "percentage": 1.11,
-        "rank": 5,
-        "timestamp": 1663585525
-    },
-    {
-        "version": "1.10.39",
-        "total": 15,
-        "percentage": 0.69,
+        "total": 19,
+        "percentage": 0.88,
         "rank": 6,
-        "timestamp": 1663585525
-    },
-    {
-        "version": "1.10.32",
-        "total": 3,
-        "percentage": 0.14,
-        "rank": 7,
-        "timestamp": 1663585525
+        "timestamp": 1663671866
     },
     {
         "version": "1.10.28",
         "total": 3,
         "percentage": 0.14,
-        "rank": 8,
-        "timestamp": 1663585525
+        "rank": 7,
+        "timestamp": 1663671866
     },
     {
-        "version": "1.10.26",
+        "version": "1.10.32",
         "total": 2,
         "percentage": 0.09,
-        "rank": 9,
-        "timestamp": 1663585525
+        "rank": 8,
+        "timestamp": 1663671866
     },
     {
         "version": "1.14.1",
         "total": 2,
         "percentage": 0.09,
+        "rank": 9,
+        "timestamp": 1663671866
+    },
+    {
+        "version": "1.14.2",
+        "total": 2,
+        "percentage": 0.09,
         "rank": 10,
-        "timestamp": 1663585525
+        "timestamp": 1663671866
+    },
+    {
+        "version": "1.10.26",
+        "total": 1,
+        "percentage": 0.05,
+        "rank": 11,
+        "timestamp": 1663671866
+    },
+    {
+        "version": "1.10.40",
+        "total": 1,
+        "percentage": 0.05,
+        "rank": 12,
+        "timestamp": 1663671866
     },
     {
         "version": "1.7.14",
         "total": 1,
         "percentage": 0.05,
-        "rank": 11,
-        "timestamp": 1663585525
+        "rank": 13,
+        "timestamp": 1663671866
     },
     {
         "version": "1.10.25",
         "total": 1,
         "percentage": 0.05,
-        "rank": 12,
-        "timestamp": 1663585525
-    },
-    {
-        "version": "1.14.2",
-        "total": 1,
-        "percentage": 0.05,
-        "rank": 13,
-        "timestamp": 1663585525
+        "rank": 14,
+        "timestamp": 1663671866
     }
 ]

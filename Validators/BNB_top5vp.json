@@ -1,38 +1,38 @@
 [
   {
     "owner": "DirectStacking.com",
-    "validatorVotingPower": 2531565,
-    "validatorVotingPowerProportion": 14.34,
+    "validatorVotingPower": 2553727,
+    "validatorVotingPowerProportion": 14.509999999999998,
     "rank": 1
   },
   {
     "owner": "Binance",
-    "validatorVotingPower": 1736338,
-    "validatorVotingPowerProportion": 9.83,
+    "validatorVotingPower": 1731822,
+    "validatorVotingPowerProportion": 9.85,
     "rank": 2
   },
   {
     "owner": "Neptune",
-    "validatorVotingPower": 942325,
-    "validatorVotingPowerProportion": 5.34,
+    "validatorVotingPower": 942326,
+    "validatorVotingPowerProportion": 5.36,
     "rank": 3
   },
   {
     "owner": "Figment",
     "validatorVotingPower": 925231,
-    "validatorVotingPowerProportion": 5.24,
+    "validatorVotingPowerProportion": 5.26,
     "rank": 4
   },
   {
-    "owner": "NodeReal",
-    "validatorVotingPower": 889783,
-    "validatorVotingPowerProportion": 5.04,
+    "owner": "HashQuark",
+    "validatorVotingPower": 869216,
+    "validatorVotingPowerProportion": 4.94,
     "rank": 5
   },
   {
     "owner": "Others",
-    "validatorVotingPower": 10628441,
-    "validatorVotingPowerProportion": 60.18000000000001,
+    "validatorVotingPower": 10570300,
+    "validatorVotingPowerProportion": 60.09,
     "rank": 6
   }
 ]
