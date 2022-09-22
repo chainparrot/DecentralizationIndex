@@ -2,19 +2,19 @@
   {
     "name": "Monero",
     "symbol": "XMR",
-    "timestamp": "2022-09-21 14:12:40",
+    "timestamp": "2022-09-22 14:09:41",
     "validators": 0,
-    "nodes": 2170,
-    "total": 2170,
+    "nodes": 2242,
+    "total": 2242,
     "source": "https://monerohash.com/nodes-distribution.html",
     "market_cap_rank": 30,
-    "market_cap": 2595131795,
-    "volume": 70035189,
-    "nodediff": 111,
-    "nodediffper": 5.39,
+    "market_cap": 2547005465,
+    "volume": 96333255,
+    "nodediff": 72,
+    "nodediffper": 3.32,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 111,
-    "totaldiffper": 5.39
+    "totaldiff": 72,
+    "totaldiffper": 3.32
   }
 ]
