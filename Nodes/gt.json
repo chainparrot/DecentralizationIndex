@@ -2,19 +2,19 @@
   {
     "name": "GateToken",
     "symbol": "GT",
-    "timestamp": "2022-09-21 18:04:28",
+    "timestamp": "2022-09-22 18:04:32",
     "validators": 162,
     "nodes": 0,
     "total": 162,
     "source": "https://gatescan.org/",
-    "market_cap_rank": 69,
-    "market_cap": 611847138,
-    "volume": 2250097,
+    "market_cap_rank": 70,
+    "market_cap": 612974085,
+    "volume": 2737230,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 2,
-    "validatordiffper": 1.25,
-    "totaldiff": 2,
-    "totaldiffper": 1.25
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
