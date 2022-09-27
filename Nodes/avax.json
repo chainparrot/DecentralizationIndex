@@ -2,21 +2,21 @@
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2022-09-26 14:13:10",
-    "validators": 1241,
+    "timestamp": "2022-09-27 14:13:40",
+    "validators": 1245,
     "nodes": 0,
-    "total": 1241,
+    "total": 1245,
     "source": "https://avascan.info",
     "consensus_long": "Proof of Stake",
     "consensus_short": "PoS",
     "market_cap_rank": 17,
-    "market_cap": 5167897368,
-    "volume": 173306640,
+    "market_cap": 5407276831,
+    "volume": 263441774,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 6,
-    "validatordiffper": 0.49,
-    "totaldiff": 6,
-    "totaldiffper": 0.49
+    "validatordiff": 4,
+    "validatordiffper": 0.32,
+    "totaldiff": 4,
+    "totaldiffper": 0.32
   }
 ]
