@@ -2,19 +2,19 @@
   {
     "name": "Litecoin",
     "symbol": "LTC",
-    "timestamp": "2022-09-26 22:03:22",
+    "timestamp": "2022-09-27 22:03:30",
     "validators": 0,
-    "nodes": 1117,
-    "total": 1117,
+    "nodes": 1102,
+    "total": 1102,
     "source": "https://blockchair.com/en/litecoin/nodes",
-    "market_cap_rank": 24,
-    "market_cap": 3776842132,
-    "volume": 360051215,
-    "nodediff": 17,
-    "nodediffper": 1.55,
+    "market_cap_rank": 25,
+    "market_cap": 3727260741,
+    "volume": 359113320,
+    "nodediff": -15,
+    "nodediffper": -1.34,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 17,
-    "totaldiffper": 1.55
+    "totaldiff": -15,
+    "totaldiffper": -1.34
   }
 ]
