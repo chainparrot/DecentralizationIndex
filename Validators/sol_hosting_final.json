@@ -1,21 +1,21 @@
 [
   {
     "hosting_provider": "Equinix Metal",
-    "count": 68,
-    "validatorVotingPower": 97979554.34999998,
-    "validatorVotingPowerProportion": 23.88
+    "count": 67,
+    "validatorVotingPower": 97870439.21999998,
+    "validatorVotingPowerProportion": 23.84
   },
   {
     "hosting_provider": "Hetzner Online",
-    "count": 890,
-    "validatorVotingPower": 85444871.85000008,
-    "validatorVotingPowerProportion": 20.82
+    "count": 898,
+    "validatorVotingPower": 85750858.46000008,
+    "validatorVotingPowerProportion": 20.88
   },
   {
     "hosting_provider": "Amazon.com",
     "count": 38,
     "validatorVotingPower": 57966195.440000005,
-    "validatorVotingPowerProportion": 14.13
+    "validatorVotingPowerProportion": 14.12
   },
   {
     "hosting_provider": "TeraSwitch",
@@ -25,9 +25,9 @@
   },
   {
     "hosting_provider": "OVHcloud",
-    "count": 429,
-    "validatorVotingPower": 33246993.429999977,
-    "validatorVotingPowerProportion": 8.1
+    "count": 421,
+    "validatorVotingPower": 33053781.81999998,
+    "validatorVotingPowerProportion": 8.05
   },
   {
     "hosting_provider": "Nitrado (marbis)",
@@ -43,15 +43,15 @@
   },
   {
     "hosting_provider": "ReliableSite.Net",
-    "count": 101,
-    "validatorVotingPower": 8722302.930000002,
-    "validatorVotingPowerProportion": 2.13
+    "count": 100,
+    "validatorVotingPower": 8491577.260000002,
+    "validatorVotingPowerProportion": 2.07
   },
   {
     "hosting_provider": "Unknown",
     "count": 59,
-    "validatorVotingPower": 7960922.580000001,
-    "validatorVotingPowerProportion": 1.94
+    "validatorVotingPower": 7933177.160000001,
+    "validatorVotingPowerProportion": 1.93
   },
   {
     "hosting_provider": "IP Exchange",
@@ -79,9 +79,9 @@
   },
   {
     "hosting_provider": "InterServer",
-    "count": 71,
-    "validatorVotingPower": 4795454.049999999,
-    "validatorVotingPowerProportion": 1.17
+    "count": 72,
+    "validatorVotingPower": 5023202.43,
+    "validatorVotingPowerProportion": 1.22
   },
   {
     "hosting_provider": "Hurricane Electric",
@@ -109,9 +109,9 @@
   },
   {
     "hosting_provider": "Mevspace",
-    "count": 33,
-    "validatorVotingPower": 1705989.3,
-    "validatorVotingPowerProportion": 0.42
+    "count": 34,
+    "validatorVotingPower": 1772983.54,
+    "validatorVotingPowerProportion": 0.43
   },
   {
     "hosting_provider": "ConnetU Ltd",
@@ -156,21 +156,27 @@
     "validatorVotingPowerProportion": 0.22
   },
   {
+    "hosting_provider": "Ikoula",
+    "count": 13,
+    "validatorVotingPower": 851194.4499999997,
+    "validatorVotingPowerProportion": 0.21
+  },
+  {
     "hosting_provider": "Cherry Servers",
     "count": 5,
     "validatorVotingPower": 816484.2400000001,
     "validatorVotingPowerProportion": 0.2
   },
   {
-    "hosting_provider": "Ikoula",
-    "count": 12,
-    "validatorVotingPower": 781225.6199999999,
-    "validatorVotingPowerProportion": 0.19
-  },
-  {
     "hosting_provider": "ISPsystem",
     "count": 10,
     "validatorVotingPower": 712142.99,
+    "validatorVotingPowerProportion": 0.17
+  },
+  {
+    "hosting_provider": "UARNet",
+    "count": 9,
+    "validatorVotingPower": 680282.42,
     "validatorVotingPowerProportion": 0.17
   },
   {
@@ -196,12 +202,6 @@
     "count": 4,
     "validatorVotingPower": 555591.14,
     "validatorVotingPowerProportion": 0.14
-  },
-  {
-    "hosting_provider": "UARNet",
-    "count": 7,
-    "validatorVotingPower": 523763.11,
-    "validatorVotingPowerProportion": 0.13
   },
   {
     "hosting_provider": "Wholesail Networks - Main",
@@ -474,6 +474,12 @@
     "validatorVotingPowerProportion": 0.02
   },
   {
+    "hosting_provider": "Sibirskie Seti AS34757",
+    "count": 2,
+    "validatorVotingPower": 60702.27,
+    "validatorVotingPowerProportion": 0.01
+  },
+  {
     "hosting_provider": "ManagedWay Company",
     "count": 1,
     "validatorVotingPower": 52507.8,
@@ -483,12 +489,6 @@
     "hosting_provider": "Scaleway",
     "count": 1,
     "validatorVotingPower": 48561.44,
-    "validatorVotingPowerProportion": 0.01
-  },
-  {
-    "hosting_provider": "Sibirskie Seti AS34757",
-    "count": 1,
-    "validatorVotingPower": 31150.51,
     "validatorVotingPowerProportion": 0.01
   },
   {
