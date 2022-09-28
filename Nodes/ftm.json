@@ -2,19 +2,19 @@
   {
     "name": "Fantom",
     "symbol": "FTM",
-    "timestamp": "2022-09-27 18:07:02",
-    "validators": 71,
+    "timestamp": "2022-09-28 18:08:10",
+    "validators": 72,
     "nodes": 0,
-    "total": 71,
+    "total": 72,
     "source": "https://explorer.fantom.network/staking",
     "market_cap_rank": 76,
-    "market_cap": 574289166,
-    "volume": 152573345,
+    "market_cap": 581177983,
+    "volume": 156996405,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 1,
+    "validatordiffper": 1.41,
+    "totaldiff": 1,
+    "totaldiffper": 1.41
   }
 ]
