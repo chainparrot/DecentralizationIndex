@@ -1,27 +1,27 @@
 [
     {
         "validator": "Other",
-        "delegator": 180309,
-        "percentage": 31.65
+        "delegator": 279324,
+        "percentage": 48.98
     },
     {
         "validator": "Everstake",
-        "delegator": 154988,
+        "delegator": 155093,
         "percentage": 27.2
     },
     {
         "validator": "Chorus One",
         "delegator": 30011,
-        "percentage": 5.27
-    },
-    {
-        "validator": "stake.systems",
-        "delegator": 23970,
-        "percentage": 4.21
+        "percentage": 5.26
     },
     {
         "validator": "Jump Crypto",
-        "delegator": 21914,
+        "delegator": 21928,
         "percentage": 3.85
+    },
+    {
+        "validator": "Shinobi Systems \ud83d\ude80 stakeview.app",
+        "delegator": 11660,
+        "percentage": 2.04
     }
 ]
