@@ -2,19 +2,19 @@
   {
     "name": "Komodo",
     "symbol": "KMD",
-    "timestamp": "2022-09-28 10:06:06",
+    "timestamp": "2022-09-29 10:06:16",
     "validators": 0,
-    "nodes": 54,
-    "total": 54,
+    "nodes": 57,
+    "total": 57,
     "source": "https://dexstats.info/",
-    "market_cap_rank": 497,
-    "market_cap": 33232220,
-    "volume": 865747,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap_rank": 492,
+    "market_cap": 34635047,
+    "volume": 795466,
+    "nodediff": 3,
+    "nodediffper": 5.56,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": 3,
+    "totaldiffper": 5.56
   }
 ]
