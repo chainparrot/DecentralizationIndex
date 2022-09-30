@@ -2,19 +2,19 @@
   {
     "name": "IOTA",
     "symbol": "MIOTA",
-    "timestamp": "2022-09-29 22:04:02",
+    "timestamp": "2022-09-30 22:03:38",
     "validators": 0,
-    "nodes": 365,
-    "total": 365,
+    "nodes": 355,
+    "total": 355,
     "source": "https://thetangle.org/nodes",
     "market_cap_rank": 58,
-    "market_cap": 804731433,
-    "volume": 26937764,
-    "nodediff": 2,
-    "nodediffper": 0.55,
+    "market_cap": 792385460,
+    "volume": 18145284,
+    "nodediff": -10,
+    "nodediffper": -2.74,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 2,
-    "totaldiffper": 0.55
+    "totaldiff": -10,
+    "totaldiffper": -2.74
   }
 ]
