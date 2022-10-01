@@ -2,19 +2,19 @@
   {
     "name": "Near",
     "symbol": "NEAR",
-    "timestamp": "2022-09-30 22:03:02",
-    "validators": 104,
+    "timestamp": "2022-10-01 22:03:04",
+    "validators": 113,
     "nodes": 0,
-    "total": 104,
+    "total": 113,
     "source": "https://explorer.near.org/nodes/validators",
     "market_cap_rank": 28,
-    "market_cap": 2822046952,
-    "volume": 147305610,
+    "market_cap": 2845064060,
+    "volume": 79207775,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -10,
-    "validatordiffper": -8.77,
-    "totaldiff": -10,
-    "totaldiffper": -8.77
+    "validatordiff": 9,
+    "validatordiffper": 8.65,
+    "totaldiff": 9,
+    "totaldiffper": 8.65
   }
 ]
