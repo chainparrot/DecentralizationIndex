@@ -2,19 +2,19 @@
   {
     "name": "Cardano",
     "symbol": "ADA",
-    "timestamp": "2022-10-01 18:03:50",
+    "timestamp": "2022-10-02 18:03:41",
     "validators": 3203,
     "nodes": 0,
     "total": 3203,
     "source": "https://adapools.org/",
     "market_cap_rank": 8,
-    "market_cap": 14549781044,
-    "volume": 321209517,
+    "market_cap": 14407597731,
+    "volume": 306586375,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 3,
-    "validatordiffper": 0.09,
-    "totaldiff": 3,
-    "totaldiffper": 0.09
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
