@@ -2,19 +2,19 @@
   {
     "name": "Siacoin",
     "symbol": "SC",
-    "timestamp": "2022-10-02 10:08:04",
-    "validators": 9,
+    "timestamp": "2022-10-03 10:06:53",
+    "validators": 8,
     "nodes": 0,
-    "total": 9,
+    "total": 8,
     "source": "https://siastats.info/status",
     "market_cap_rank": 173,
-    "market_cap": 177651464,
-    "volume": 1172756,
+    "market_cap": 176398067,
+    "volume": 1681631,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": -1,
+    "validatordiffper": -11.11,
+    "totaldiff": -1,
+    "totaldiffper": -11.11
   }
 ]
