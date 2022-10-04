@@ -2,19 +2,19 @@
   {
     "name": "Everscale",
     "symbol": "EVER",
-    "timestamp": "2022-10-03 14:15:46",
-    "validators": 210,
+    "timestamp": "2022-10-04 14:19:09",
+    "validators": 212,
     "nodes": 0,
-    "total": 210,
+    "total": 212,
     "source": "https://everscan.io/validators",
-    "market_cap_rank": 315,
-    "market_cap": 72222342,
-    "volume": 10480583,
+    "market_cap_rank": 333,
+    "market_cap": 68799799,
+    "volume": 10704837,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 2,
+    "validatordiffper": 0.95,
+    "totaldiff": 2,
+    "totaldiffper": 0.95
   }
 ]
