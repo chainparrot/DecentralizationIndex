@@ -2,19 +2,19 @@
   {
     "name": "Osmosis",
     "symbol": "OSMO",
-    "timestamp": "2022-10-03 18:08:57",
+    "timestamp": "2022-10-04 18:11:15",
     "validators": 150,
     "nodes": 0,
     "total": 150,
     "source": "https://www.mintscan.io/osmosis/validators",
     "market_cap_rank": 80,
-    "market_cap": 503933107,
-    "volume": 7890428,
+    "market_cap": 502857418,
+    "volume": 8526581,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 15,
-    "validatordiffper": 11.11,
-    "totaldiff": 15,
-    "totaldiffper": 11.11
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
