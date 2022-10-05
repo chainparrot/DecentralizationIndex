@@ -2,21 +2,21 @@
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-10-04 14:15:00",
-    "validators": 24,
+    "timestamp": "2022-10-05 14:25:51",
+    "validators": 25,
     "nodes": 0,
-    "total": 24,
+    "total": 25,
     "source": "https://www.bnbchain.org/en/staking",
     "consensus_long": "Proof of Staked Authority",
     "consensus_short": "PoSA",
     "market_cap_rank": 4,
-    "market_cap": 47697282647,
-    "volume": 227021904,
+    "market_cap": 47676640437,
+    "volume": 546590257,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 1,
-    "validatordiffper": 4.35,
+    "validatordiffper": 4.17,
     "totaldiff": 1,
-    "totaldiffper": 4.35
+    "totaldiffper": 4.17
   }
 ]
