@@ -1,14 +1,11 @@
 {
-    "totalVotingPower": 411435683.4299998,
-    "totalVotingPowerUSD": 13844810747.419474,
-    "totalValidatorCount": 2034,
-    "timestamp": 1664881584,
+    "totalVotingPower": 406354197.92999995,
+    "totalVotingPowerUSD": 13702263554.199608,
+    "totalValidatorCount": 2004,
+    "timestamp": 1664968047,
     "number1ValidatorName": "Coinbase Cloud",
-    "number1ValidatorVotingPowerProportion": 2.59,
-    "delinquentcount": 299,
-    "unweightSkipRateRatio": 10.613843766614135,
-    "weightSkipRateRatio": 8.318308150252978,
-    "delegator": 568374,
-    "top1withdel": "Everstake",
-    "top1withdel_percentage": 27.34
+    "number1ValidatorVotingPowerProportion": 2.62,
+    "delinquentcount": 329,
+    "unweightSkipRateRatio": 10.84660783317818,
+    "weightSkipRateRatio": 8.764448860566754
 }
