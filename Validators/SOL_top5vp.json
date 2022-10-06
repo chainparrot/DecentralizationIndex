@@ -1,38 +1,38 @@
 [
     {
         "validatorName": "Coinbase Cloud",
-        "validatorVotingPower": 10641175.51,
-        "validatorVotingPowerProportion": 2.62,
+        "validatorVotingPower": 10650742.86,
+        "validatorVotingPowerProportion": 2.59,
         "rank": 1
     },
     {
         "validatorName": "Staking Facilities",
-        "validatorVotingPower": 7749134.76,
-        "validatorVotingPowerProportion": 1.91,
+        "validatorVotingPower": 7752542.24,
+        "validatorVotingPowerProportion": 1.88,
         "rank": 2
     },
     {
         "validatorName": "EVw8uChLbfXm6qJnSQkzmmRmcq2YZLFqzL8p5Vb43DvU",
         "validatorVotingPower": 6600004.61,
-        "validatorVotingPowerProportion": 1.62,
+        "validatorVotingPowerProportion": 1.6,
         "rank": 3
     },
     {
-        "validatorName": "Kraken",
-        "validatorVotingPower": 6207449.86,
-        "validatorVotingPowerProportion": 1.53,
+        "validatorName": "binance staking",
+        "validatorVotingPower": 6212877.31,
+        "validatorVotingPowerProportion": 1.51,
         "rank": 4
     },
     {
-        "validatorName": "binance staking",
-        "validatorVotingPower": 6206464.9,
-        "validatorVotingPowerProportion": 1.53,
+        "validatorName": "Kraken",
+        "validatorVotingPower": 6207449.97,
+        "validatorVotingPowerProportion": 1.51,
         "rank": 5
     },
     {
         "validatorName": "Everstake",
-        "validatorVotingPower": 5303482.0,
-        "validatorVotingPowerProportion": 1.31,
+        "validatorVotingPower": 5308501.15,
+        "validatorVotingPowerProportion": 1.29,
         "rank": 6
     }
 ]
