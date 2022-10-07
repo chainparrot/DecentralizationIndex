@@ -2,19 +2,19 @@
   {
     "name": "Ripple",
     "symbol": "XRP",
-    "timestamp": "2022-10-06 18:05:35",
-    "validators": 135,
-    "nodes": 729,
-    "total": 864,
+    "timestamp": "2022-10-07 18:08:49",
+    "validators": 133,
+    "nodes": 739,
+    "total": 872,
     "source": "https://livenet.xrpl.org/",
     "market_cap_rank": 6,
-    "market_cap": 24776555615,
-    "volume": 1893629294,
-    "nodediff": -9,
-    "nodediffper": -1.22,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": -9,
-    "totaldiffper": -1.03
+    "market_cap": 25592033918,
+    "volume": 2088076800,
+    "nodediff": 10,
+    "nodediffper": 1.37,
+    "validatordiff": -2,
+    "validatordiffper": -1.48,
+    "totaldiff": 8,
+    "totaldiffper": 0.93
   }
 ]
