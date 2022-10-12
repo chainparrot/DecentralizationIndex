@@ -2,19 +2,19 @@
   {
     "name": "Multichain",
     "symbol": "MULTI",
-    "timestamp": "2022-10-11 22:02:59",
+    "timestamp": "2022-10-12 22:03:08",
     "validators": 0,
-    "nodes": 24,
-    "total": 24,
+    "nodes": 23,
+    "total": 23,
     "source": "https://anyswap.net/network",
-    "market_cap_rank": 333,
-    "market_cap": 66454327,
-    "volume": 1297970,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap_rank": 326,
+    "market_cap": 67363641,
+    "volume": 1174604,
+    "nodediff": -1,
+    "nodediffper": -4.17,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "totaldiff": -1,
+    "totaldiffper": -4.17
   }
 ]
