@@ -17,7 +17,7 @@
     "totaldiff": 503,
     "totaldiffper": 0.11,
     "rank": 1,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -38,7 +38,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 2,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -59,7 +59,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 3,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -80,7 +80,7 @@
     "totaldiff": -5,
     "totaldiffper": -0.16,
     "rank": 4,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -101,30 +101,30 @@
     "totaldiff": 45,
     "totaldiffper": 2.24,
     "rank": 5,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2022-10-14 14:15:42",
-    "validators": 1249,
+    "timestamp": "2022-10-15 14:03:56",
+    "validators": 1239,
     "nodes": 0,
-    "total": 1249,
+    "total": 1239,
     "source": "https://avascan.info",
     "consensus_long": "Proof of Stake",
     "consensus_short": "PoS",
-    "market_cap_rank": 19,
-    "market_cap": 4816570290,
-    "volume": 351237472,
+    "market_cap_rank": 18,
+    "market_cap": 4651358219,
+    "volume": 129864779,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -1,
-    "validatordiffper": -0.08,
-    "totaldiff": -1,
-    "totaldiffper": -0.08,
+    "validatordiff": -10,
+    "validatordiffper": -0.8,
+    "totaldiff": -10,
+    "totaldiffper": -0.8,
     "rank": 6,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -145,7 +145,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 7,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -166,7 +166,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 8,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -187,7 +187,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 9,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -208,7 +208,7 @@
     "totaldiff": -6,
     "totaldiffper": -1.79,
     "rank": 10,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -229,7 +229,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 11,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -250,28 +250,28 @@
     "totaldiff": 1,
     "totaldiffper": 0.46,
     "rank": 12,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "Everscale",
     "symbol": "EVER",
-    "timestamp": "2022-10-14 14:15:32",
-    "validators": 213,
+    "timestamp": "2022-10-15 14:03:49",
+    "validators": 216,
     "nodes": 0,
-    "total": 213,
+    "total": 216,
     "source": "https://everscan.io/validators",
-    "market_cap_rank": 329,
-    "market_cap": 68331669,
-    "volume": 12433484,
+    "market_cap_rank": 335,
+    "market_cap": 65759328,
+    "volume": 13878767,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 3,
-    "validatordiffper": 1.43,
+    "validatordiffper": 1.41,
     "totaldiff": 3,
-    "totaldiffper": 1.43,
+    "totaldiffper": 1.41,
     "rank": 13,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -292,7 +292,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 14,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -313,22 +313,22 @@
     "totaldiff": 19,
     "totaldiffper": 10.44,
     "rank": 15,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "Celo",
     "symbol": "CELO",
-    "timestamp": "2022-10-14 14:15:52",
+    "timestamp": "2022-10-15 14:05:51",
     "validators": 179,
     "nodes": 0,
     "total": 179,
     "source": "https://thecelo.com/validators",
     "consensus_long": "Byzantine Fault Tolerant",
     "consensus_short": "BFT",
-    "market_cap_rank": 111,
-    "market_cap": 362482966,
-    "volume": 18441401,
+    "market_cap_rank": 114,
+    "market_cap": 348095544,
+    "volume": 11567579,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -336,22 +336,22 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 16,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "Cosmos",
     "symbol": "ATOM",
-    "timestamp": "2022-10-14 14:15:46",
+    "timestamp": "2022-10-15 14:04:00",
     "validators": 175,
     "nodes": 0,
     "total": 175,
     "source": "https://www.mintscan.io/cosmos/validators",
     "consensus_long": "Byzantine Fault Tolerant",
     "consensus_short": "BFT",
-    "market_cap_rank": 23,
-    "market_cap": 3531686702,
-    "volume": 383334183,
+    "market_cap_rank": 24,
+    "market_cap": 3393982247,
+    "volume": 182521547,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -359,7 +359,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 17,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -380,7 +380,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 18,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -401,7 +401,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 19,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -422,7 +422,7 @@
     "totaldiff": -1,
     "totaldiffper": -0.64,
     "rank": 20,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -443,7 +443,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 21,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -464,7 +464,7 @@
     "totaldiff": 1,
     "totaldiffper": 0.11,
     "rank": 22,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -485,7 +485,7 @@
     "totaldiff": 1,
     "totaldiffper": 0.75,
     "rank": 23,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -506,7 +506,7 @@
     "totaldiff": -1,
     "totaldiffper": -0.79,
     "rank": 24,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -527,7 +527,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 25,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -548,13 +548,13 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 26,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "Cronos",
     "symbol": "CRO",
-    "timestamp": "2022-10-14 14:15:47",
+    "timestamp": "2022-10-15 14:04:01",
     "validators": 100,
     "nodes": 0,
     "total": 100,
@@ -562,8 +562,8 @@
     "consensus_long": "Byzantine Fault Tolerant",
     "consensus_short": "BFT",
     "market_cap_rank": 28,
-    "market_cap": 2654992438,
-    "volume": 27310042,
+    "market_cap": 2641151817,
+    "volume": 19919243,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -571,7 +571,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 27,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -592,22 +592,22 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 28,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "Casper",
     "symbol": "CSPR",
-    "timestamp": "2022-10-14 14:15:41",
+    "timestamp": "2022-10-15 14:03:55",
     "validators": 100,
     "nodes": 0,
     "total": 100,
     "source": "https://cspr.live/validators",
     "consensus_long": "Proof of Stake",
     "consensus_short": "PoS",
-    "market_cap_rank": 107,
-    "market_cap": 370235312,
-    "volume": 18660150,
+    "market_cap_rank": 99,
+    "market_cap": 389320053,
+    "volume": 13888456,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -615,7 +615,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 29,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -636,7 +636,7 @@
     "totaldiff": 1,
     "totaldiffper": 1.09,
     "rank": 30,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -657,7 +657,7 @@
     "totaldiff": -1,
     "totaldiffper": -1.08,
     "rank": 31,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -678,7 +678,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 32,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -699,7 +699,7 @@
     "totaldiff": 1,
     "totaldiffper": 1.28,
     "rank": 33,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -720,7 +720,7 @@
     "totaldiff": -1,
     "totaldiffper": -1.39,
     "rank": 34,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -741,7 +741,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 35,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -762,7 +762,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 36,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -785,7 +785,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 37,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -806,7 +806,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 38,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -827,7 +827,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 39,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -848,7 +848,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 40,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -869,7 +869,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 41,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -890,7 +890,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 42,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -911,7 +911,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 43,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -932,7 +932,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 44,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -953,7 +953,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 45,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -974,20 +974,20 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 46,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "EOS",
     "symbol": "EOS",
-    "timestamp": "2022-10-14 14:15:44",
+    "timestamp": "2022-10-15 14:03:58",
     "validators": 21,
     "nodes": 0,
     "total": 21,
     "source": "https://eosauthority.com",
-    "market_cap_rank": 49,
-    "market_cap": 1050870862,
-    "volume": 258214936,
+    "market_cap_rank": 48,
+    "market_cap": 1060473175,
+    "volume": 116588220,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -995,7 +995,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 47,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -1016,20 +1016,20 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 48,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "GoChain",
     "symbol": "GO",
-    "timestamp": "2022-10-14 14:15:31",
+    "timestamp": "2022-10-15 14:03:48",
     "validators": 19,
     "nodes": 0,
     "total": 19,
     "source": "https://explorer.gochain.io/signers?signers_tab=daily",
-    "market_cap_rank": 938,
-    "market_cap": 8708971,
-    "volume": 286676,
+    "market_cap_rank": 947,
+    "market_cap": 8299089,
+    "volume": 247161,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -1037,7 +1037,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 49,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -1058,7 +1058,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 50,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -1081,7 +1081,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 51,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -1102,7 +1102,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 52,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
@@ -1123,13 +1123,13 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 53,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   },
   {
     "name": "BNB",
     "symbol": "BNB",
-    "timestamp": "2022-10-14 14:15:24",
+    "timestamp": "2022-10-15 14:03:39",
     "validators": 0,
     "nodes": 0,
     "total": 0,
@@ -1137,8 +1137,8 @@
     "consensus_long": "Proof of Staked Authority",
     "consensus_short": "PoSA",
     "market_cap_rank": 5,
-    "market_cap": 44647586828,
-    "volume": 781305511,
+    "market_cap": 44231910968,
+    "volume": 233088716,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -1146,7 +1146,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 54,
-    "created": "2022-10-15 10:06:16",
+    "created": "2022-10-15 14:05:52",
     "chaintype": "PoS"
   }
 ]
