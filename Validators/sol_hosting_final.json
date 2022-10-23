@@ -1,182 +1,182 @@
 [
   {
     "hosting_provider": "Hetzner Online",
-    "count": 1017,
-    "validatorVotingPower": 88216893.72000006,
-    "validatorVotingPowerProportion": 21.34
+    "count": 1018,
+    "validatorVotingPower": 87464817.74999991,
+    "validatorVotingPowerProportion": 21.2
   },
   {
     "hosting_provider": "Equinix Metal",
-    "count": 60,
-    "validatorVotingPower": 84334628.2,
-    "validatorVotingPowerProportion": 20.4
+    "count": 61,
+    "validatorVotingPower": 84410401.39999998,
+    "validatorVotingPowerProportion": 20.46
   },
   {
     "hosting_provider": "Amazon.com",
-    "count": 34,
-    "validatorVotingPower": 57860745.71000002,
-    "validatorVotingPowerProportion": 14.0
+    "count": 35,
+    "validatorVotingPower": 58220530.470000006,
+    "validatorVotingPowerProportion": 14.11
   },
   {
     "hosting_provider": "TeraSwitch",
     "count": 33,
-    "validatorVotingPower": 42021546.269999996,
-    "validatorVotingPowerProportion": 10.17
+    "validatorVotingPower": 42013980.85999999,
+    "validatorVotingPowerProportion": 10.18
   },
   {
     "hosting_provider": "OVHcloud",
-    "count": 358,
-    "validatorVotingPower": 29910276.330000006,
-    "validatorVotingPowerProportion": 7.24
+    "count": 353,
+    "validatorVotingPower": 29552366.30999998,
+    "validatorVotingPowerProportion": 7.16
   },
   {
     "hosting_provider": "Unknown",
-    "count": 66,
-    "validatorVotingPower": 14012999.469999997,
-    "validatorVotingPowerProportion": 3.39
+    "count": 65,
+    "validatorVotingPower": 13858396.289999995,
+    "validatorVotingPowerProportion": 3.36
   },
   {
     "hosting_provider": "ReliableSite.Net",
     "count": 83,
-    "validatorVotingPower": 10868669.170000006,
-    "validatorVotingPowerProportion": 2.63
+    "validatorVotingPower": 10791654.319999993,
+    "validatorVotingPowerProportion": 2.62
   },
   {
     "hosting_provider": "Nitrado (marbis)",
     "count": 4,
-    "validatorVotingPower": 10309771.26,
-    "validatorVotingPowerProportion": 2.49
+    "validatorVotingPower": 10316224.11,
+    "validatorVotingPowerProportion": 2.5
   },
   {
     "hosting_provider": "WebNX",
-    "count": 113,
-    "validatorVotingPower": 9103957.750000004,
+    "count": 114,
+    "validatorVotingPower": 9095385.969999999,
     "validatorVotingPowerProportion": 2.2
   },
   {
     "hosting_provider": "IP Exchange",
     "count": 2,
-    "validatorVotingPower": 7901952.390000001,
-    "validatorVotingPowerProportion": 1.91
+    "validatorVotingPower": 7944521.890000001,
+    "validatorVotingPowerProportion": 1.93
   },
   {
     "hosting_provider": "Amazon AES",
     "count": 4,
-    "validatorVotingPower": 7247607.749999999,
-    "validatorVotingPowerProportion": 1.75
+    "validatorVotingPower": 7252465.07,
+    "validatorVotingPowerProportion": 1.76
   },
   {
     "hosting_provider": "SERVERS.COM",
     "count": 3,
-    "validatorVotingPower": 6295057.03,
-    "validatorVotingPowerProportion": 1.52
+    "validatorVotingPower": 6298542.960000001,
+    "validatorVotingPowerProportion": 1.53
   },
   {
     "hosting_provider": "Latitude.sh_AS396356",
     "count": 9,
-    "validatorVotingPower": 6291436.94,
-    "validatorVotingPowerProportion": 1.52
+    "validatorVotingPower": 6129058.27,
+    "validatorVotingPowerProportion": 1.49
   },
   {
     "hosting_provider": "InterServer",
-    "count": 71,
-    "validatorVotingPower": 4712817.06,
+    "count": 70,
+    "validatorVotingPower": 4695699.37,
     "validatorVotingPowerProportion": 1.14
   },
   {
     "hosting_provider": "Hurricane Electric",
     "count": 2,
-    "validatorVotingPower": 4527173.390000001,
+    "validatorVotingPower": 4528902.51,
     "validatorVotingPowerProportion": 1.1
   },
   {
     "hosting_provider": "Radiokomunikace",
     "count": 2,
-    "validatorVotingPower": 3076328.47,
-    "validatorVotingPowerProportion": 0.74
+    "validatorVotingPower": 3077667.38,
+    "validatorVotingPowerProportion": 0.75
   },
   {
     "hosting_provider": "Mevspace",
-    "count": 38,
-    "validatorVotingPower": 2107698.4799999995,
-    "validatorVotingPowerProportion": 0.51
+    "count": 41,
+    "validatorVotingPower": 2344581.2900000005,
+    "validatorVotingPowerProportion": 0.57
   },
   {
     "hosting_provider": "Oracle Cloud Infrastructure",
-    "count": 7,
-    "validatorVotingPower": 1855349.56,
-    "validatorVotingPowerProportion": 0.45
+    "count": 8,
+    "validatorVotingPower": 1915326.76,
+    "validatorVotingPowerProportion": 0.46
   },
   {
     "hosting_provider": "combahton",
     "count": 1,
-    "validatorVotingPower": 1792548.49,
-    "validatorVotingPowerProportion": 0.43
+    "validatorVotingPower": 1800961.59,
+    "validatorVotingPowerProportion": 0.44
   },
   {
     "hosting_provider": "ConnetU Ltd",
     "count": 1,
-    "validatorVotingPower": 1646116.02,
+    "validatorVotingPower": 1646633.93,
     "validatorVotingPowerProportion": 0.4
+  },
+  {
+    "hosting_provider": "Ikoula",
+    "count": 21,
+    "validatorVotingPower": 1385649.39,
+    "validatorVotingPowerProportion": 0.34
   },
   {
     "hosting_provider": "M247",
     "count": 6,
-    "validatorVotingPower": 1353826.04,
+    "validatorVotingPower": 1352856.7100000002,
     "validatorVotingPowerProportion": 0.33
-  },
-  {
-    "hosting_provider": "Ikoula",
-    "count": 20,
-    "validatorVotingPower": 1319447.9700000002,
-    "validatorVotingPowerProportion": 0.32
   },
   {
     "hosting_provider": "VeloxServ Communications Ltd",
     "count": 2,
-    "validatorVotingPower": 1166166.86,
+    "validatorVotingPower": 1166076.11,
     "validatorVotingPowerProportion": 0.28
   },
   {
     "hosting_provider": "Cherry Servers NL",
     "count": 1,
-    "validatorVotingPower": 1153054.04,
+    "validatorVotingPower": 1153175.24,
     "validatorVotingPowerProportion": 0.28
   },
   {
     "hosting_provider": "RadioNet",
     "count": 16,
-    "validatorVotingPower": 1025728.0199999998,
+    "validatorVotingPower": 1041809.9099999999,
     "validatorVotingPowerProportion": 0.25
-  },
-  {
-    "hosting_provider": "Nexeon Technologies",
-    "count": 2,
-    "validatorVotingPower": 904591.94,
-    "validatorVotingPowerProportion": 0.22
   },
   {
     "hosting_provider": "Cherry Servers",
     "count": 6,
-    "validatorVotingPower": 877228.8600000001,
-    "validatorVotingPowerProportion": 0.21
+    "validatorVotingPower": 906733.44,
+    "validatorVotingPowerProportion": 0.22
+  },
+  {
+    "hosting_provider": "Nexeon Technologies",
+    "count": 2,
+    "validatorVotingPower": 905001.73,
+    "validatorVotingPowerProportion": 0.22
   },
   {
     "hosting_provider": "IP-Projects GmbH & Co. KG",
     "count": 11,
-    "validatorVotingPower": 743324.4999999998,
-    "validatorVotingPowerProportion": 0.18
+    "validatorVotingPower": 764985.87,
+    "validatorVotingPowerProportion": 0.19
   },
   {
     "hosting_provider": "ISPsystem",
     "count": 10,
-    "validatorVotingPower": 719971.7,
+    "validatorVotingPower": 716685.5399999999,
     "validatorVotingPowerProportion": 0.17
   },
   {
     "hosting_provider": "UARNet",
     "count": 9,
-    "validatorVotingPower": 614619.7899999999,
+    "validatorVotingPower": 611272.44,
     "validatorVotingPowerProportion": 0.15
   },
   {
@@ -186,316 +186,316 @@
     "validatorVotingPowerProportion": 0.15
   },
   {
-    "hosting_provider": "23M GmbH",
-    "count": 1,
-    "validatorVotingPower": 576331.33,
+    "hosting_provider": "Lumen AS 3356",
+    "count": 4,
+    "validatorVotingPower": 581109.4299999999,
     "validatorVotingPowerProportion": 0.14
   },
   {
-    "hosting_provider": "Nexril",
-    "count": 7,
-    "validatorVotingPower": 499360.32999999996,
-    "validatorVotingPowerProportion": 0.12
-  },
-  {
-    "hosting_provider": "Lumen AS 3356",
-    "count": 3,
-    "validatorVotingPower": 472943.30000000005,
-    "validatorVotingPowerProportion": 0.11
+    "hosting_provider": "23M GmbH",
+    "count": 1,
+    "validatorVotingPower": 577351.16,
+    "validatorVotingPowerProportion": 0.14
   },
   {
     "hosting_provider": "Wholesail Networks - Main",
     "count": 1,
-    "validatorVotingPower": 469182.47,
+    "validatorVotingPower": 473604.33,
+    "validatorVotingPowerProportion": 0.11
+  },
+  {
+    "hosting_provider": "Nexril",
+    "count": 6,
+    "validatorVotingPower": 436836.41,
     "validatorVotingPowerProportion": 0.11
   },
   {
     "hosting_provider": "Amarutu Technology Ltd.",
     "count": 3,
-    "validatorVotingPower": 389645.84,
+    "validatorVotingPower": 388913.71,
     "validatorVotingPowerProportion": 0.09
   },
   {
     "hosting_provider": "ServerMania Inc",
     "count": 4,
-    "validatorVotingPower": 361124.22000000003,
+    "validatorVotingPower": 387236.24000000005,
     "validatorVotingPowerProportion": 0.09
   },
   {
     "hosting_provider": "Contabo GmbH",
     "count": 5,
-    "validatorVotingPower": 340399.82999999996,
+    "validatorVotingPower": 338811.15,
     "validatorVotingPowerProportion": 0.08
   },
   {
     "hosting_provider": "Blix Solutions AS",
     "count": 2,
-    "validatorVotingPower": 309352.81,
-    "validatorVotingPowerProportion": 0.07
-  },
-  {
-    "hosting_provider": "MARKLEY-NETWORK-SERVICES",
-    "count": 1,
-    "validatorVotingPower": 300002.98,
+    "validatorVotingPower": 306601.32,
     "validatorVotingPowerProportion": 0.07
   },
   {
     "hosting_provider": "StackPath (Highwinds)",
     "count": 2,
-    "validatorVotingPower": 238304.52000000002,
+    "validatorVotingPower": 250946.52999999997,
     "validatorVotingPowerProportion": 0.06
-  },
-  {
-    "hosting_provider": "Tier.Net Technologies LLC",
-    "count": 3,
-    "validatorVotingPower": 226497.34,
-    "validatorVotingPowerProportion": 0.05
   },
   {
     "hosting_provider": "ISP LinkCom",
     "count": 4,
-    "validatorVotingPower": 225187.58000000002,
+    "validatorVotingPower": 224455.94,
+    "validatorVotingPowerProportion": 0.05
+  },
+  {
+    "hosting_provider": "Tier.Net Technologies LLC",
+    "count": 3,
+    "validatorVotingPower": 220916.27000000002,
     "validatorVotingPowerProportion": 0.05
   },
   {
     "hosting_provider": "Lovitel LLC",
     "count": 3,
-    "validatorVotingPower": 216549.33999999997,
+    "validatorVotingPower": 215440.56,
     "validatorVotingPowerProportion": 0.05
   },
   {
-    "hosting_provider": "Latitude.sh_AS262287",
+    "hosting_provider": "MARKLEY-NETWORK-SERVICES",
     "count": 1,
-    "validatorVotingPower": 192142.35,
+    "validatorVotingPower": 200002.98,
     "validatorVotingPowerProportion": 0.05
   },
   {
     "hosting_provider": "uvensys",
     "count": 1,
-    "validatorVotingPower": 191317.42,
+    "validatorVotingPower": 190892.18,
     "validatorVotingPowerProportion": 0.05
   },
   {
-    "hosting_provider": "Data Foundry",
+    "hosting_provider": "Latitude.sh_AS262287",
     "count": 1,
-    "validatorVotingPower": 190993.04,
+    "validatorVotingPower": 190089.14,
     "validatorVotingPowerProportion": 0.05
   },
   {
     "hosting_provider": "SIA Bite Latvija (old Latnet)",
     "count": 2,
-    "validatorVotingPower": 186311.09,
-    "validatorVotingPowerProportion": 0.05
+    "validatorVotingPower": 185587.77000000002,
+    "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "myLoc managed IT AG",
     "count": 3,
-    "validatorVotingPower": 182556.96,
+    "validatorVotingPower": 181302.45,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "Ufanet Kazan Branch",
     "count": 2,
-    "validatorVotingPower": 173157.37,
+    "validatorVotingPower": 172429.77000000002,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "Hivelocity INC",
     "count": 4,
-    "validatorVotingPower": 171893.22,
+    "validatorVotingPower": 167868.5,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "INCX Global, LLC",
     "count": 1,
-    "validatorVotingPower": 167718.14,
+    "validatorVotingPower": 167789.93,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "Cogent Communications, Inc.",
     "count": 1,
-    "validatorVotingPower": 153420.35,
+    "validatorVotingPower": 160362.58,
+    "validatorVotingPowerProportion": 0.04
+  },
+  {
+    "hosting_provider": "Data Foundry",
+    "count": 1,
+    "validatorVotingPower": 155377.9,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "HOSTKEY",
     "count": 2,
-    "validatorVotingPower": 148675.11,
+    "validatorVotingPower": 147933.94,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "ETT",
     "count": 2,
-    "validatorVotingPower": 146979.09,
+    "validatorVotingPower": 146238.99,
     "validatorVotingPowerProportion": 0.04
   },
   {
     "hosting_provider": "Freenet Ltd (tm O3)",
     "count": 2,
-    "validatorVotingPower": 139741.1,
-    "validatorVotingPowerProportion": 0.03
-  },
-  {
-    "hosting_provider": "IPH",
-    "count": 1,
-    "validatorVotingPower": 125589.6,
-    "validatorVotingPowerProportion": 0.03
-  },
-  {
-    "hosting_provider": "ZestySolutions",
-    "count": 1,
-    "validatorVotingPower": 122491.77,
+    "validatorVotingPower": 138997.63,
     "validatorVotingPowerProportion": 0.03
   },
   {
     "hosting_provider": "Web Werks DataCenter",
     "count": 1,
-    "validatorVotingPower": 119958.97,
+    "validatorVotingPower": 137699.27,
+    "validatorVotingPowerProportion": 0.03
+  },
+  {
+    "hosting_provider": "IPH",
+    "count": 1,
+    "validatorVotingPower": 125292.22,
+    "validatorVotingPowerProportion": 0.03
+  },
+  {
+    "hosting_provider": "ZestySolutions",
+    "count": 1,
+    "validatorVotingPower": 117906.88,
     "validatorVotingPowerProportion": 0.03
   },
   {
     "hosting_provider": "MTW.RU",
     "count": 1,
-    "validatorVotingPower": 106011.81,
+    "validatorVotingPower": 105655.51,
     "validatorVotingPowerProportion": 0.03
   },
   {
     "hosting_provider": "ITciti",
     "count": 1,
-    "validatorVotingPower": 102777.76,
+    "validatorVotingPower": 97174.62,
     "validatorVotingPowerProportion": 0.02
   },
   {
-    "hosting_provider": "Sibirskie Seti AS34757",
+    "hosting_provider": "E-Light-Telecom",
     "count": 2,
-    "validatorVotingPower": 82378.45999999999,
+    "validatorVotingPower": 78023.97,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "Filanco AS29076",
     "count": 1,
-    "validatorVotingPower": 74750.58,
+    "validatorVotingPower": 74379.36,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "VEON Group",
     "count": 1,
-    "validatorVotingPower": 74179.48,
+    "validatorVotingPower": 73809.57,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "CALYPSO-IT",
     "count": 1,
-    "validatorVotingPower": 74161.09,
+    "validatorVotingPower": 73791.4,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "Avantel Samara",
     "count": 2,
-    "validatorVotingPower": 74010.81000000001,
+    "validatorVotingPower": 73640.85,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "Colt",
     "count": 1,
-    "validatorVotingPower": 73954.74,
+    "validatorVotingPower": 73584.95,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "Rostelecom",
     "count": 1,
-    "validatorVotingPower": 73789.99,
-    "validatorVotingPowerProportion": 0.02
-  },
-  {
-    "hosting_provider": "Serverel",
-    "count": 1,
-    "validatorVotingPower": 73042.33,
-    "validatorVotingPowerProportion": 0.02
-  },
-  {
-    "hosting_provider": "MiraLogic Telecommunication Systems",
-    "count": 1,
-    "validatorVotingPower": 73031.46,
-    "validatorVotingPowerProportion": 0.02
-  },
-  {
-    "hosting_provider": "Business System Telecom",
-    "count": 1,
-    "validatorVotingPower": 72994.93,
-    "validatorVotingPowerProportion": 0.02
-  },
-  {
-    "hosting_provider": "firstcolo",
-    "count": 1,
-    "validatorVotingPower": 72880.31,
-    "validatorVotingPowerProportion": 0.02
-  },
-  {
-    "hosting_provider": "Servisnet",
-    "count": 1,
-    "validatorVotingPower": 72512.68,
+    "validatorVotingPower": 73419.69,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "Everywhere Wireless",
     "count": 1,
-    "validatorVotingPower": 72498.76,
+    "validatorVotingPower": 73369.24,
+    "validatorVotingPowerProportion": 0.02
+  },
+  {
+    "hosting_provider": "Serverel",
+    "count": 1,
+    "validatorVotingPower": 72671.93,
+    "validatorVotingPowerProportion": 0.02
+  },
+  {
+    "hosting_provider": "MiraLogic Telecommunication Systems",
+    "count": 1,
+    "validatorVotingPower": 72661.05,
+    "validatorVotingPowerProportion": 0.02
+  },
+  {
+    "hosting_provider": "Business System Telecom",
+    "count": 1,
+    "validatorVotingPower": 72624.5,
+    "validatorVotingPowerProportion": 0.02
+  },
+  {
+    "hosting_provider": "firstcolo",
+    "count": 1,
+    "validatorVotingPower": 72509.94,
+    "validatorVotingPowerProportion": 0.02
+  },
+  {
+    "hosting_provider": "Servisnet",
+    "count": 1,
+    "validatorVotingPower": 72140.74,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "Astra-net",
     "count": 1,
-    "validatorVotingPower": 72466.51,
-    "validatorVotingPowerProportion": 0.02
-  },
-  {
-    "hosting_provider": "Zenlayer Inc",
-    "count": 1,
-    "validatorVotingPower": 72340.63,
+    "validatorVotingPower": 72096.48,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "24Shells Inc",
     "count": 1,
-    "validatorVotingPower": 71893.28,
+    "validatorVotingPower": 71522.39,
+    "validatorVotingPowerProportion": 0.02
+  },
+  {
+    "hosting_provider": "Zenlayer Inc",
+    "count": 1,
+    "validatorVotingPower": 66114.0,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "m.it services & consulting",
     "count": 2,
-    "validatorVotingPower": 63033.590000000004,
+    "validatorVotingPower": 62660.07,
     "validatorVotingPowerProportion": 0.02
   },
   {
     "hosting_provider": "King Servers",
     "count": 2,
-    "validatorVotingPower": 57366.62,
-    "validatorVotingPowerProportion": 0.01
-  },
-  {
-    "hosting_provider": "E-Light-Telecom",
-    "count": 2,
-    "validatorVotingPower": 53401.740000000005,
+    "validatorVotingPower": 56989.51,
     "validatorVotingPowerProportion": 0.01
   },
   {
     "hosting_provider": "ManagedWay Company",
     "count": 1,
-    "validatorVotingPower": 51357.35,
+    "validatorVotingPower": 51386.56,
     "validatorVotingPowerProportion": 0.01
   },
   {
-    "hosting_provider": "Scaleway",
+    "hosting_provider": "Sibirskie Seti AS34757",
     "count": 1,
-    "validatorVotingPower": 41133.78,
+    "validatorVotingPower": 50835.29,
     "validatorVotingPowerProportion": 0.01
   },
   {
     "hosting_provider": "ATMAN Basic",
     "count": 1,
-    "validatorVotingPower": 25111.97,
+    "validatorVotingPower": 25122.78,
     "validatorVotingPowerProportion": 0.01
+  },
+  {
+    "hosting_provider": "Scaleway",
+    "count": 1,
+    "validatorVotingPower": 16123.53,
+    "validatorVotingPowerProportion": 0.0
   },
   {
     "hosting_provider": "Google LLC",
@@ -506,7 +506,7 @@
   {
     "hosting_provider": "Lumen AS209",
     "count": 1,
-    "validatorVotingPower": 8298.89,
+    "validatorVotingPower": 8301.01,
     "validatorVotingPowerProportion": 0.0
   },
   {
@@ -518,13 +518,13 @@
   {
     "hosting_provider": "ScaleUp Technologies",
     "count": 1,
-    "validatorVotingPower": 102.89,
+    "validatorVotingPower": 102.93,
     "validatorVotingPowerProportion": 0.0
   },
   {
     "hosting_provider": "SkynetCom",
     "count": 1,
-    "validatorVotingPower": 21.15,
+    "validatorVotingPower": 31.78,
     "validatorVotingPowerProportion": 0.0
   },
   {
