@@ -2,19 +2,19 @@
   {
     "name": "MediBloc",
     "symbol": "MED",
-    "timestamp": "2022-10-25 22:02:53",
-    "validators": 43,
+    "timestamp": "2022-10-26 22:02:34",
+    "validators": 45,
     "nodes": 0,
-    "total": 43,
+    "total": 45,
     "source": "https://www.mintscan.io/medibloc/validators",
-    "market_cap_rank": 243,
-    "market_cap": 99575778,
-    "volume": 10313028,
+    "market_cap_rank": 244,
+    "market_cap": 100956152,
+    "volume": 6368236,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -6,
-    "validatordiffper": -12.24,
-    "totaldiff": -6,
-    "totaldiffper": -12.24
+    "validatordiff": 2,
+    "validatordiffper": 4.65,
+    "totaldiff": 2,
+    "totaldiffper": 4.65
   }
 ]
