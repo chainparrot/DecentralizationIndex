@@ -2,19 +2,19 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "timestamp": "2022-10-26 18:04:02",
-    "validators": 450820,
+    "timestamp": "2022-10-27 18:04:15",
+    "validators": 451888,
     "nodes": 8120,
-    "total": 458940,
+    "total": 460008,
     "source": "https://beaconcha.in",
     "market_cap_rank": 2,
-    "market_cap": 187458567409,
-    "volume": 26794226425,
+    "market_cap": 187491772555,
+    "volume": 17806231281,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 985,
-    "validatordiffper": 0.22,
-    "totaldiff": 985,
-    "totaldiffper": 0.22
+    "validatordiff": 1068,
+    "validatordiffper": 0.24,
+    "totaldiff": 1068,
+    "totaldiffper": 0.23
   }
 ]
