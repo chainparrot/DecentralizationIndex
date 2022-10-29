@@ -2,19 +2,19 @@
   {
     "name": "TomoChain",
     "symbol": "TOMO",
-    "timestamp": "2022-10-28 22:03:24",
+    "timestamp": "2022-10-29 22:02:40",
     "validators": 133,
     "nodes": 0,
     "total": 133,
     "source": "https://tomoscan.io/masternodes",
-    "market_cap_rank": 484,
-    "market_cap": 39102237,
-    "volume": 724484,
+    "market_cap_rank": 483,
+    "market_cap": 39868781,
+    "volume": 1383916,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -1,
-    "validatordiffper": -0.75,
-    "totaldiff": -1,
-    "totaldiffper": -0.75
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
