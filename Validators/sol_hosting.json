@@ -1,730 +1,730 @@
 [
   {
     "asn": 24940,
-    "count": 1030,
-    "validatorVotingPower": 87243228.9099999,
+    "count": 1064,
+    "validatorVotingPower": 92267238.6600001,
     "hosting_provider": "Hetzner Online",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 54825,
     "count": 54,
-    "validatorVotingPower": 71772049.63000001,
+    "validatorVotingPower": 71758826.94,
     "hosting_provider": "Equinix Metal",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 16509,
     "count": 36,
-    "validatorVotingPower": 58101996.14000001,
+    "validatorVotingPower": 58309286.309999995,
     "hosting_provider": "Amazon.com",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 20326,
-    "count": 35,
-    "validatorVotingPower": 47984368.54000002,
+    "count": 36,
+    "validatorVotingPower": 48025996.7,
     "hosting_provider": "TeraSwitch",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 16276,
-    "count": 329,
-    "validatorVotingPower": 28142171.18999999,
+    "count": 338,
+    "validatorVotingPower": 29405622.17000002,
     "hosting_provider": "OVHcloud",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 0,
     "count": 17,
-    "validatorVotingPower": 16204701.44,
+    "validatorVotingPower": 16210144.140000002,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 23470,
-    "count": 77,
-    "validatorVotingPower": 10556911.849999994,
-    "hosting_provider": "ReliableSite.Net",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 199610,
-    "count": 3,
-    "validatorVotingPower": 10144298.320000002,
+    "count": 4,
+    "validatorVotingPower": 10321434.87,
     "hosting_provider": "Nitrado (marbis)",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 18450,
-    "count": 114,
-    "validatorVotingPower": 9024756.490000002,
+    "count": 115,
+    "validatorVotingPower": 9102784.440000001,
     "hosting_provider": "WebNX",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 15598,
     "count": 2,
-    "validatorVotingPower": 8430740.959999999,
+    "validatorVotingPower": 8450035.29,
     "hosting_provider": "IP Exchange",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 14618,
+    "count": 4,
+    "validatorVotingPower": 7209777.98,
+    "hosting_provider": "Amazon AES",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 23470,
+    "count": 76,
+    "validatorVotingPower": 6825339.41,
+    "hosting_provider": "ReliableSite.Net",
+    "timestamp": 1667127869
   },
   {
     "asn": 7979,
     "count": 3,
-    "validatorVotingPower": 6309492.129999999,
+    "validatorVotingPower": 6316976.44,
     "hosting_provider": "SERVERS.COM",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 396356,
     "count": 9,
-    "validatorVotingPower": 6057756.1899999995,
+    "validatorVotingPower": 6062345.84,
     "hosting_provider": "Latitude.sh_AS396356",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 19318,
-    "count": 68,
-    "validatorVotingPower": 4638912.87,
+    "count": 69,
+    "validatorVotingPower": 4636480.200000001,
     "hosting_provider": "InterServer",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 6939,
     "count": 2,
-    "validatorVotingPower": 4532551.37,
+    "validatorVotingPower": 4534604.71,
     "hosting_provider": "Hurricane Electric",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 25248,
     "count": 2,
-    "validatorVotingPower": 3079442.25,
+    "validatorVotingPower": 3080843.33,
     "hosting_provider": "Radiokomunikace",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 201814,
-    "count": 33,
-    "validatorVotingPower": 1986676.4299999997,
+    "count": 34,
+    "validatorVotingPower": 2061815.0199999998,
     "hosting_provider": "Mevspace",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 31898,
     "count": 8,
-    "validatorVotingPower": 1913016.77,
+    "validatorVotingPower": 1936533.95,
     "hosting_provider": "Oracle Cloud Infrastructure",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 30823,
     "count": 1,
-    "validatorVotingPower": 1797018.84,
+    "validatorVotingPower": 1797981.12,
     "hosting_provider": "combahton",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 51945,
     "count": 1,
-    "validatorVotingPower": 1647701.7,
+    "validatorVotingPower": 1648441.54,
     "hosting_provider": "ConnetU Ltd",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 9009,
-    "count": 5,
-    "validatorVotingPower": 1254621.1700000002,
+    "count": 6,
+    "validatorVotingPower": 1346447.85,
     "hosting_provider": "M247",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 21409,
-    "count": 20,
-    "validatorVotingPower": 1252235.9499999997,
+    "count": 22,
+    "validatorVotingPower": 1314326.39,
     "hosting_provider": "Ikoula",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 60945,
     "count": 2,
-    "validatorVotingPower": 1166115.8800000001,
+    "validatorVotingPower": 1166615.05,
     "hosting_provider": "VeloxServ Communications Ltd",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 59642,
     "count": 1,
-    "validatorVotingPower": 1153881.68,
+    "validatorVotingPower": 1154455.16,
     "hosting_provider": "Cherry Servers NL",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 16143,
-    "count": 16,
-    "validatorVotingPower": 1020289.0299999999,
+    "count": 17,
+    "validatorVotingPower": 1111636.02,
     "hosting_provider": "RadioNet",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 16125,
-    "count": 6,
-    "validatorVotingPower": 905524.8899999999,
-    "hosting_provider": "Cherry Servers",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 20278,
     "count": 2,
-    "validatorVotingPower": 900754.68,
+    "validatorVotingPower": 901664.71,
     "hosting_provider": "Nexeon Technologies",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 16125,
+    "count": 6,
+    "validatorVotingPower": 895034.96,
+    "hosting_provider": "Cherry Servers",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 48314,
+    "count": 11,
+    "validatorVotingPower": 754486.8200000001,
+    "hosting_provider": "IP-Projects GmbH & Co. KG",
+    "timestamp": 1667127869
   },
   {
     "asn": 29182,
     "count": 10,
-    "validatorVotingPower": 707641.1200000001,
+    "validatorVotingPower": 708476.2100000001,
     "hosting_provider": "ISPsystem",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 48314,
-    "count": 10,
-    "validatorVotingPower": 697005.4,
-    "hosting_provider": "IP-Projects GmbH & Co. KG",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 3255,
     "count": 9,
-    "validatorVotingPower": 607676.8400000001,
+    "validatorVotingPower": 607936.26,
     "hosting_provider": "UARNet",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 396477,
     "count": 1,
     "validatorVotingPower": 600059.89,
     "hosting_provider": "DNSnetworks",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 47447,
     "count": 1,
-    "validatorVotingPower": 571485.26,
+    "validatorVotingPower": 571461.07,
     "hosting_provider": "23M GmbH",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 397086,
-    "count": 7,
-    "validatorVotingPower": 561782.65,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 58061,
-    "count": 7,
-    "validatorVotingPower": 496290.42000000004,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 13830,
-    "count": 7,
-    "validatorVotingPower": 493958.8900000001,
-    "hosting_provider": "Nexril",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 20055,
-    "count": 1,
-    "validatorVotingPower": 489699.17,
-    "hosting_provider": "Wholesail Networks - Main",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 3356,
     "count": 4,
-    "validatorVotingPower": 468014.26999999996,
+    "validatorVotingPower": 558650.39,
     "hosting_provider": "Lumen AS 3356",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 58061,
+    "count": 7,
+    "validatorVotingPower": 496501.1800000001,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 20055,
+    "count": 1,
+    "validatorVotingPower": 488471.39,
+    "hosting_provider": "Wholesail Networks - Main",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 13830,
+    "count": 6,
+    "validatorVotingPower": 422184.23000000004,
+    "hosting_provider": "Nexril",
+    "timestamp": 1667127869
   },
   {
     "asn": 55286,
     "count": 4,
-    "validatorVotingPower": 391492.91000000003,
+    "validatorVotingPower": 392246.18000000005,
     "hosting_provider": "ServerMania Inc",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 206264,
     "count": 3,
-    "validatorVotingPower": 381878.95999999996,
+    "validatorVotingPower": 382145.46,
     "hosting_provider": "Amarutu Technology Ltd.",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 397086,
+    "count": 7,
+    "validatorVotingPower": 378548.94000000006,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
   },
   {
     "asn": 212695,
     "count": 5,
-    "validatorVotingPower": 363308.10000000003,
+    "validatorVotingPower": 363461.88999999996,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 50304,
-    "count": 2,
-    "validatorVotingPower": 311513.76,
-    "hosting_provider": "Blix Solutions AS",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 22439,
     "count": 5,
-    "validatorVotingPower": 307355.92,
+    "validatorVotingPower": 353426.70999999996,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 50304,
+    "count": 2,
+    "validatorVotingPower": 312481.12,
+    "hosting_provider": "Blix Solutions AS",
+    "timestamp": 1667127869
   },
   {
     "asn": 41668,
     "count": 4,
-    "validatorVotingPower": 286899.94,
+    "validatorVotingPower": 287022.58,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 397423,
     "count": 3,
-    "validatorVotingPower": 250485.78999999998,
+    "validatorVotingPower": 251806.64,
     "hosting_provider": "Tier.Net Technologies LLC",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 59577,
     "count": 4,
-    "validatorVotingPower": 223682.22,
+    "validatorVotingPower": 223951.6,
     "hosting_provider": "ISP LinkCom",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 41275,
     "count": 3,
-    "validatorVotingPower": 214249.54,
+    "validatorVotingPower": 214338.13,
     "hosting_provider": "Lovitel LLC",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 33438,
     "count": 2,
-    "validatorVotingPower": 209365.16,
+    "validatorVotingPower": 206019.07,
     "hosting_provider": "StackPath (Highwinds)",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 3900,
+    "count": 1,
+    "validatorVotingPower": 202585.82,
+    "hosting_provider": "Data Foundry",
+    "timestamp": 1667127869
   },
   {
     "asn": 398427,
     "count": 1,
     "validatorVotingPower": 200002.98,
     "hosting_provider": "MARKLEY-NETWORK-SERVICES",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 51167,
     "count": 3,
-    "validatorVotingPower": 197942.54000000004,
+    "validatorVotingPower": 198026.84,
     "hosting_provider": "Contabo GmbH",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 58010,
     "count": 1,
-    "validatorVotingPower": 195772.13,
+    "validatorVotingPower": 195835.18,
     "hosting_provider": "uvensys",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 41536,
-    "count": 1,
-    "validatorVotingPower": 195692.1,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 262287,
     "count": 1,
-    "validatorVotingPower": 195680.06,
+    "validatorVotingPower": 195835.18,
     "hosting_provider": "Latitude.sh_AS262287",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 41536,
+    "count": 1,
+    "validatorVotingPower": 187151.33,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
   },
   {
     "asn": 2588,
     "count": 2,
-    "validatorVotingPower": 184871.31,
+    "validatorVotingPower": 185261.84,
     "hosting_provider": "SIA Bite Latvija (old Latnet)",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 13737,
-    "count": 1,
-    "validatorVotingPower": 167922.84,
-    "hosting_provider": "INCX Global, LLC",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 57128,
-    "count": 2,
-    "validatorVotingPower": 165363.49,
-    "hosting_provider": "Ufanet Kazan Branch",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 29802,
-    "count": 3,
-    "validatorVotingPower": 162636.66,
-    "hosting_provider": "Hivelocity INC",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 3900,
-    "count": 1,
-    "validatorVotingPower": 161040.52,
-    "hosting_provider": "Data Foundry",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 174,
-    "count": 1,
-    "validatorVotingPower": 149347.28,
-    "hosting_provider": "Cogent Communications, Inc.",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 50867,
-    "count": 2,
-    "validatorVotingPower": 147146.34,
-    "hosting_provider": "HOSTKEY",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 35320,
-    "count": 2,
-    "validatorVotingPower": 145448.93,
-    "hosting_provider": "ETT",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 31148,
-    "count": 2,
-    "validatorVotingPower": 137715.79,
-    "hosting_provider": "Freenet Ltd (tm O3)",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 57378,
-    "count": 2,
-    "validatorVotingPower": 137402.41,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 24961,
-    "count": 2,
-    "validatorVotingPower": 134093.41,
-    "hosting_provider": "myLoc managed IT AG",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 133296,
-    "count": 1,
-    "validatorVotingPower": 131349.81,
-    "hosting_provider": "Web Werks DataCenter",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 14618,
-    "count": 2,
-    "validatorVotingPower": 131087.52000000002,
-    "hosting_provider": "Amazon AES",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 49981,
-    "count": 2,
-    "validatorVotingPower": 130047.01000000001,
-    "hosting_provider": "Worldstream BV",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 15830,
     "count": 1,
-    "validatorVotingPower": 117362.19,
+    "validatorVotingPower": 182825.16,
     "hosting_provider": "Equinix Connect",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 29802,
+    "count": 4,
+    "validatorVotingPower": 174875.56,
+    "hosting_provider": "Hivelocity INC",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 13737,
+    "count": 1,
+    "validatorVotingPower": 167994.98,
+    "hosting_provider": "INCX Global, LLC",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 57128,
+    "count": 2,
+    "validatorVotingPower": 165497.35,
+    "hosting_provider": "Ufanet Kazan Branch",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 174,
+    "count": 1,
+    "validatorVotingPower": 149591.9,
+    "hosting_provider": "Cogent Communications, Inc.",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 50867,
+    "count": 2,
+    "validatorVotingPower": 147209.57,
+    "hosting_provider": "HOSTKEY",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 35320,
+    "count": 2,
+    "validatorVotingPower": 145511.06,
+    "hosting_provider": "ETT",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 31148,
+    "count": 2,
+    "validatorVotingPower": 137771.32,
+    "hosting_provider": "Freenet Ltd (tm O3)",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 57378,
+    "count": 2,
+    "validatorVotingPower": 137460.65,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 24961,
+    "count": 2,
+    "validatorVotingPower": 134148.41999999998,
+    "hosting_provider": "myLoc managed IT AG",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 49981,
+    "count": 2,
+    "validatorVotingPower": 130102.45999999999,
+    "hosting_provider": "Worldstream BV",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 133296,
+    "count": 1,
+    "validatorVotingPower": 129595.89,
+    "hosting_provider": "Web Werks DataCenter",
+    "timestamp": 1667127869
   },
   {
     "asn": 211091,
     "count": 1,
-    "validatorVotingPower": 117244.6,
+    "validatorVotingPower": 117370.35,
     "hosting_provider": "IPH",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 30633,
     "count": 1,
-    "validatorVotingPower": 116793.76,
+    "validatorVotingPower": 116929.58,
     "hosting_provider": "LeaseWeb USA / WDC-01",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 48347,
     "count": 1,
-    "validatorVotingPower": 104788.03,
+    "validatorVotingPower": 104832.65,
     "hosting_provider": "MTW.RU",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 34757,
-    "count": 2,
-    "validatorVotingPower": 102449.32,
-    "hosting_provider": "Sibirskie Seti AS34757",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 47433,
-    "count": 1,
-    "validatorVotingPower": 97080.28,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 42775,
-    "count": 1,
-    "validatorVotingPower": 96801.74,
-    "hosting_provider": "ITciti",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 39927,
-    "count": 2,
-    "validatorVotingPower": 77621.77,
-    "hosting_provider": "E-Light-Telecom",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 61272,
-    "count": 1,
-    "validatorVotingPower": 75813.58,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 29076,
-    "count": 1,
-    "validatorVotingPower": 73986.62,
-    "hosting_provider": "Filanco AS29076",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 3216,
-    "count": 1,
-    "validatorVotingPower": 73415.32,
-    "hosting_provider": "VEON Group",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 60251,
-    "count": 1,
-    "validatorVotingPower": 73397.13,
-    "hosting_provider": "CALYPSO-IT",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 197235,
     "count": 2,
-    "validatorVotingPower": 73246.38,
+    "validatorVotingPower": 99296.93,
     "hosting_provider": "Avantel Samara",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
-    "asn": 8220,
+    "asn": 47433,
     "count": 1,
-    "validatorVotingPower": 73189.91,
-    "hosting_provider": "Colt",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 12389,
-    "count": 1,
-    "validatorVotingPower": 73025.27,
-    "hosting_provider": "Rostelecom",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 50245,
-    "count": 1,
-    "validatorVotingPower": 72276.7,
-    "hosting_provider": "Serverel",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 12668,
-    "count": 1,
-    "validatorVotingPower": 72265.82,
-    "hosting_provider": "MiraLogic Telecommunication Systems",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 47440,
-    "count": 1,
-    "validatorVotingPower": 72229.28,
-    "hosting_provider": "Business System Telecom",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 44066,
-    "count": 1,
-    "validatorVotingPower": 72113.5,
-    "hosting_provider": "firstcolo",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 41786,
-    "count": 1,
-    "validatorVotingPower": 71941.1,
+    "validatorVotingPower": 97157.07,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
-    "asn": 51500,
+    "asn": 42775,
     "count": 1,
-    "validatorVotingPower": 71745.93,
-    "hosting_provider": "Servisnet",
-    "timestamp": 1667041496
+    "validatorVotingPower": 96840.45,
+    "hosting_provider": "ITciti",
+    "timestamp": 1667127869
   },
   {
-    "asn": 55081,
-    "count": 1,
-    "validatorVotingPower": 71126.25,
-    "hosting_provider": "24Shells Inc",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 17210,
-    "count": 1,
-    "validatorVotingPower": 69301.99,
-    "hosting_provider": "Everywhere Wireless",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 4766,
-    "count": 1,
-    "validatorVotingPower": 66568.83,
-    "hosting_provider": "KT Corporation (Korea Telecom)",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 56981,
-    "count": 1,
-    "validatorVotingPower": 65907.95,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 49824,
-    "count": 1,
-    "validatorVotingPower": 65733.07,
-    "hosting_provider": "Astra-net",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 204770,
-    "count": 1,
-    "validatorVotingPower": 65617.04,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 51604,
-    "count": 1,
-    "validatorVotingPower": 64784.55,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
-  },
-  {
-    "asn": 59713,
-    "count": 1,
-    "validatorVotingPower": 64111.01,
-    "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "asn": 34757,
+    "count": 2,
+    "validatorVotingPower": 81624.1,
+    "hosting_provider": "Sibirskie Seti AS34757",
+    "timestamp": 1667127869
   },
   {
     "asn": 42989,
     "count": 2,
-    "validatorVotingPower": 62256.36,
+    "validatorVotingPower": 79535.98999999999,
     "hosting_provider": "m.it services & consulting",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 39927,
+    "count": 2,
+    "validatorVotingPower": 77653.45999999999,
+    "hosting_provider": "E-Light-Telecom",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 61272,
+    "count": 1,
+    "validatorVotingPower": 75850.9,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 29076,
+    "count": 1,
+    "validatorVotingPower": 74018.39,
+    "hosting_provider": "Filanco AS29076",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 3216,
+    "count": 1,
+    "validatorVotingPower": 73445.81,
+    "hosting_provider": "VEON Group",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 60251,
+    "count": 1,
+    "validatorVotingPower": 73428.66,
+    "hosting_provider": "CALYPSO-IT",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 8220,
+    "count": 1,
+    "validatorVotingPower": 73221.37,
+    "hosting_provider": "Colt",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 12389,
+    "count": 1,
+    "validatorVotingPower": 73056.57,
+    "hosting_provider": "Rostelecom",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 50245,
+    "count": 1,
+    "validatorVotingPower": 72307.26,
+    "hosting_provider": "Serverel",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 12668,
+    "count": 1,
+    "validatorVotingPower": 72296.3,
+    "hosting_provider": "MiraLogic Telecommunication Systems",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 47440,
+    "count": 1,
+    "validatorVotingPower": 72258.56,
+    "hosting_provider": "Business System Telecom",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 44066,
+    "count": 1,
+    "validatorVotingPower": 72144.42,
+    "hosting_provider": "firstcolo",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 41786,
+    "count": 1,
+    "validatorVotingPower": 71971.78,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 51500,
+    "count": 1,
+    "validatorVotingPower": 71776.75,
+    "hosting_provider": "Servisnet",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 55081,
+    "count": 1,
+    "validatorVotingPower": 71156.79,
+    "hosting_provider": "24Shells Inc",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 17210,
+    "count": 1,
+    "validatorVotingPower": 69397.23,
+    "hosting_provider": "Everywhere Wireless",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 4766,
+    "count": 1,
+    "validatorVotingPower": 66597.45,
+    "hosting_provider": "KT Corporation (Korea Telecom)",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 49824,
+    "count": 1,
+    "validatorVotingPower": 65761.0,
+    "hosting_provider": "Astra-net",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 204770,
+    "count": 1,
+    "validatorVotingPower": 65644.82,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 51604,
+    "count": 1,
+    "validatorVotingPower": 64812.1,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 59713,
+    "count": 1,
+    "validatorVotingPower": 64138.27,
+    "hosting_provider": "Unknown",
+    "timestamp": 1667127869
   },
   {
     "asn": 12876,
     "count": 1,
-    "validatorVotingPower": 61977.37,
+    "validatorVotingPower": 62003.45,
     "hosting_provider": "Scaleway",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 21859,
     "count": 1,
-    "validatorVotingPower": 60804.36,
+    "validatorVotingPower": 61437.9,
     "hosting_provider": "Zenlayer Inc",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 53292,
     "count": 1,
-    "validatorVotingPower": 51736.31,
+    "validatorVotingPower": 51797.05,
     "hosting_provider": "ManagedWay Company",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 43773,
     "count": 1,
-    "validatorVotingPower": 46088.54,
+    "validatorVotingPower": 46108.34,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 24723,
     "count": 1,
-    "validatorVotingPower": 45961.3,
+    "validatorVotingPower": 45981.06,
     "hosting_provider": "ATMAN Basic",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
     "asn": 34989,
     "count": 1,
-    "validatorVotingPower": 36511.23,
+    "validatorVotingPower": 36516.66,
     "hosting_provider": "Unknown",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   },
   {
-    "asn": 14576,
-    "count": 2,
-    "validatorVotingPower": 35725.89,
-    "hosting_provider": "King Servers",
-    "timestamp": 1667041496
+    "asn": 209,
+    "count": 1,
+    "validatorVotingPower": 20070.63,
+    "hosting_provider": "Lumen AS209",
+    "timestamp": 1667127869
   },
   {
     "asn": 15169,
     "count": 1,
     "validatorVotingPower": 15760.68,
     "hosting_provider": "Google LLC",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
+  },
+  {
+    "asn": 14576,
+    "count": 2,
+    "validatorVotingPower": 10722.88,
+    "hosting_provider": "King Servers",
+    "timestamp": 1667127869
   },
   {
     "asn": 22773,
     "count": 1,
     "validatorVotingPower": 311.38,
     "hosting_provider": "Cox Communications",
-    "timestamp": 1667041496
+    "timestamp": 1667127869
   }
 ]
