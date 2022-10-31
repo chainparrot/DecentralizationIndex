@@ -2,19 +2,19 @@
   {
     "name": "Symbol",
     "symbol": "XYM",
-    "timestamp": "2022-10-30 18:05:07",
-    "validators": 42,
+    "timestamp": "2022-10-31 18:05:57",
+    "validators": 44,
     "nodes": 0,
-    "total": 42,
+    "total": 44,
     "source": "https://symbol.fyi/nodes",
     "market_cap_rank": 4463,
     "market_cap": 0.0,
-    "volume": 725513,
+    "volume": 614535,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 2,
-    "validatordiffper": 5.0,
+    "validatordiffper": 4.76,
     "totaldiff": 2,
-    "totaldiffper": 5.0
+    "totaldiffper": 4.76
   }
 ]
