@@ -2,19 +2,19 @@
   {
     "name": "Dogecoin",
     "symbol": "DOGE",
-    "timestamp": "2022-11-02 14:09:56",
+    "timestamp": "2022-11-03 14:06:15",
     "validators": 0,
-    "nodes": 913,
-    "total": 913,
+    "nodes": 916,
+    "total": 916,
     "source": "https://blockchair.com/en/dogecoin/nodes",
     "market_cap_rank": 8,
-    "market_cap": 17850024525,
-    "volume": 5465348068,
-    "nodediff": -10,
-    "nodediffper": -1.08,
+    "market_cap": 17706409841,
+    "volume": 4371099979,
+    "nodediff": 3,
+    "nodediffper": 0.33,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -10,
-    "totaldiffper": -1.08
+    "totaldiff": 3,
+    "totaldiffper": 0.33
   }
 ]
