@@ -1,38 +1,38 @@
 [
     {
         "validatorName": "Coinbase Cloud",
-        "validatorVotingPower": 10998545.13,
-        "validatorVotingPowerProportion": 2.8,
+        "validatorVotingPower": 10414216.87,
+        "validatorVotingPowerProportion": 2.85,
         "rank": 1
     },
     {
         "validatorName": "Staking Facilities",
-        "validatorVotingPower": 8568912.7,
-        "validatorVotingPowerProportion": 2.18,
+        "validatorVotingPower": 8382916.69,
+        "validatorVotingPowerProportion": 2.3,
         "rank": 2
     },
     {
         "validatorName": "EVw8uChLbfXm6qJnSQkzmmRmcq2YZLFqzL8p5Vb43DvU",
         "validatorVotingPower": 6600004.61,
-        "validatorVotingPowerProportion": 1.68,
+        "validatorVotingPowerProportion": 1.81,
         "rank": 3
     },
     {
         "validatorName": "binance staking",
-        "validatorVotingPower": 6255493.59,
-        "validatorVotingPowerProportion": 1.59,
+        "validatorVotingPower": 6247765.41,
+        "validatorVotingPowerProportion": 1.71,
         "rank": 4
     },
     {
-        "validatorName": "Kraken",
-        "validatorVotingPower": 6043278.57,
-        "validatorVotingPowerProportion": 1.54,
+        "validatorName": "SOL Community",
+        "validatorVotingPower": 5234463.52,
+        "validatorVotingPowerProportion": 1.43,
         "rank": 5
     },
     {
-        "validatorName": "Figment",
-        "validatorVotingPower": 5927950.05,
-        "validatorVotingPowerProportion": 1.51,
+        "validatorName": "Kraken",
+        "validatorVotingPower": 5194643.17,
+        "validatorVotingPowerProportion": 1.42,
         "rank": 6
     }
 ]
