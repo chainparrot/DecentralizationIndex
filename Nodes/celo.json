@@ -2,21 +2,21 @@
   {
     "name": "Celo",
     "symbol": "CELO",
-    "timestamp": "2022-11-13 14:01:53",
+    "timestamp": "2022-11-14 14:07:56",
     "validators": 178,
     "nodes": 0,
     "total": 178,
     "source": "https://thecelo.com/validators",
     "consensus_long": "Byzantine Fault Tolerant",
     "consensus_short": "BFT",
-    "market_cap_rank": 142,
-    "market_cap": 211307212,
-    "volume": 12346744,
+    "market_cap_rank": 146,
+    "market_cap": 204123111,
+    "volume": 11918763,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -1,
-    "validatordiffper": -0.56,
-    "totaldiff": -1,
-    "totaldiffper": -0.56
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
