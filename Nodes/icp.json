@@ -2,19 +2,19 @@
   {
     "name": "Internet Computer",
     "symbol": "ICP",
-    "timestamp": "2022-11-13 18:03:40",
+    "timestamp": "2022-11-14 18:03:51",
     "validators": 0,
-    "nodes": 514,
-    "total": 514,
+    "nodes": 518,
+    "total": 518,
     "source": "https://www.icpexplorer.org",
     "market_cap_rank": 40,
-    "market_cap": 1098733324,
-    "volume": 49744406,
-    "nodediff": -1,
-    "nodediffper": -0.19,
+    "market_cap": 1075133889,
+    "volume": 53020760,
+    "nodediff": 4,
+    "nodediffper": 0.78,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -1,
-    "totaldiffper": -0.19
+    "totaldiff": 4,
+    "totaldiffper": 0.78
   }
 ]
