@@ -1,13 +1,13 @@
 [
     {
         "validatorName": "Coinbase Cloud",
-        "validatorVotingPower": 9542006.88,
-        "validatorVotingPowerProportion": 2.64,
+        "validatorVotingPower": 9298456.53,
+        "validatorVotingPowerProportion": 2.58,
         "rank": 1
     },
     {
         "validatorName": "Staking Facilities",
-        "validatorVotingPower": 8383772.98,
+        "validatorVotingPower": 8348249.97,
         "validatorVotingPowerProportion": 2.32,
         "rank": 2
     },
@@ -19,20 +19,20 @@
     },
     {
         "validatorName": "binance staking",
-        "validatorVotingPower": 6250615.24,
-        "validatorVotingPowerProportion": 1.73,
+        "validatorVotingPower": 6254560.68,
+        "validatorVotingPowerProportion": 1.74,
         "rank": 4
     },
     {
         "validatorName": "SOL Community",
-        "validatorVotingPower": 5239470.4,
-        "validatorVotingPowerProportion": 1.45,
+        "validatorVotingPower": 5238380.72,
+        "validatorVotingPowerProportion": 1.46,
         "rank": 5
     },
     {
         "validatorName": "Everstake",
-        "validatorVotingPower": 4892325.59,
-        "validatorVotingPowerProportion": 1.35,
+        "validatorVotingPower": 4922471.32,
+        "validatorVotingPowerProportion": 1.37,
         "rank": 6
     }
 ]
