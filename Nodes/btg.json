@@ -2,7 +2,7 @@
   {
     "name": "Bitcoin Gold",
     "symbol": "BTG",
-    "timestamp": "2022-11-18 14:01:52",
+    "timestamp": "2022-11-19 14:01:42",
     "validators": 0,
     "nodes": 11,
     "total": 11,
@@ -10,13 +10,13 @@
     "consensus_long": "Proof of Work",
     "consensus_short": "PoW",
     "market_cap_rank": 122,
-    "market_cap": 265960544,
-    "volume": 9270992,
-    "nodediff": -3,
-    "nodediffper": -21.43,
+    "market_cap": 263673956,
+    "volume": 2860191,
+    "nodediff": 0,
+    "nodediffper": 0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -3,
-    "totaldiffper": -21.43
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
