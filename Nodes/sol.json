@@ -2,19 +2,19 @@
   {
     "name": "Solana",
     "symbol": "SOL",
-    "timestamp": "2022-11-19 10:05:39",
-    "validators": 1816,
+    "timestamp": "2022-11-20 10:05:38",
+    "validators": 1817,
     "nodes": 0,
-    "total": 1816,
+    "total": 1817,
     "source": "https://www.validators.app",
     "market_cap_rank": 17,
-    "market_cap": 4705631444,
-    "volume": 330520617,
+    "market_cap": 4658202563,
+    "volume": 341208221,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 31,
-    "validatordiffper": 1.74,
-    "totaldiff": 31,
-    "totaldiffper": 1.74
+    "validatordiff": 1,
+    "validatordiffper": 0.06,
+    "totaldiff": 1,
+    "totaldiffper": 0.06
   }
 ]
