@@ -20,7 +20,7 @@
     "totaldiff": 673,
     "totaldiffper": 4.57,
     "rank": 1,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -41,7 +41,7 @@
     "totaldiff": 39,
     "totaldiffper": 0.49,
     "rank": 2,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -62,7 +62,7 @@
     "totaldiff": 7,
     "totaldiffper": 0.17,
     "rank": 3,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -83,7 +83,7 @@
     "totaldiff": -21,
     "totaldiffper": -0.87,
     "rank": 4,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -104,28 +104,28 @@
     "totaldiff": 69,
     "totaldiffper": 3.43,
     "rank": 5,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
     "name": "Litecoin",
     "symbol": "LTC",
-    "timestamp": "2022-11-25 22:02:47",
+    "timestamp": "2022-11-26 22:02:45",
     "validators": 0,
-    "nodes": 1060,
-    "total": 1060,
+    "nodes": 1065,
+    "total": 1065,
     "source": "https://blockchair.com/en/litecoin/nodes",
-    "market_cap_rank": 14,
-    "market_cap": 5355603769,
-    "volume": 992986941,
-    "nodediff": 4,
-    "nodediffper": 0.38,
+    "market_cap_rank": 13,
+    "market_cap": 5522336625,
+    "volume": 895123918,
+    "nodediff": 5,
+    "nodediffper": 0.47,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 4,
-    "totaldiffper": 0.38,
+    "totaldiff": 5,
+    "totaldiffper": 0.47,
     "rank": 6,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -146,7 +146,7 @@
     "totaldiff": -8,
     "totaldiffper": -0.87,
     "rank": 7,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -169,7 +169,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 8,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -190,7 +190,7 @@
     "totaldiff": -2,
     "totaldiffper": -0.33,
     "rank": 9,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -211,7 +211,7 @@
     "totaldiff": -17,
     "totaldiffper": -3.27,
     "rank": 10,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -232,7 +232,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 11,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -253,7 +253,7 @@
     "totaldiff": -5,
     "totaldiffper": -1.38,
     "rank": 12,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -274,7 +274,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 13,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -295,7 +295,7 @@
     "totaldiff": -8,
     "totaldiffper": -7.48,
     "rank": 14,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -316,7 +316,7 @@
     "totaldiff": -4,
     "totaldiffper": -4.26,
     "rank": 15,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -337,7 +337,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 16,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -358,28 +358,28 @@
     "totaldiff": 2,
     "totaldiffper": 2.9,
     "rank": 17,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
     "name": "Lisk",
     "symbol": "LSK",
-    "timestamp": "2022-11-25 22:02:49",
+    "timestamp": "2022-11-26 22:02:48",
     "validators": 0,
     "nodes": 51,
     "total": 51,
     "source": "https://liskscan.com/delegates",
     "market_cap_rank": 208,
-    "market_cap": 119929664,
-    "volume": 5849478,
-    "nodediff": -5,
-    "nodediffper": -8.93,
+    "market_cap": 119596918,
+    "volume": 1812417,
+    "nodediff": 0,
+    "nodediffper": 0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -5,
-    "totaldiffper": -8.93,
+    "totaldiff": 0,
+    "totaldiffper": 0,
     "rank": 18,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -400,7 +400,7 @@
     "totaldiff": -3,
     "totaldiffper": -7.32,
     "rank": 19,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -421,20 +421,20 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 20,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
     "name": "Multichain",
     "symbol": "MULTI",
-    "timestamp": "2022-11-25 22:02:56",
+    "timestamp": "2022-11-26 22:02:55",
     "validators": 0,
     "nodes": 21,
     "total": 21,
     "source": "https://anyswap.net/network",
-    "market_cap_rank": 321,
-    "market_cap": 63671426,
-    "volume": 884757,
+    "market_cap_rank": 291,
+    "market_cap": 69658659,
+    "volume": 17191356,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -442,7 +442,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 21,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -465,7 +465,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 22,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -486,7 +486,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 23,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -507,7 +507,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 24,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -528,7 +528,7 @@
     "totaldiff": -2,
     "totaldiffper": -12.5,
     "rank": 25,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -551,7 +551,7 @@
     "totaldiff": -1,
     "totaldiffper": -8.33,
     "rank": 26,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   },
   {
@@ -572,7 +572,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 27,
-    "created": "2022-11-26 18:03:44",
+    "created": "2022-11-26 22:02:56",
     "chaintype": "PoW"
   }
 ]
