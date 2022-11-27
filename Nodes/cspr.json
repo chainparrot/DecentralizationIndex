@@ -2,7 +2,7 @@
   {
     "name": "Casper",
     "symbol": "CSPR",
-    "timestamp": "2022-11-26 14:02:00",
+    "timestamp": "2022-11-27 14:02:06",
     "validators": 99,
     "nodes": 0,
     "total": 99,
@@ -10,13 +10,13 @@
     "consensus_long": "Proof of Stake",
     "consensus_short": "PoS",
     "market_cap_rank": 100,
-    "market_cap": 323503662,
-    "volume": 7972448,
+    "market_cap": 326850888,
+    "volume": 5116917,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 2,
-    "validatordiffper": 2.06,
-    "totaldiff": 2,
-    "totaldiffper": 2.06
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
