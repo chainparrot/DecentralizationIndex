@@ -2,19 +2,19 @@
   {
     "name": "GoChain",
     "symbol": "GO",
-    "timestamp": "2022-11-29 14:02:35",
-    "validators": 18,
+    "timestamp": "2022-11-30 14:02:00",
+    "validators": 19,
     "nodes": 0,
-    "total": 18,
+    "total": 19,
     "source": "https://explorer.gochain.io/signers?signers_tab=daily",
-    "market_cap_rank": 920,
-    "market_cap": 7834270,
-    "volume": 143991,
+    "market_cap_rank": 922,
+    "market_cap": 8070469,
+    "volume": 157178,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 1,
+    "validatordiffper": 5.56,
+    "totaldiff": 1,
+    "totaldiffper": 5.56
   }
 ]
