@@ -1,38 +1,38 @@
 [
   {
     "hosting_provider": "TeraSwitch",
-    "count": 93,
-    "validatorVotingPower": 66345476.39000001,
-    "validatorVotingPowerProportion": 18.34
+    "count": 87,
+    "validatorVotingPower": 65900279.010000005,
+    "validatorVotingPowerProportion": 18.28
   },
   {
     "hosting_provider": "Equinix Metal",
-    "count": 87,
-    "validatorVotingPower": 55430237.539999984,
-    "validatorVotingPowerProportion": 15.32
+    "count": 86,
+    "validatorVotingPower": 55372875.29999998,
+    "validatorVotingPowerProportion": 15.36
   },
   {
     "hosting_provider": "OVHcloud",
-    "count": 613,
-    "validatorVotingPower": 49965602.850000024,
-    "validatorVotingPowerProportion": 13.81
+    "count": 612,
+    "validatorVotingPower": 49906935.12000004,
+    "validatorVotingPowerProportion": 13.85
   },
   {
     "hosting_provider": "Amazon.com",
-    "count": 35,
-    "validatorVotingPower": 39269489.16000002,
-    "validatorVotingPowerProportion": 10.85
+    "count": 34,
+    "validatorVotingPower": 39269479.16000002,
+    "validatorVotingPowerProportion": 10.89
   },
   {
     "hosting_provider": "The Constant Company, LLC",
     "count": 6,
     "validatorVotingPower": 13349258.87,
-    "validatorVotingPowerProportion": 3.69
+    "validatorVotingPowerProportion": 3.7
   },
   {
     "hosting_provider": "Others",
-    "count": 1025,
-    "validatorVotingPower": 137466598.46999997,
-    "validatorVotingPowerProportion": 37.992390395956285
+    "count": 1028,
+    "validatorVotingPower": 136667210.12999994,
+    "validatorVotingPowerProportion": 37.91403235759127
   }
 ]
