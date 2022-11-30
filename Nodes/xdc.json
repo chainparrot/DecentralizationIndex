@@ -2,19 +2,19 @@
   {
     "name": "XDC Network",
     "symbol": "XDC",
-    "timestamp": "2022-11-29 22:02:31",
+    "timestamp": "2022-11-30 22:02:28",
     "validators": 216,
     "nodes": 0,
     "total": 216,
     "source": "https://explorer.xinfin.network/masternodes",
     "market_cap_rank": 103,
-    "market_cap": 317310656,
-    "volume": 2913867,
+    "market_cap": 321517449,
+    "volume": 3067588,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 1,
-    "validatordiffper": 0.47,
-    "totaldiff": 1,
-    "totaldiffper": 0.47
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
