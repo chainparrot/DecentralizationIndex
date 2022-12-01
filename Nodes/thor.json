@@ -2,19 +2,19 @@
   {
     "name": "THORChain",
     "symbol": "RUNE",
-    "timestamp": "2022-11-30 10:05:53",
-    "validators": 80,
+    "timestamp": "2022-12-01 10:05:54",
+    "validators": 82,
     "nodes": 0,
-    "total": 80,
+    "total": 82,
     "source": "https://thorchain.net/nodes",
-    "market_cap_rank": 87,
-    "market_cap": 382818521,
-    "volume": 64333785,
+    "market_cap_rank": 88,
+    "market_cap": 385237664,
+    "volume": 44125662,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": 2,
+    "validatordiffper": 2.5,
+    "totaldiff": 2,
+    "totaldiffper": 2.5
   }
 ]

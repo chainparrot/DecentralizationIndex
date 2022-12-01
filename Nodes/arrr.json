@@ -2,19 +2,19 @@
   {
     "name": "Pirate Chain",
     "symbol": "ARRR",
-    "timestamp": "2022-11-30 10:05:45",
+    "timestamp": "2022-12-01 10:05:45",
     "validators": 0,
-    "nodes": 108,
-    "total": 108,
+    "nodes": 120,
+    "total": 120,
     "source": "https://dexstats.info/",
-    "market_cap_rank": 315,
-    "market_cap": 65390817,
-    "volume": 50026,
-    "nodediff": -2,
-    "nodediffper": -1.82,
+    "market_cap_rank": 314,
+    "market_cap": 66696389,
+    "volume": 81769,
+    "nodediff": 12,
+    "nodediffper": 11.11,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -2,
-    "totaldiffper": -1.82
+    "totaldiff": 12,
+    "totaldiffper": 11.11
   }
 ]
