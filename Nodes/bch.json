@@ -2,21 +2,21 @@
   {
     "name": "Bitcoin Cash",
     "symbol": "BCH",
-    "timestamp": "2022-12-04 14:01:57",
+    "timestamp": "2022-12-05 14:02:12",
     "validators": 0,
-    "nodes": 734,
-    "total": 734,
+    "nodes": 733,
+    "total": 733,
     "source": "https://cashnodes.io/",
     "consensus_long": "Proof of Work",
     "consensus_short": "PoW",
     "market_cap_rank": 29,
-    "market_cap": 2117880476,
-    "volume": 423058477,
-    "nodediff": 1,
-    "nodediffper": 0.14,
+    "market_cap": 2220582886,
+    "volume": 462063876,
+    "nodediff": -1,
+    "nodediffper": -0.14,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 1,
-    "totaldiffper": 0.14
+    "totaldiff": -1,
+    "totaldiffper": -0.14
   }
 ]
