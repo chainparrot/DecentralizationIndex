@@ -1,38 +1,14 @@
 [
   {
-    "hosting_provider": "TeraSwitch",
-    "count": 86,
-    "validatorVotingPower": 67526400.42,
-    "validatorVotingPowerProportion": 18.23
-  },
-  {
-    "hosting_provider": "OVHcloud",
-    "count": 608,
-    "validatorVotingPower": 49854416.779999964,
-    "validatorVotingPowerProportion": 13.46
-  },
-  {
-    "hosting_provider": "Amazon.com",
-    "count": 36,
-    "validatorVotingPower": 46754412.199999996,
-    "validatorVotingPowerProportion": 12.62
-  },
-  {
-    "hosting_provider": "Equinix Metal",
-    "count": 64,
-    "validatorVotingPower": 39292890.83999997,
-    "validatorVotingPowerProportion": 10.61
-  },
-  {
-    "hosting_provider": "Cherry Servers",
-    "count": 25,
-    "validatorVotingPower": 14452052.840000004,
-    "validatorVotingPowerProportion": 3.9
+    "hosting_provider": "Unknown",
+    "count": 1889,
+    "validatorVotingPower": 375250928.5900002,
+    "validatorVotingPowerProportion": 100.0
   },
   {
     "hosting_provider": "Others",
-    "count": 1053,
-    "validatorVotingPower": 152603035.5800001,
-    "validatorVotingPowerProportion": 41.190270439502434
+    "count": 0,
+    "validatorVotingPower": 0,
+    "validatorVotingPowerProportion": 0.0
   }
 ]
