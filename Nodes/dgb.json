@@ -2,19 +2,19 @@
   {
     "name": "DigiByte",
     "symbol": "DGB",
-    "timestamp": "2022-12-10 14:01:32",
+    "timestamp": "2022-12-11 14:01:46",
     "validators": 0,
-    "nodes": 73,
-    "total": 73,
+    "nodes": 70,
+    "total": 70,
     "source": "https://chainz.cryptoid.info/dgb/#!network",
-    "market_cap_rank": 204,
-    "market_cap": 120289392,
-    "volume": 1415333,
-    "nodediff": 1,
-    "nodediffper": 1.39,
+    "market_cap_rank": 201,
+    "market_cap": 123038376,
+    "volume": 3018662,
+    "nodediff": -3,
+    "nodediffper": -4.11,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 1,
-    "totaldiffper": 1.39
+    "totaldiff": -3,
+    "totaldiffper": -4.11
   }
 ]
