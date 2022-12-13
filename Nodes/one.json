@@ -2,19 +2,19 @@
   {
     "name": "Harmony",
     "symbol": "ONE",
-    "timestamp": "2022-12-12 10:05:55",
-    "validators": 147,
+    "timestamp": "2022-12-13 10:06:18",
+    "validators": 145,
     "nodes": 0,
-    "total": 147,
+    "total": 145,
     "source": "https://staking.harmony.one/validators/mainnet",
-    "market_cap_rank": 163,
-    "market_cap": 171109946,
-    "volume": 7182433,
+    "market_cap_rank": 166,
+    "market_cap": 167903123,
+    "volume": 8095106,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0
+    "validatordiff": -2,
+    "validatordiffper": -1.36,
+    "totaldiff": -2,
+    "totaldiffper": -1.36
   }
 ]
