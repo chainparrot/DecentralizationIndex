@@ -1,72 +1,65 @@
 [
     {
         "version": "1.13.5",
-        "total": 1682,
-        "percentage": 70.97,
+        "total": 1678,
+        "percentage": 70.83,
         "rank": 1,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "Unknown",
-        "total": 427,
-        "percentage": 18.02,
+        "total": 432,
+        "percentage": 18.24,
         "rank": 2,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.14.10",
-        "total": 127,
-        "percentage": 5.36,
+        "total": 131,
+        "percentage": 5.53,
         "rank": 3,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.13.3",
-        "total": 71,
-        "percentage": 3.0,
+        "total": 69,
+        "percentage": 2.91,
         "rank": 4,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.13.4",
-        "total": 56,
-        "percentage": 2.36,
+        "total": 53,
+        "percentage": 2.24,
         "rank": 5,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.10.40",
         "total": 2,
         "percentage": 0.08,
         "rank": 6,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.13.1",
         "total": 2,
         "percentage": 0.08,
         "rank": 7,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.13.6",
         "total": 1,
         "percentage": 0.04,
         "rank": 8,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     },
     {
         "version": "1.14.11",
         "total": 1,
         "percentage": 0.04,
         "rank": 9,
-        "timestamp": 1671274923
-    },
-    {
-        "version": "1.15.0",
-        "total": 1,
-        "percentage": 0.04,
-        "rank": 10,
-        "timestamp": 1671274923
+        "timestamp": 1671361383
     }
 ]
