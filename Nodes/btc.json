@@ -2,22 +2,22 @@
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "timestamp": "2022-12-21 13:57:14",
+    "timestamp": "2022-12-22 13:54:16",
     "validators": 0,
-    "nodes": 14190,
-    "total": 14190,
+    "nodes": 13623,
+    "total": 13623,
     "source": "https://bitnodes.io",
     "consensus_long": "Proof of Work",
     "consensus_short": "PoW",
-    "retrieved": "2022-12-21 14:02:18",
+    "retrieved": "2022-12-22 14:02:10",
     "market_cap_rank": 1,
-    "market_cap": 324052845082,
-    "volume": 18585539566,
-    "nodediff": 517,
-    "nodediffper": 3.78,
+    "market_cap": 322468036892,
+    "volume": 15367314303,
+    "nodediff": -567,
+    "nodediffper": -4.0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 517,
-    "totaldiffper": 3.78
+    "totaldiff": -567,
+    "totaldiffper": -4.0
   }
 ]
