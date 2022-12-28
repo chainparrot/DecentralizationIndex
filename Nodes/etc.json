@@ -2,19 +2,19 @@
   {
     "name": "Ethereum Classic",
     "symbol": "ETC",
-    "timestamp": "2022-12-27 18:03:48",
+    "timestamp": "2022-12-28 18:03:44",
     "validators": 0,
-    "nodes": 692,
-    "total": 692,
+    "nodes": 690,
+    "total": 690,
     "source": "https://nodes.etc-network.info/nodes-interface/",
     "market_cap_rank": 27,
-    "market_cap": 2185061036,
-    "volume": 79806050,
-    "nodediff": -15,
-    "nodediffper": -2.12,
+    "market_cap": 2115653988,
+    "volume": 104592517,
+    "nodediff": -2,
+    "nodediffper": -0.29,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -15,
-    "totaldiffper": -2.12
+    "totaldiff": -2,
+    "totaldiffper": -0.29
   }
 ]
