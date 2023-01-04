@@ -2,7 +2,7 @@
   {
     "name": "Bitcoin SV",
     "symbol": "BSV",
-    "timestamp": "2023-01-03 14:01:47",
+    "timestamp": "2023-01-04 14:01:54",
     "validators": 0,
     "nodes": 20,
     "total": 20,
@@ -10,13 +10,13 @@
     "consensus_long": "Proof of Work",
     "consensus_short": "PoW",
     "market_cap_rank": 46,
-    "market_cap": 825231488,
-    "volume": 20558949,
-    "nodediff": 1,
-    "nodediffper": 5.26,
+    "market_cap": 825028111,
+    "volume": 22093025,
+    "nodediff": 0,
+    "nodediffper": 0,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 1,
-    "totaldiffper": 5.26
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
