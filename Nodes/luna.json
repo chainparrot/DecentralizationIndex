@@ -2,19 +2,19 @@
   {
     "name": "Terra",
     "symbol": "LUNA",
-    "timestamp": "2023-01-06 22:02:36",
+    "timestamp": "2023-01-07 22:02:48",
     "validators": 175,
     "nodes": 0,
     "total": 175,
     "source": "https://terrasco.pe/mainnet/validators",
     "market_cap_rank": 112,
-    "market_cap": 254341005,
-    "volume": 16679871,
+    "market_cap": 253752982,
+    "volume": 9364909,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": 3,
-    "validatordiffper": 1.74,
-    "totaldiff": 3,
-    "totaldiffper": 1.74
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0
   }
 ]
