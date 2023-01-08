@@ -1,926 +1,912 @@
 [
   {
     "asn": 20326,
-    "count": 91,
-    "validatorVotingPower": 67456090.42000002,
+    "count": 89,
+    "validatorVotingPower": 67375748.27000003,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 16509,
     "count": 43,
-    "validatorVotingPower": 57977724.34,
+    "validatorVotingPower": 57977724.330000006,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 16276,
-    "count": 602,
-    "validatorVotingPower": 51720641.75999991,
+    "count": 593,
+    "validatorVotingPower": 52103605.76999992,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 54825,
-    "count": 45,
-    "validatorVotingPower": 28236314.230000008,
+    "count": 43,
+    "validatorVotingPower": 30839228.650000006,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 16125,
     "count": 22,
     "validatorVotingPower": 22644338.110000003,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 20473,
     "count": 7,
     "validatorVotingPower": 13897323.93,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 18450,
-    "count": 130,
-    "validatorVotingPower": 11723631.17,
+    "count": 128,
+    "validatorVotingPower": 11540629.17,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 396356,
-    "count": 17,
-    "validatorVotingPower": 11309507.960000003,
+    "count": 16,
+    "validatorVotingPower": 11246074.520000003,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 199610,
     "count": 5,
     "validatorVotingPower": 10628526.06,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 59642,
     "count": 6,
-    "validatorVotingPower": 8764052.81,
+    "validatorVotingPower": 8764052.8,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 15598,
     "count": 2,
     "validatorVotingPower": 8250589.16,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 19318,
-    "count": 131,
-    "validatorVotingPower": 7779363.160000001,
+    "count": 123,
+    "validatorVotingPower": 7415097.480000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 14618,
     "count": 2,
     "validatorVotingPower": 7212277.24,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 24940,
-    "count": 125,
-    "validatorVotingPower": 6738857.6099999985,
+    "count": 127,
+    "validatorVotingPower": 6778101.969999998,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 23470,
-    "count": 78,
-    "validatorVotingPower": 6668163.25,
+    "count": 77,
+    "validatorVotingPower": 6631266.37,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 7979,
     "count": 2,
     "validatorVotingPower": 6399162.78,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 6939,
     "count": 2,
     "validatorVotingPower": 4255047.2,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 201814,
-    "count": 77,
-    "validatorVotingPower": 4209437.920000002,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 28753,
-    "count": 2,
-    "validatorVotingPower": 3916939.7,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 14576,
-    "count": 53,
-    "validatorVotingPower": 3424362.9899999998,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 49981,
-    "count": 109,
-    "validatorVotingPower": 3329608.6699999976,
+    "count": 119,
+    "validatorVotingPower": 3653793.5499999975,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 201814,
+    "count": 64,
+    "validatorVotingPower": 3529193.1400000006,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 14576,
+    "count": 52,
+    "validatorVotingPower": 3413713.5399999996,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 35598,
-    "count": 46,
-    "validatorVotingPower": 2957000.380000001,
+    "count": 45,
+    "validatorVotingPower": 2956899.2400000007,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 21409,
     "count": 39,
-    "validatorVotingPower": 2374985.7000000007,
+    "validatorVotingPower": 2439571.0600000005,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 25248,
     "count": 2,
     "validatorVotingPower": 2187217.8000000003,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 24961,
-    "count": 37,
-    "validatorVotingPower": 1891833.9699999993,
+    "count": 35,
+    "validatorVotingPower": 1800350.6499999992,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 31898,
-    "count": 8,
-    "validatorVotingPower": 1784907.47,
+    "count": 7,
+    "validatorVotingPower": 1615048.64,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 48314,
-    "count": 19,
-    "validatorVotingPower": 1420890.11,
+    "count": 21,
+    "validatorVotingPower": 1524687.3399999999,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 28753,
+    "count": 1,
+    "validatorVotingPower": 1314018.97,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 9009,
     "count": 6,
     "validatorVotingPower": 1276147.15,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 16143,
     "count": 18,
     "validatorVotingPower": 1189465.9000000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 60945,
     "count": 2,
     "validatorVotingPower": 1074465.6700000002,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 51945,
     "count": 1,
     "validatorVotingPower": 1056777.92,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 13737,
-    "count": 1,
-    "validatorVotingPower": 1045927.64,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 262287,
     "count": 3,
     "validatorVotingPower": 980274.21,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 0,
-    "count": 49,
-    "validatorVotingPower": 945509.3900000002,
+    "count": 50,
+    "validatorVotingPower": 964767.1500000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 20278,
     "count": 2,
     "validatorVotingPower": 885681.15,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 22439,
-    "count": 12,
-    "validatorVotingPower": 824980.5000000001,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 11404,
     "count": 1,
-    "validatorVotingPower": 823878.0,
+    "validatorVotingPower": 823877.98,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 22439,
+    "count": 11,
+    "validatorVotingPower": 740395.1600000001,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 29802,
-    "count": 14,
-    "validatorVotingPower": 801933.3800000001,
+    "count": 10,
+    "validatorVotingPower": 647882.2500000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 29182,
     "count": 8,
     "validatorVotingPower": 638897.6699999999,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 136787,
     "count": 1,
     "validatorVotingPower": 638126.85,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 55286,
     "count": 7,
     "validatorVotingPower": 625852.77,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 397086,
     "count": 7,
     "validatorVotingPower": 608810.8799999999,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 13830,
     "count": 7,
     "validatorVotingPower": 608329.7000000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 206264,
-    "count": 5,
-    "validatorVotingPower": 587879.6,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 34867,
     "count": 7,
     "validatorVotingPower": 584484.6799999999,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 212695,
     "count": 6,
     "validatorVotingPower": 511088.99999999994,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 3255,
     "count": 6,
     "validatorVotingPower": 506425.47,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
-    "asn": 58061,
-    "count": 10,
-    "validatorVotingPower": 477417.7700000001,
+    "asn": 206264,
+    "count": 5,
+    "validatorVotingPower": 436390.4,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 395201,
     "count": 1,
     "validatorVotingPower": 401514.8,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 15830,
     "count": 1,
     "validatorVotingPower": 383566.05,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 201730,
     "count": 1,
     "validatorVotingPower": 371472.32,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 58061,
+    "count": 7,
+    "validatorVotingPower": 355993.72000000003,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 41668,
     "count": 4,
     "validatorVotingPower": 342233.29000000004,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 35320,
     "count": 4,
     "validatorVotingPower": 340991.71,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 47447,
     "count": 1,
     "validatorVotingPower": 334168.4,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 396477,
     "count": 1,
     "validatorVotingPower": 300059.9,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 57043,
+    "count": 4,
+    "validatorVotingPower": 288605.56,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 174,
     "count": 1,
     "validatorVotingPower": 278034.72,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 50304,
     "count": 2,
     "validatorVotingPower": 261721.55000000002,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 59577,
     "count": 3,
     "validatorVotingPower": 260987.8,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 204770,
     "count": 4,
     "validatorVotingPower": 258901.39,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 41661,
     "count": 3,
     "validatorVotingPower": 251233.77000000002,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 3356,
     "count": 3,
     "validatorVotingPower": 235404.85,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 57043,
-    "count": 3,
-    "validatorVotingPower": 205330.07,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 57128,
     "count": 2,
     "validatorVotingPower": 200825.72,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 39927,
     "count": 3,
     "validatorVotingPower": 197997.34,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 47433,
     "count": 2,
     "validatorVotingPower": 194022.33000000002,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 41275,
     "count": 3,
-    "validatorVotingPower": 191592.4,
+    "validatorVotingPower": 191592.38999999998,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 2588,
-    "count": 2,
-    "validatorVotingPower": 182864.09,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 31229,
     "count": 2,
     "validatorVotingPower": 182638.24,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
-    "asn": 60781,
-    "count": 1,
-    "validatorVotingPower": 175270.87,
+    "asn": 200000,
+    "count": 3,
+    "validatorVotingPower": 179194.08,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 51167,
     "count": 2,
     "validatorVotingPower": 172152.88,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 55081,
     "count": 3,
     "validatorVotingPower": 171183.01,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 12389,
     "count": 3,
     "validatorVotingPower": 170561.97,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 57378,
-    "count": 2,
-    "validatorVotingPower": 170485.27000000002,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 397423,
     "count": 3,
     "validatorVotingPower": 161629.65,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 51604,
     "count": 2,
     "validatorVotingPower": 148585.57,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 33438,
     "count": 2,
     "validatorVotingPower": 138544.54,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 58010,
     "count": 1,
     "validatorVotingPower": 137376.25,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 212728,
     "count": 1,
     "validatorVotingPower": 134010.47,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 43773,
     "count": 2,
     "validatorVotingPower": 131073.63999999998,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 34123,
     "count": 2,
     "validatorVotingPower": 130085.69,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 25513,
     "count": 2,
     "validatorVotingPower": 126985.54000000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 197235,
     "count": 3,
     "validatorVotingPower": 120556.69,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 3900,
     "count": 1,
     "validatorVotingPower": 118067.27,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 12876,
     "count": 2,
     "validatorVotingPower": 116859.05,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 200000,
-    "count": 2,
-    "validatorVotingPower": 115493.05,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 61272,
     "count": 1,
     "validatorVotingPower": 106177.52,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 133296,
     "count": 1,
     "validatorVotingPower": 105602.56,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 40676,
     "count": 1,
     "validatorVotingPower": 104217.82,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 42989,
     "count": 2,
     "validatorVotingPower": 102323.93,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 211091,
     "count": 1,
     "validatorVotingPower": 97437.3,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 4766,
     "count": 2,
     "validatorVotingPower": 87022.94,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 47440,
     "count": 1,
     "validatorVotingPower": 86304.53,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 60251,
     "count": 1,
     "validatorVotingPower": 86120.63,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 395839,
     "count": 1,
     "validatorVotingPower": 86038.08,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 29076,
     "count": 1,
     "validatorVotingPower": 85935.6,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 42775,
     "count": 1,
     "validatorVotingPower": 85871.55,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 31148,
     "count": 1,
     "validatorVotingPower": 85768.94,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 35807,
     "count": 1,
     "validatorVotingPower": 85712.43,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 41786,
     "count": 1,
     "validatorVotingPower": 85175.19,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 49824,
     "count": 1,
     "validatorVotingPower": 84912.74,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 59713,
     "count": 2,
     "validatorVotingPower": 84237.20000000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 56655,
     "count": 1,
     "validatorVotingPower": 83273.59,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 53850,
+    "count": 2,
+    "validatorVotingPower": 82922.85,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 39351,
     "count": 1,
     "validatorVotingPower": 82428.06,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 56981,
     "count": 1,
     "validatorVotingPower": 79326.41,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 213220,
     "count": 1,
     "validatorVotingPower": 66288.17,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 24723,
     "count": 1,
     "validatorVotingPower": 65976.73,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 12668,
     "count": 2,
     "validatorVotingPower": 64691.9,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 22612,
-    "count": 1,
-    "validatorVotingPower": 63801.12,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 8334,
     "count": 1,
     "validatorVotingPower": 63693.21,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 50867,
     "count": 3,
     "validatorVotingPower": 57578.200000000004,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 42831,
     "count": 3,
     "validatorVotingPower": 56828.90000000001,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 8220,
     "count": 1,
     "validatorVotingPower": 47545.77,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 3215,
     "count": 1,
     "validatorVotingPower": 46943.59,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 44050,
     "count": 2,
     "validatorVotingPower": 45860.84,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 21859,
     "count": 1,
     "validatorVotingPower": 44810.57,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 17210,
     "count": 1,
     "validatorVotingPower": 43969.97,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 3216,
     "count": 2,
     "validatorVotingPower": 43716.07,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 15169,
     "count": 1,
     "validatorVotingPower": 40615.46,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
-    "asn": 398427,
-    "count": 1,
-    "validatorVotingPower": 39030.94,
+    "asn": 22612,
+    "count": 2,
+    "validatorVotingPower": 38442.41,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 53292,
     "count": 1,
     "validatorVotingPower": 37689.83,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 12969,
     "count": 1,
     "validatorVotingPower": 29843.86,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 48123,
+    "count": 1,
+    "validatorVotingPower": 25134.83,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 35810,
+    "count": 1,
+    "validatorVotingPower": 25113.92,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 34989,
     "count": 1,
     "validatorVotingPower": 24003.35,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 209,
     "count": 1,
     "validatorVotingPower": 22133.42,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
-  },
-  {
-    "asn": 53850,
-    "count": 1,
-    "validatorVotingPower": 19122.66,
-    "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 44066,
     "count": 1,
     "validatorVotingPower": 19061.41,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 57026,
     "count": 1,
     "validatorVotingPower": 19061.04,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 28832,
     "count": 1,
     "validatorVotingPower": 18521.55,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
+  },
+  {
+    "asn": 50340,
+    "count": 1,
+    "validatorVotingPower": 347.7,
+    "hosting_provider": "Unknown",
+    "timestamp": 1673175764
   },
   {
     "asn": 22773,
     "count": 1,
     "validatorVotingPower": 311.38,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 852,
     "count": 1,
     "validatorVotingPower": 289.21,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 9318,
     "count": 3,
     "validatorVotingPower": 202.99,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 3786,
     "count": 1,
     "validatorVotingPower": 102.41,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   },
   {
     "asn": 41536,
     "count": 1,
     "validatorVotingPower": 0.04,
     "hosting_provider": "Unknown",
-    "timestamp": 1673089343
+    "timestamp": 1673175764
   }
 ]

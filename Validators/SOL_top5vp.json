@@ -1,26 +1,26 @@
 [
     {
         "validatorName": "Coinbase Cloud",
-        "validatorVotingPower": 9244811.47,
-        "validatorVotingPowerProportion": 2.39,
+        "validatorVotingPower": 9244811.46,
+        "validatorVotingPowerProportion": 2.41,
         "rank": 1
     },
     {
         "validatorName": "Staking Facilities",
         "validatorVotingPower": 8160210.71,
-        "validatorVotingPowerProportion": 2.11,
+        "validatorVotingPowerProportion": 2.13,
         "rank": 2
     },
     {
         "validatorName": "binance staking",
         "validatorVotingPower": 6333259.61,
-        "validatorVotingPowerProportion": 1.64,
+        "validatorVotingPowerProportion": 1.65,
         "rank": 3
     },
     {
         "validatorName": "SOL Community",
         "validatorVotingPower": 5309109.07,
-        "validatorVotingPowerProportion": 1.37,
+        "validatorVotingPowerProportion": 1.38,
         "rank": 4
     },
     {
@@ -32,7 +32,7 @@
     {
         "validatorName": "Jump Crypto",
         "validatorVotingPower": 4953443.82,
-        "validatorVotingPowerProportion": 1.28,
+        "validatorVotingPowerProportion": 1.29,
         "rank": 6
     }
 ]
