@@ -17,7 +17,7 @@
     "totaldiff": 849,
     "totaldiffper": 0.17,
     "rank": 1,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -38,7 +38,7 @@
     "totaldiff": 3,
     "totaldiffper": 0.09,
     "rank": 2,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -59,7 +59,7 @@
     "totaldiff": -5,
     "totaldiffper": -0.16,
     "rank": 3,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -80,30 +80,30 @@
     "totaldiff": -42,
     "totaldiffper": -2.1,
     "rank": 4,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
     "name": "Avalanche",
     "symbol": "AVAX",
-    "timestamp": "2023-01-07 14:01:35",
-    "validators": 1176,
+    "timestamp": "2023-01-08 14:02:15",
+    "validators": 1177,
     "nodes": 0,
-    "total": 1176,
+    "total": 1177,
     "source": "https://avascan.info",
     "consensus_long": "Proof of Stake",
     "consensus_short": "PoS",
     "market_cap_rank": 20,
-    "market_cap": 3656150959,
-    "volume": 124737355,
+    "market_cap": 3687270907,
+    "volume": 97477147,
     "nodediff": 0,
     "nodediffper": 0,
-    "validatordiff": -6,
-    "validatordiffper": -0.51,
-    "totaldiff": -6,
-    "totaldiffper": -0.51,
+    "validatordiff": 1,
+    "validatordiffper": 0.09,
+    "totaldiff": 1,
+    "totaldiffper": 0.09,
     "rank": 5,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -124,7 +124,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 6,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -145,7 +145,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 7,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -166,7 +166,7 @@
     "totaldiff": -2,
     "totaldiffper": -0.49,
     "rank": 8,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -187,7 +187,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 9,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -208,7 +208,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 10,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -229,7 +229,7 @@
     "totaldiff": 1,
     "totaldiffper": 0.46,
     "rank": 11,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -250,7 +250,7 @@
     "totaldiff": 2,
     "totaldiffper": 1.0,
     "rank": 12,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -271,7 +271,7 @@
     "totaldiff": 19,
     "totaldiffper": 10.44,
     "rank": 13,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -292,7 +292,7 @@
     "totaldiff": -5,
     "totaldiffper": -2.48,
     "rank": 14,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -315,7 +315,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 15,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -336,7 +336,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 16,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -359,7 +359,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 17,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -380,7 +380,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 18,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -401,7 +401,7 @@
     "totaldiff": -1,
     "totaldiffper": -0.65,
     "rank": 19,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -422,7 +422,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 20,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -443,7 +443,7 @@
     "totaldiff": 1,
     "totaldiffper": 0.69,
     "rank": 21,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -464,7 +464,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 22,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -485,7 +485,7 @@
     "totaldiff": 1,
     "totaldiffper": 0.12,
     "rank": 23,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -506,7 +506,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 24,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -527,13 +527,13 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 25,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
     "name": "Cronos",
     "symbol": "CRO",
-    "timestamp": "2023-01-07 14:01:32",
+    "timestamp": "2023-01-08 14:02:05",
     "validators": 100,
     "nodes": 0,
     "total": 100,
@@ -541,8 +541,8 @@
     "consensus_long": "Byzantine Fault Tolerant",
     "consensus_short": "BFT",
     "market_cap_rank": 31,
-    "market_cap": 1549719978,
-    "volume": 11192973,
+    "market_cap": 1539353885,
+    "volume": 15391393,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -550,13 +550,13 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 26,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
     "name": "Casper",
     "symbol": "CSPR",
-    "timestamp": "2023-01-07 14:01:33",
+    "timestamp": "2023-01-08 14:02:12",
     "validators": 100,
     "nodes": 0,
     "total": 100,
@@ -564,8 +564,8 @@
     "consensus_long": "Proof of Stake",
     "consensus_short": "PoS",
     "market_cap_rank": 97,
-    "market_cap": 298760011,
-    "volume": 4166894,
+    "market_cap": 302077041,
+    "volume": 3751815,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -573,7 +573,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 27,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -594,7 +594,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 28,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -615,7 +615,7 @@
     "totaldiff": -3,
     "totaldiffper": -3.23,
     "rank": 29,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -636,7 +636,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 30,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -657,7 +657,7 @@
     "totaldiff": 1,
     "totaldiffper": 1.28,
     "rank": 31,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -678,7 +678,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 32,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -699,7 +699,7 @@
     "totaldiff": -1,
     "totaldiffper": -1.39,
     "rank": 33,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -720,7 +720,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 34,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -741,7 +741,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 35,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -764,7 +764,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 36,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -785,7 +785,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 37,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -806,7 +806,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 38,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -827,7 +827,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 39,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -848,7 +848,7 @@
     "totaldiff": 1,
     "totaldiffper": 2.56,
     "rank": 40,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -869,7 +869,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 41,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -890,7 +890,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 42,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -911,7 +911,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 43,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -932,20 +932,20 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 44,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
     "name": "EOS",
     "symbol": "EOS",
-    "timestamp": "2023-01-07 14:01:32",
+    "timestamp": "2023-01-08 14:02:07",
     "validators": 21,
     "nodes": 0,
     "total": 21,
     "source": "https://eosauthority.com",
     "market_cap_rank": 41,
-    "market_cap": 980427988,
-    "volume": 55596227,
+    "market_cap": 967864948,
+    "volume": 53785153,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -953,7 +953,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 45,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -974,7 +974,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 46,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -995,20 +995,20 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 47,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
     "name": "GoChain",
     "symbol": "GO",
-    "timestamp": "2023-01-07 14:01:36",
+    "timestamp": "2023-01-08 14:02:17",
     "validators": 19,
     "nodes": 0,
     "total": 19,
     "source": "https://explorer.gochain.io/signers?signers_tab=daily",
-    "market_cap_rank": 916,
-    "market_cap": 7951570,
-    "volume": 14403.62,
+    "market_cap_rank": 908,
+    "market_cap": 7975040,
+    "volume": 16958.32,
     "nodediff": 0,
     "nodediffper": 0,
     "validatordiff": 0,
@@ -1016,7 +1016,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 48,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -1037,7 +1037,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 49,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -1060,7 +1060,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 50,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -1081,7 +1081,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 51,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -1102,7 +1102,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 52,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -1123,7 +1123,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 53,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   },
   {
@@ -1146,7 +1146,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 54,
-    "created": "2023-01-08 10:06:10",
+    "created": "2023-01-08 14:02:36",
     "chaintype": "PoS"
   }
 ]
