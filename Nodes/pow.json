@@ -20,7 +20,7 @@
     "totaldiff": 27,
     "totaldiffper": 0.19,
     "rank": 1,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -41,7 +41,7 @@
     "totaldiff": -70,
     "totaldiffper": -0.89,
     "rank": 2,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -62,7 +62,7 @@
     "totaldiff": 7,
     "totaldiffper": 0.17,
     "rank": 3,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -83,7 +83,7 @@
     "totaldiff": -21,
     "totaldiffper": -0.87,
     "rank": 4,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -104,7 +104,7 @@
     "totaldiff": 69,
     "totaldiffper": 3.43,
     "rank": 5,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -125,7 +125,7 @@
     "totaldiff": -10,
     "totaldiffper": -0.99,
     "rank": 6,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -146,28 +146,28 @@
     "totaldiff": -20,
     "totaldiffper": -2.4,
     "rank": 7,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
     "name": "Ethereum Classic",
     "symbol": "ETC",
-    "timestamp": "2023-01-10 18:04:05",
+    "timestamp": "2023-01-11 18:05:08",
     "validators": 0,
-    "nodes": 735,
-    "total": 735,
+    "nodes": 741,
+    "total": 741,
     "source": "https://nodes.etc-network.info/nodes-interface/",
     "market_cap_rank": 27,
-    "market_cap": 2792566313,
-    "volume": 249988367,
-    "nodediff": -17,
-    "nodediffper": -2.26,
+    "market_cap": 2724064227,
+    "volume": 170996416,
+    "nodediff": 6,
+    "nodediffper": 0.82,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": -17,
-    "totaldiffper": -2.26,
+    "totaldiff": 6,
+    "totaldiffper": 0.82,
     "rank": 8,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -190,28 +190,28 @@
     "totaldiff": -10,
     "totaldiffper": -1.39,
     "rank": 9,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
     "name": "Internet Computer",
     "symbol": "ICP",
-    "timestamp": "2023-01-10 18:03:51",
+    "timestamp": "2023-01-11 18:04:53",
     "validators": 0,
-    "nodes": 549,
-    "total": 549,
+    "nodes": 548,
+    "total": 548,
     "source": "https://www.icpexplorer.org",
     "market_cap_rank": 38,
-    "market_cap": 1195638843,
-    "volume": 30564267,
-    "nodediff": 0,
-    "nodediffper": 0,
+    "market_cap": 1175675693,
+    "volume": 27523712,
+    "nodediff": -1,
+    "nodediffper": -0.18,
     "validatordiff": 0,
     "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0,
+    "totaldiff": -1,
+    "totaldiffper": -0.18,
     "rank": 10,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -232,7 +232,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 11,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -253,7 +253,7 @@
     "totaldiff": -5,
     "totaldiffper": -1.38,
     "rank": 12,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -274,7 +274,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 13,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -295,7 +295,7 @@
     "totaldiff": -1,
     "totaldiffper": -1.14,
     "rank": 14,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -316,7 +316,7 @@
     "totaldiff": -4,
     "totaldiffper": -4.82,
     "rank": 15,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -337,7 +337,7 @@
     "totaldiff": 1,
     "totaldiffper": 1.35,
     "rank": 16,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -358,7 +358,7 @@
     "totaldiff": 6,
     "totaldiffper": 11.76,
     "rank": 17,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -379,7 +379,7 @@
     "totaldiff": 2,
     "totaldiffper": 4.0,
     "rank": 18,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -400,7 +400,7 @@
     "totaldiff": 2,
     "totaldiffper": 6.45,
     "rank": 19,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -421,7 +421,7 @@
     "totaldiff": 2,
     "totaldiffper": 10.0,
     "rank": 20,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -442,7 +442,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 21,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -465,7 +465,28 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 22,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
+    "chaintype": "PoW"
+  },
+  {
+    "name": "Flux",
+    "symbol": "FLUX",
+    "timestamp": "2023-01-11 18:04:57",
+    "validators": 0,
+    "nodes": 16,
+    "total": 16,
+    "source": "https://explorer.runonflux.io/network",
+    "market_cap_rank": 171,
+    "market_cap": 149024887,
+    "volume": 3708212,
+    "nodediff": 0,
+    "nodediffper": 0,
+    "validatordiff": 0,
+    "validatordiffper": 0,
+    "totaldiff": 0,
+    "totaldiffper": 0,
+    "rank": 23,
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -485,29 +506,8 @@
     "validatordiffper": 0,
     "totaldiff": 0,
     "totaldiffper": 0,
-    "rank": 23,
-    "created": "2023-01-11 14:02:30",
-    "chaintype": "PoW"
-  },
-  {
-    "name": "Flux",
-    "symbol": "FLUX",
-    "timestamp": "2023-01-10 18:03:54",
-    "validators": 0,
-    "nodes": 16,
-    "total": 16,
-    "source": "https://explorer.runonflux.io/network",
-    "market_cap_rank": 173,
-    "market_cap": 152041756,
-    "volume": 4276804,
-    "nodediff": 0,
-    "nodediffper": 0,
-    "validatordiff": 0,
-    "validatordiffper": 0,
-    "totaldiff": 0,
-    "totaldiffper": 0,
     "rank": 24,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -528,7 +528,7 @@
     "totaldiff": -1,
     "totaldiffper": -6.67,
     "rank": 25,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -549,7 +549,7 @@
     "totaldiff": 0,
     "totaldiffper": 0,
     "rank": 26,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   },
   {
@@ -572,7 +572,7 @@
     "totaldiff": -1,
     "totaldiffper": -9.09,
     "rank": 27,
-    "created": "2023-01-11 14:02:30",
+    "created": "2023-01-11 18:05:10",
     "chaintype": "PoW"
   }
 ]
