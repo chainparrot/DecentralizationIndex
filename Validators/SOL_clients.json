@@ -1,65 +1,65 @@
 [
     {
         "version": "1.13.5",
-        "total": 2011,
-        "percentage": 80.44,
+        "total": 2025,
+        "percentage": 80.74,
         "rank": 1,
-        "timestamp": 1673434953
+        "timestamp": 1673521385
     },
     {
         "version": "Unknown",
-        "total": 389,
-        "percentage": 15.56,
+        "total": 378,
+        "percentage": 15.07,
         "rank": 2,
-        "timestamp": 1673434953
+        "timestamp": 1673521385
     },
     {
         "version": "1.13.3",
-        "total": 53,
-        "percentage": 2.12,
+        "total": 52,
+        "percentage": 2.07,
         "rank": 3,
-        "timestamp": 1673434953
+        "timestamp": 1673521385
     },
     {
         "version": "1.13.4",
-        "total": 35,
-        "percentage": 1.4,
+        "total": 34,
+        "percentage": 1.36,
         "rank": 4,
-        "timestamp": 1673434953
-    },
-    {
-        "version": "1.13.6",
-        "total": 4,
-        "percentage": 0.16,
-        "rank": 5,
-        "timestamp": 1673434953
-    },
-    {
-        "version": "1.14.10",
-        "total": 3,
-        "percentage": 0.12,
-        "rank": 6,
-        "timestamp": 1673434953
-    },
-    {
-        "version": "1.14.11",
-        "total": 3,
-        "percentage": 0.12,
-        "rank": 7,
-        "timestamp": 1673434953
+        "timestamp": 1673521385
     },
     {
         "version": "1.14.12",
-        "total": 1,
-        "percentage": 0.04,
+        "total": 7,
+        "percentage": 0.28,
+        "rank": 5,
+        "timestamp": 1673521385
+    },
+    {
+        "version": "1.13.6",
+        "total": 5,
+        "percentage": 0.2,
+        "rank": 6,
+        "timestamp": 1673521385
+    },
+    {
+        "version": "1.14.10",
+        "total": 4,
+        "percentage": 0.16,
+        "rank": 7,
+        "timestamp": 1673521385
+    },
+    {
+        "version": "1.14.11",
+        "total": 2,
+        "percentage": 0.08,
         "rank": 8,
-        "timestamp": 1673434953
+        "timestamp": 1673521385
     },
     {
         "version": "1.13.1",
         "total": 1,
         "percentage": 0.04,
         "rank": 9,
-        "timestamp": 1673434953
+        "timestamp": 1673521385
     }
 ]

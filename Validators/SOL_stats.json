@@ -1,11 +1,11 @@
 {
-    "totalVotingPower": 386950373.13000023,
-    "totalVotingPowerUSD": 6198944977.542606,
-    "totalValidatorCount": 2045,
-    "timestamp": 1673434953,
+    "totalVotingPower": 386294955.19000024,
+    "totalVotingPowerUSD": 6200034030.79952,
+    "totalValidatorCount": 2067,
+    "timestamp": 1673521386,
     "number1ValidatorName": "Coinbase Cloud",
-    "number1ValidatorVotingPowerProportion": 2.36,
-    "delinquentcount": 629,
-    "unweightSkipRateRatio": 23.989949551463795,
-    "weightSkipRateRatio": 9.595946570332371
+    "number1ValidatorVotingPowerProportion": 2.52,
+    "delinquentcount": 621,
+    "unweightSkipRateRatio": 21.694363518628954,
+    "weightSkipRateRatio": 8.551694375084871
 }
